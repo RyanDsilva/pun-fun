@@ -18,18 +18,26 @@ def run(sentence):
     pos = find_source_pos(src, sent)
     src_sense = find_synset(src)
     pred_sense = find_synset(pred)
+    sense_sim = None
     if src_sense is not None and pred_sense is not None:
       print("Definitions")
       print(f"{src}: {src_sense.definition()}")
       print(f"{pred}: {pred_sense.definition()}")
-      print("===========================================")
+      print("=" * 50)
       sense_sim = find_sense_similarity(src_sense, pred_sense)
       print(f"Sense similarity between {src} and {pred} is {sense_sim}")
     sound_sim = get_sound_similarity(src, pred)
     if sound_sim is not None:
       print(f"Sound similarity between {src} and {pred} is {sound_sim}")
-    print("=============================================")
-    return source_word, src_sense.definition(), pred, pred_sense.definition(), sense_sim, sound_sim
+    print("=" * 50)
+    if sense_sim is not None and sound_sim is not None:
+      return source_word, src_sense.definition(), pred, pred_sense.definition(), sense_sim, sound_sim
+    elif sense_sim is None and sound_sim is not None:
+      return source_word, 'No definition available', pred, 'No definition available', 'NA', sound_sim
+    elif sense_sim is not None and sound_sim is None:
+      return source_word, src_sense.definition(), pred, pred_sense.definition(), sense_sim, 'NA'
+    else:
+      return source_word, 'No definition available' , pred, 'No definition available', 'NA', 'NA'
 
 if __name__ == "__main__":
   setup()
@@ -49,5 +57,5 @@ if __name__ == "__main__":
       gr.Textbox(label='Sound Similarity'),
     ],
   )
-  app.launch()
+  app.launch(share=True)
 

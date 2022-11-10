@@ -17,4 +17,25 @@ pipenv install
 python3 main.py
 ```
 
+> If you change any code in the submodules, you need to run `pipenv install` for the changes to reflect
+
 ### Example Outputs
+
+```md
+Sentence:  He didn't attend the funeral because he was not a mourning person
+Source word:  mourning
+Predicted target:  morning
+Predicted sentence:  He didn't attend the funeral because he was not a morning person
+
+======================================================================================
+
+**Definitions**
+
+mourning: state of sorrow over the death or departure of a loved one
+morning: the time period between dawn and noon
+
+======================================================================================
+
+Sense similarity between mourning and morning is 0.07692307692307693
+Sound similarity between mourning and morning is 100
+```
