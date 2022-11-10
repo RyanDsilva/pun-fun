@@ -18,6 +18,7 @@ sense-similarity = {path = "./sense_similarity"}
 source-identification = {path = "./source_identification"}
 target-identification = {path = "./target_identification"}
 datasets = "*"
+gradio = "*"
 
 [dev-packages]
 
