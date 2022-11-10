@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+phonetics = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
+nltk = "*"
+transformers = "*"
+sentence-transformers = "*"
+numpy = "*"
+torch = "*"
+tqdm = "*"
+sound-similarity = {path = "./sound_similarity"}
+sense-similarity = {path = "./sense_similarity"}
+source-identification = {path = "./source_identification"}
+target-identification = {path = "./target_identification"}
+datasets = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.7"
+
+[pipenv]
+allow_prereleases = true
