@@ -1,31 +1,37 @@
-# CNIT 519 Project 2
+# CNIT 519 Project
 
 ### Setup
+
 - Have Python 3.10 and pipenv install
 
 1. Create virtual environment
+
 ```sh
 pipenv --python 3.10
 ```
+
 2. Activate virtual environment
 3. Install dependencies
+
 ```sh
 pipenv install
 ```
+
 4. Run project
+
 ```sh
 python3 main.py
 ```
 
 > If you change any code in the submodules, you need to run `pipenv install` for the changes to reflect
 
-### Example Outputs
+### Example Outputs (Project 2)
 
 ```md
-Sentence:  He didn't attend the funeral because he was not a mourning person
-Source word:  mourning
-Predicted target:  morning
-Predicted sentence:  He didn't attend the funeral because he was not a morning person
+Sentence: He didn't attend the funeral because he was not a mourning person
+Source word: mourning
+Predicted target: morning
+Predicted sentence: He didn't attend the funeral because he was not a morning person
 
 ======================================================================================
 

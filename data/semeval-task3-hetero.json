@@ -1,0 +1,6585 @@
+[
+  {
+    "sentence": "' ' I ' m halfway up a mountain , ' ' Tom alleged .",
+    "src": "alleged",
+    "src_root": "allege",
+    "tgt_root": "ledge"
+  },
+  {
+    "sentence": "I ' d like to be a Chinese laborer , said Tom coolly .",
+    "src": "coolly",
+    "src_root": "coolly",
+    "tgt_root": "cooly"
+  },
+  {
+    "sentence": "Dentists don ' t like a hard day at the orifice .",
+    "src": "orifice",
+    "src_root": "orifice",
+    "tgt_root": "office"
+  },
+  {
+    "sentence": "Are evil wildebeests bad gnus ?",
+    "src": "gnus",
+    "src_root": "gnu",
+    "tgt_root": "news"
+  },
+  {
+    "sentence": "A busy barber is quite harried .",
+    "src": "harried",
+    "src_root": "harried",
+    "tgt_root": "hairy"
+  },
+  {
+    "sentence": "Two construction workers had a stairing contest .",
+    "src": "stairing",
+    "src_root": "stair",
+    "tgt_root": "stare"
+  },
+  {
+    "sentence": "It ' s between my sole and my heel , said Tom archly .",
+    "src": "archly",
+    "src_root": "archly",
+    "tgt_root": "arch"
+  },
+  {
+    "sentence": "OLD ELECTRICIANS never die , they just do it until it Hz .",
+    "src": "Hz",
+    "src_root": "hertz",
+    "tgt_root": "hurt"
+  },
+  {
+    "sentence": "Yesterday I accidentally swallowed some food coloring . The doctor says I ' m OK , but I feel like I ' ve dyed a little inside .",
+    "src": "dyed",
+    "src_root": "dye",
+    "tgt_root": "die"
+  },
+  {
+    "sentence": "Follow your knows .",
+    "src": "knows",
+    "src_root": "know",
+    "tgt_root": "nose"
+  },
+  {
+    "sentence": "A china doll was marked in tiny letters : ' maid in USA ' .",
+    "src": "maid",
+    "src_root": "maid",
+    "tgt_root": "made"
+  },
+  {
+    "sentence": "I deny everything , said Tom knowingly .",
+    "src": "knowingly",
+    "src_root": "knowingly",
+    "tgt_root": "no"
+  },
+  {
+    "sentence": "The key to changing your performance ability is by tuning out criticism and staying musically octave .",
+    "src": "octave",
+    "src_root": "octave",
+    "tgt_root": "active"
+  },
+  {
+    "sentence": "' ' I ' ve stuck a pin through my nose , ' ' said Tom punctually .",
+    "src": "punctually",
+    "src_root": "punctually",
+    "tgt_root": "puncture"
+  },
+  {
+    "sentence": "We welcome you with open psalms .",
+    "src": "psalms",
+    "src_root": "psalm",
+    "tgt_root": "arm"
+  },
+  {
+    "sentence": "Diets are for people who are thick and tired of it all .",
+    "src": "thick",
+    "src_root": "thick",
+    "tgt_root": "sick"
+  },
+  {
+    "sentence": "The cobbler was asked how many shoes he had soled by a well",
+    "src": "soled",
+    "src_root": "sole",
+    "tgt_root": "sell"
+  },
+  {
+    "sentence": "They won ' t stay at friendly hotels , because they ' re hostel people .",
+    "src": "hostel",
+    "src_root": "hostel",
+    "tgt_root": "hostile"
+  },
+  {
+    "sentence": "Let ' s all play an A , a C sharp , and an E , cried Tom ' s band with one accord .",
+    "src": "accord",
+    "src_root": "accord",
+    "tgt_root": "chord"
+  },
+  {
+    "sentence": "The young pine sapling was admonished by his father . Apparently he ' d been knotty .",
+    "src": "knotty",
+    "src_root": "knotty",
+    "tgt_root": "naughty"
+  },
+  {
+    "sentence": "The doctors had to remove a bone from my arm , said Tom humorlessly .",
+    "src": "humorlessly",
+    "src_root": "humorlessly",
+    "tgt_root": "humerus"
+  },
+  {
+    "sentence": "I ' ve been to a film festival in the South of France , said Tom cannily .",
+    "src": "cannily",
+    "src_root": "cannily",
+    "tgt_root": "cannes"
+  },
+  {
+    "sentence": "A music store was robbed . The thief made away with the lute .",
+    "src": "lute",
+    "src_root": "lute",
+    "tgt_root": "loot"
+  },
+  {
+    "sentence": "He threw jello at his wife , who had him arrested for carrying a congealed weapon .",
+    "src": "congealed",
+    "src_root": "congealed",
+    "tgt_root": "concealed"
+  },
+  {
+    "sentence": "' ' Be still my hart ' ' she murmured , thinking how magnificent and stag - like he was .",
+    "src": "hart",
+    "src_root": "hart",
+    "tgt_root": "heart"
+  },
+  {
+    "sentence": "His wife left him saying she was going home to mutter .",
+    "src": "mutter",
+    "src_root": "mutter",
+    "tgt_root": "mother"
+  },
+  {
+    "sentence": "Yesterday a cow saved my life - it was bovine intervention .",
+    "src": "bovine",
+    "src_root": "bovine",
+    "tgt_root": "divine"
+  },
+  {
+    "sentence": "Fashion is something that goes in one era and out the other .",
+    "src": "era",
+    "src_root": "era",
+    "tgt_root": "ear"
+  },
+  {
+    "sentence": "What kind of flooring do alligator hunters use ? Reptiles !",
+    "src": "Reptiles",
+    "src_root": "reptile",
+    "tgt_root": "tile"
+  },
+  {
+    "sentence": "The ultimate liquid measure is the supreme quart .",
+    "src": "quart",
+    "src_root": "quart",
+    "tgt_root": "court"
+  },
+  {
+    "sentence": "When his clothes dryer broke he was lint another one .",
+    "src": "lint",
+    "src_root": "lint",
+    "tgt_root": "lend"
+  },
+  {
+    "sentence": "Cows make noise only when they ' re in the mood .",
+    "src": "mood",
+    "src_root": "mood",
+    "tgt_root": "moo"
+  },
+  {
+    "sentence": "When asked by a Health Department official to describe the mess he saw on the slaughterhouse floor , the USDA inspector replied , ' ' It was just offal . ' '",
+    "src": "offal",
+    "src_root": "offal",
+    "tgt_root": "awful"
+  },
+  {
+    "sentence": "After burning a batch of cookies a baker felt very crummy .",
+    "src": "crummy",
+    "src_root": "crummy",
+    "tgt_root": "crumb"
+  },
+  {
+    "sentence": "The boating store had its best sail ever .",
+    "src": "sail",
+    "src_root": "sail",
+    "tgt_root": "sale"
+  },
+  {
+    "sentence": "When asked to picture the perfect modern defensive weapon the Claymore springs to mine .",
+    "src": "mine",
+    "src_root": "mine",
+    "tgt_root": "mind"
+  },
+  {
+    "sentence": "When it got stuck in the mud my car had to be toad .",
+    "src": "toad",
+    "src_root": "toad",
+    "tgt_root": "tow"
+  },
+  {
+    "sentence": "When my camera fell in the toffee I was making , I got a very candied picture .",
+    "src": "candied",
+    "src_root": "candied",
+    "tgt_root": "candid"
+  },
+  {
+    "sentence": "She wanted the large estate quite badly but , she dared not mansion it to her frugal husband .",
+    "src": "mansion",
+    "src_root": "mansion",
+    "tgt_root": "mention"
+  },
+  {
+    "sentence": "' ' I ' ve been listening to the Brandenburg Concertos , ' ' Tom barked .",
+    "src": "barked",
+    "src_root": "bark",
+    "tgt_root": "bach"
+  },
+  {
+    "sentence": "By yourself you ' re in the right . In a group you ' re in the throng .",
+    "src": "throng",
+    "src_root": "throng",
+    "tgt_root": "wrong"
+  },
+  {
+    "sentence": "When the glassblower inhaled he got a pane in the stomach .",
+    "src": "pane",
+    "src_root": "pane",
+    "tgt_root": "pain"
+  },
+  {
+    "sentence": "If gophers become extinct , the hole ecosystem will die .",
+    "src": "hole",
+    "src_root": "hole",
+    "tgt_root": "whole"
+  },
+  {
+    "sentence": "' ' I can see through the window , ' ' said Tom stiltedly .",
+    "src": "stiltedly",
+    "src_root": "stiltedly",
+    "tgt_root": "stilt"
+  },
+  {
+    "sentence": "When I went to the International Club , I accidentally spilled coffee on a Hindu lady ' s dress . I told her I was very sari .",
+    "src": "sari",
+    "src_root": "sari",
+    "tgt_root": "sorry"
+  },
+  {
+    "sentence": "The Net - surfing bandits always ended an operation by clearing out the cash .",
+    "src": "cash",
+    "src_root": "cash",
+    "tgt_root": "cache"
+  },
+  {
+    "sentence": "Leftover spaghetti is pasta its prime .",
+    "src": "pasta",
+    "src_root": "pasta",
+    "tgt_root": "past"
+  },
+  {
+    "sentence": "' ' This food tastes of plutonium , ' ' said Tom glowingly .",
+    "src": "glowingly",
+    "src_root": "glowingly",
+    "tgt_root": "glow"
+  },
+  {
+    "sentence": "' ' Would you like some soda ? ' ' asked Tom caustically .",
+    "src": "caustically",
+    "src_root": "caustically",
+    "tgt_root": "caustic"
+  },
+  {
+    "sentence": "When the florist was running behind in delivering the roses , he had to put the petal to the metal .",
+    "src": "petal",
+    "src_root": "petal",
+    "tgt_root": "pedal"
+  },
+  {
+    "sentence": "Children can do some knotty things with string .",
+    "src": "knotty",
+    "src_root": "knotty",
+    "tgt_root": "naughty"
+  },
+  {
+    "sentence": "A waterbed may just be the vinyl resting place .",
+    "src": "vinyl",
+    "src_root": "vinyl",
+    "tgt_root": "final"
+  },
+  {
+    "sentence": "A cross between a puppy and a bunny is a rabid dog .",
+    "src": "rabid",
+    "src_root": "rabid",
+    "tgt_root": "rabbit"
+  },
+  {
+    "sentence": "The sign on the nudist camp said , ' Clothed ' til May ' .",
+    "src": "Clothed",
+    "src_root": "clothed",
+    "tgt_root": "close"
+  },
+  {
+    "sentence": "To kill a circus in one blow , go for the juggler .",
+    "src": "juggler",
+    "src_root": "juggler",
+    "tgt_root": "jugular"
+  },
+  {
+    "sentence": "I love cats , Tom mused .",
+    "src": "mused",
+    "src_root": "muse",
+    "tgt_root": "meow"
+  },
+  {
+    "sentence": "OLD BUTCHERS never die , they only meat their fate .",
+    "src": "meat",
+    "src_root": "meat",
+    "tgt_root": "meet"
+  },
+  {
+    "sentence": "The inventor of chewing gum soon bubbled his money .",
+    "src": "bubbled",
+    "src_root": "bubble",
+    "tgt_root": "double"
+  },
+  {
+    "sentence": "A young corporal dislocated his arm during a battle but kept going . You could say he was shouldering on .",
+    "src": "shouldering",
+    "src_root": "shoulder",
+    "tgt_root": "soldier"
+  },
+  {
+    "sentence": "The manufacturing of t - shirts has really cotton .",
+    "src": "cotton",
+    "src_root": "cotton",
+    "tgt_root": "catch_on"
+  },
+  {
+    "sentence": "When the crop was destroyed , there was no more cranberry source .",
+    "src": "source",
+    "src_root": "source",
+    "tgt_root": "sauce"
+  },
+  {
+    "sentence": "I phoned the zoo but the lion was busy .",
+    "src": "lion",
+    "src_root": "lion",
+    "tgt_root": "line"
+  },
+  {
+    "sentence": "' ' Boy , that ' s a bright star , ' ' said Tom seriously .",
+    "src": "seriously",
+    "src_root": "seriously",
+    "tgt_root": "sirius"
+  },
+  {
+    "sentence": "The postmen get together for mail bonding .",
+    "src": "mail",
+    "src_root": "mail",
+    "tgt_root": "male"
+  },
+  {
+    "sentence": "Authors can be very PENsive .",
+    "src": "PENsive",
+    "src_root": "pensive",
+    "tgt_root": "pen"
+  },
+  {
+    "sentence": "Neuter your dog - an ounce of prevention is better than a pound of curs .",
+    "src": "curs",
+    "src_root": "cur",
+    "tgt_root": "cure"
+  },
+  {
+    "sentence": "Giving praise is when you let off esteem .",
+    "src": "esteem",
+    "src_root": "esteem",
+    "tgt_root": "steam"
+  },
+  {
+    "sentence": "' ' Now I can do some painting , ' ' said Tom easily .",
+    "src": "easily",
+    "src_root": "easily",
+    "tgt_root": "easel"
+  },
+  {
+    "sentence": "People who like gold paint have a gilt complex .",
+    "src": "gilt",
+    "src_root": "gilt",
+    "tgt_root": "guilt"
+  },
+  {
+    "sentence": "The bald man decided to consider a hair transplant to rogaine his confidence in looking younger .",
+    "src": "rogaine",
+    "src_root": "rogaine",
+    "tgt_root": "regain"
+  },
+  {
+    "sentence": "The self - conscious shipbuilder tried to recruit extremely sycophantic sailors to compliment her newly designed destroyer .",
+    "src": "compliment",
+    "src_root": "compliment",
+    "tgt_root": "complement"
+  },
+  {
+    "sentence": "The obese editor started a weight redaction program .",
+    "src": "redaction",
+    "src_root": "redaction",
+    "tgt_root": "reduction"
+  },
+  {
+    "sentence": "An optometrist told his patient : ' It appears your vision is improving ! ' ' Really ? ' replied the patient . ' Must be the luck of the iris . '",
+    "src": "iris",
+    "src_root": "iris",
+    "tgt_root": "irish"
+  },
+  {
+    "sentence": "In the dark ? Follow the son .",
+    "src": "son",
+    "src_root": "son",
+    "tgt_root": "sun"
+  },
+  {
+    "sentence": "As to how to play snooker , some people don ' t have a cue .",
+    "src": "cue",
+    "src_root": "cue",
+    "tgt_root": "clue"
+  },
+  {
+    "sentence": "A parade of horses went down Mane street .",
+    "src": "Mane",
+    "src_root": "mane",
+    "tgt_root": "main"
+  },
+  {
+    "sentence": "I used to do rock climbing as a youth , but I was much boulder back then .",
+    "src": "boulder",
+    "src_root": "boulder",
+    "tgt_root": "bold"
+  },
+  {
+    "sentence": "Dateline London : Eccentric ornithologist travels to foreign land to teach pigeon English .",
+    "src": "pigeon",
+    "src_root": "pigeon",
+    "tgt_root": "pidgin"
+  },
+  {
+    "sentence": "Some childen are often on their pest behavior .",
+    "src": "pest",
+    "src_root": "pest",
+    "tgt_root": "best"
+  },
+  {
+    "sentence": "When gossip finally led to the landlady ' s arrest for murdering her tenants and scattering parts of their bodies around town , her only comment was , ' ' Well , that ' s what comes of spreading roomers . ' '",
+    "src": "roomers",
+    "src_root": "roomer",
+    "tgt_root": "rumor"
+  },
+  {
+    "sentence": "I ' ll never give up my hounds ! Tom said doggedly .",
+    "src": "doggedly",
+    "src_root": "doggedly",
+    "tgt_root": "dog"
+  },
+  {
+    "sentence": "Someone once accused me of stealing an old , rare , valuable stamp , and I philately denied it .",
+    "src": "philately",
+    "src_root": "philately",
+    "tgt_root": "flatly"
+  },
+  {
+    "sentence": "To learn rope tricks you have to be taut .",
+    "src": "taut",
+    "src_root": "taut",
+    "tgt_root": "teach"
+  },
+  {
+    "sentence": "For the woman who wore size 13 , finding shoes that fit was no small feat .",
+    "src": "feat",
+    "src_root": "feat",
+    "tgt_root": "foot"
+  },
+  {
+    "sentence": "When I phoned my friend yesterday we mainly talked about the weather and our upcomimg exams , and we both agreed that the poring was sickening .",
+    "src": "poring",
+    "src_root": "pore",
+    "tgt_root": "pour"
+  },
+  {
+    "sentence": "Have you ever read the Rime of the Ancient Gardener ? It was written by Samuel Taylor Foliage .",
+    "src": "Foliage",
+    "src_root": "foliage",
+    "tgt_root": "coleridge"
+  },
+  {
+    "sentence": "It ' s amazing what two or more sinners can achieve together with synergy .",
+    "src": "synergy",
+    "src_root": "synergy",
+    "tgt_root": "sin"
+  },
+  {
+    "sentence": "Some mathematicians are reluctant to cosine a loan .",
+    "src": "cosine",
+    "src_root": "cosine",
+    "tgt_root": "cosign"
+  },
+  {
+    "sentence": "A drummer can cymbalize the enthusiasm of a band .",
+    "src": "cymbalize",
+    "src_root": "cymbal",
+    "tgt_root": "symbolize"
+  },
+  {
+    "sentence": "' ' I have to keep this fire alight , ' ' Tom bellowed .",
+    "src": "bellowed",
+    "src_root": "bellow",
+    "tgt_root": "bellows"
+  },
+  {
+    "sentence": "A cook made pancakes flippantly .",
+    "src": "flippantly",
+    "src_root": "flippantly",
+    "tgt_root": "flip"
+  },
+  {
+    "sentence": "Nice looking glass ! said Tom reflectively .",
+    "src": "reflectively",
+    "src_root": "reflectively",
+    "tgt_root": "reflect"
+  },
+  {
+    "sentence": "What keeps a dock floating above water ? Pier pressure .",
+    "src": "Pier",
+    "src_root": "pier",
+    "tgt_root": "peer"
+  },
+  {
+    "sentence": "Legends tell us that a weakness of the carnivorous vampire is a steak .",
+    "src": "steak",
+    "src_root": "steak",
+    "tgt_root": "stake"
+  },
+  {
+    "sentence": "There ' s nothing to stop me putting things in tins , said Tom cannily .",
+    "src": "cannily",
+    "src_root": "cannily",
+    "tgt_root": "can"
+  },
+  {
+    "sentence": "The pistol of a flower is its only protections against insects .",
+    "src": "pistol",
+    "src_root": "pistol",
+    "tgt_root": "pistil"
+  },
+  {
+    "sentence": "Psychiatrists like Kentucky Freud Chicken .",
+    "src": "Freud",
+    "src_root": "freud",
+    "tgt_root": "fried"
+  },
+  {
+    "sentence": "I hate sweet potatoes , Tom yammered .",
+    "src": "yammered",
+    "src_root": "yammer",
+    "tgt_root": "yam"
+  },
+  {
+    "sentence": "The workers at that inn are very unfriendly . They create a hostel environment .",
+    "src": "hostel",
+    "src_root": "hostel",
+    "tgt_root": "hostile"
+  },
+  {
+    "sentence": "Hotel owners usually have suite dreams .",
+    "src": "suite",
+    "src_root": "suite",
+    "tgt_root": "sweet"
+  },
+  {
+    "sentence": "The telemarketer asked me if I read magazines at all and I replied that I did , periodically .",
+    "src": "periodically",
+    "src_root": "periodically",
+    "tgt_root": "periodical"
+  },
+  {
+    "sentence": "When the proposal was made to locate the governor ' s mansion in Albany , New Yorkers said , ' ' That ' s a capitol idea . ' '",
+    "src": "capitol",
+    "src_root": "capitol",
+    "tgt_root": "capital"
+  },
+  {
+    "sentence": "She became an art dealer because she wanted more Monet .",
+    "src": "Monet",
+    "src_root": "monet",
+    "tgt_root": "money"
+  },
+  {
+    "sentence": "The corner of Ninth and Broad attracts a lot of the homeless because of its reputation for having a grate area for sleeping",
+    "src": "grate",
+    "src_root": "grate",
+    "tgt_root": "great"
+  },
+  {
+    "sentence": "7 days without prayer makes 1 weak",
+    "src": "weak",
+    "src_root": "weak",
+    "tgt_root": "week"
+  },
+  {
+    "sentence": "You should never take rocks for granite .",
+    "src": "granite",
+    "src_root": "granite",
+    "tgt_root": "granted"
+  },
+  {
+    "sentence": "' ' If I let go of the ceiling it will collapse , ' ' Tom upheld .",
+    "src": "upheld",
+    "src_root": "uphold",
+    "tgt_root": "hold_up"
+  },
+  {
+    "sentence": "' ' For what we are about to receive , may the Lord make us truly thankful , ' ' said Tom gracefully .",
+    "src": "gracefully",
+    "src_root": "gracefully",
+    "tgt_root": "grace"
+  },
+  {
+    "sentence": "Before the golfer finished drinking the iced , brewed beverage he dropped his tee on the cart path .",
+    "src": "tee",
+    "src_root": "tee",
+    "tgt_root": "tea"
+  },
+  {
+    "sentence": "He avoided funerals because he was not a mourning person .",
+    "src": "mourning",
+    "src_root": "mourning",
+    "tgt_root": "morning"
+  },
+  {
+    "sentence": "They say curiosity killed the cat , and they weren ' t kitten .",
+    "src": "kitten",
+    "src_root": "kitten",
+    "tgt_root": "kid"
+  },
+  {
+    "sentence": "During a recent trip to Qatar , Bill Clinton went to McDonald ' s and ordered fries with a sheik .",
+    "src": "sheik",
+    "src_root": "sheik",
+    "tgt_root": "shake"
+  },
+  {
+    "sentence": "' ' I swallowed some of the glass from that broken window , ' ' Tom said painfully .",
+    "src": "painfully",
+    "src_root": "painfully",
+    "tgt_root": "pane"
+  },
+  {
+    "sentence": "A farmer wanting to kill a chicken for dinner has to move faster than a speeding pullet .",
+    "src": "pullet",
+    "src_root": "pullet",
+    "tgt_root": "bullet"
+  },
+  {
+    "sentence": "OLD CHEMISTS never die , they just lose their refluxes .",
+    "src": "refluxes",
+    "src_root": "reflux",
+    "tgt_root": "reflex"
+  },
+  {
+    "sentence": "There is nothing worse for a performer than an audience of drunks and their boos .",
+    "src": "boos",
+    "src_root": "boo",
+    "tgt_root": "booze"
+  },
+  {
+    "sentence": "Truckers like houses with long haulways .",
+    "src": "haulways",
+    "src_root": "haul",
+    "tgt_root": "hallway"
+  },
+  {
+    "sentence": "' ' The sun is rising , ' ' Tom mourned .",
+    "src": "mourned",
+    "src_root": "mourn",
+    "tgt_root": "morn"
+  },
+  {
+    "sentence": "A politician who had been an astronomer was always saying ' no comet ' .",
+    "src": "comet",
+    "src_root": "comet",
+    "tgt_root": "comment"
+  },
+  {
+    "sentence": "Come in and get a peace of the rock",
+    "src": "peace",
+    "src_root": "peace",
+    "tgt_root": "piece"
+  },
+  {
+    "sentence": "' ' I know what herb would taste nice with this , ' ' said Tom sagely .",
+    "src": "sagely",
+    "src_root": "sagely",
+    "tgt_root": "sage"
+  },
+  {
+    "sentence": "An heir is someone with a descent wage .",
+    "src": "descent",
+    "src_root": "descent",
+    "tgt_root": "decent"
+  },
+  {
+    "sentence": "The shy stripper couldn ' t bare it on stage .",
+    "src": "bare",
+    "src_root": "bare",
+    "tgt_root": "bear"
+  },
+  {
+    "sentence": "Those who have icicles keep a stiff upper drip .",
+    "src": "drip",
+    "src_root": "drip",
+    "tgt_root": "lip"
+  },
+  {
+    "sentence": "I learned that the antelopes were coming when I heard the gnus .",
+    "src": "gnus",
+    "src_root": "gnu",
+    "tgt_root": "news"
+  },
+  {
+    "sentence": "A paramedic got a new job as a chauffeur : an ambiance driver .",
+    "src": "ambiance",
+    "src_root": "ambiance",
+    "tgt_root": "ambulance"
+  },
+  {
+    "sentence": "Two cheerleaders got married after they met by chants .",
+    "src": "chants",
+    "src_root": "chant",
+    "tgt_root": "chance"
+  },
+  {
+    "sentence": "After the sniper attack at the symphony softball game , there were no men left on bass .",
+    "src": "bass",
+    "src_root": "bass",
+    "tgt_root": "base"
+  },
+  {
+    "sentence": "OLD CHINESE COOKS never die , they just wok away",
+    "src": "wok",
+    "src_root": "wok",
+    "tgt_root": "walk"
+  },
+  {
+    "sentence": "The ailing king of the doves sensed an imminent coup .",
+    "src": "coup",
+    "src_root": "coup",
+    "tgt_root": "coo"
+  },
+  {
+    "sentence": "OLD SAILORS never die , they just lose their porpoise .",
+    "src": "porpoise",
+    "src_root": "porpoise",
+    "tgt_root": "purpose"
+  },
+  {
+    "sentence": "OLD ANTENNA ENGINEERS never die , they just phase away .",
+    "src": "phase",
+    "src_root": "phase",
+    "tgt_root": "fade_away"
+  },
+  {
+    "sentence": "If you ride a bus you have to pay your fare share .",
+    "src": "fare",
+    "src_root": "fare",
+    "tgt_root": "fair"
+  },
+  {
+    "sentence": "If you work in a bakery you may have to take on many roles .",
+    "src": "roles",
+    "src_root": "role",
+    "tgt_root": "roll"
+  },
+  {
+    "sentence": "My wife uses a kitchen implement to shred garlic and parmesan cheese , which I hate . It really is the grater of two evils .",
+    "src": "grater",
+    "src_root": "grater",
+    "tgt_root": "greater"
+  },
+  {
+    "sentence": "Chickens can give some people a foul rash .",
+    "src": "foul",
+    "src_root": "foul",
+    "tgt_root": "fowl"
+  },
+  {
+    "sentence": "Everybody was in shock when the hair stylist dyed .",
+    "src": "dyed",
+    "src_root": "dye",
+    "tgt_root": "die"
+  },
+  {
+    "sentence": "Qwertyus , god of keyboards , is a character from geek mythology .",
+    "src": "geek",
+    "src_root": "geek",
+    "tgt_root": "greek"
+  },
+  {
+    "sentence": "' ' Are you homosexual ? ' ' Tom queried gaily .",
+    "src": "gaily",
+    "src_root": "gaily",
+    "tgt_root": "gay"
+  },
+  {
+    "sentence": "Businesses selling pleasure boats often have a sail .",
+    "src": "sail",
+    "src_root": "sail",
+    "tgt_root": "sale"
+  },
+  {
+    "sentence": "Wheaties near the body suggested that police look for a cereal killer .",
+    "src": "cereal",
+    "src_root": "cereal",
+    "tgt_root": "serial"
+  },
+  {
+    "sentence": "OLD DOCTORS never die they just lose their patience .",
+    "src": "patience",
+    "src_root": "patience",
+    "tgt_root": "patient"
+  },
+  {
+    "sentence": "The thief broke into the music store and stole the lute .",
+    "src": "lute",
+    "src_root": "lute",
+    "tgt_root": "loot"
+  },
+  {
+    "sentence": "A perfectly spherical pumpkin makes good pi .",
+    "src": "pi",
+    "src_root": "pi",
+    "tgt_root": "pie"
+  },
+  {
+    "sentence": "The invisible cows were herd but not seen .",
+    "src": "herd",
+    "src_root": "herd",
+    "tgt_root": "hear"
+  },
+  {
+    "sentence": "The overweight fighter pilot was grounded for violating the rules of engorgement .",
+    "src": "engorgement",
+    "src_root": "engorgement",
+    "tgt_root": "engagement"
+  },
+  {
+    "sentence": "This is what I have learned off by heart Tom wrote .",
+    "src": "wrote",
+    "src_root": "write",
+    "tgt_root": "rote"
+  },
+  {
+    "sentence": "In his free time , my son in college hunts deer and sells the meat . He says the doe helps him with his expenses .",
+    "src": "doe",
+    "src_root": "doe",
+    "tgt_root": "dough"
+  },
+  {
+    "sentence": "' ' 3 . 14159265 , ' ' Tom said piously .",
+    "src": "piously",
+    "src_root": "piously",
+    "tgt_root": "pi"
+  },
+  {
+    "sentence": "The geologist went to the doctor because he had a loss of apatite .",
+    "src": "apatite",
+    "src_root": "apatite",
+    "tgt_root": "appetite"
+  },
+  {
+    "sentence": "OLD GRAVEDIGGERS ; never die , they just spade away .",
+    "src": "spade",
+    "src_root": "spade",
+    "tgt_root": "fade_away"
+  },
+  {
+    "sentence": "The pun in the title of the play ' ' The Importance of Being Earnest ' ' was a Wilde idea .",
+    "src": "Wilde",
+    "src_root": "wilde",
+    "tgt_root": "wild"
+  },
+  {
+    "sentence": "' ' I prefer trout to salmon , ' ' Tom said officiously .",
+    "src": "officiously",
+    "src_root": "officiously",
+    "tgt_root": "fish"
+  },
+  {
+    "sentence": "One gruelingly intense month into the year - long diet regimen , the overwhelmed patient concluded she could not stand the weight .",
+    "src": "weight",
+    "src_root": "weight",
+    "tgt_root": "wait"
+  },
+  {
+    "sentence": "I ' ve been listening to the Brandenberg Concertos , Tom barked .",
+    "src": "barked",
+    "src_root": "bark",
+    "tgt_root": "bach"
+  },
+  {
+    "sentence": "OLD GOSSIPS never die they just lose their confidants",
+    "src": "confidants",
+    "src_root": "confidant",
+    "tgt_root": "confidence"
+  },
+  {
+    "sentence": "When the father found he had septuplets , he could hardly believe his own census .",
+    "src": "census",
+    "src_root": "census",
+    "tgt_root": "sense"
+  },
+  {
+    "sentence": "Because the champion angler instructed his pupils to cast their lines where the river runs through narrow chasms , they called him the ' ' fissure King . ' '",
+    "src": "fissure",
+    "src_root": "fissure",
+    "tgt_root": "fisher"
+  },
+  {
+    "sentence": "Tried some bear stew . It was a little grizzly .",
+    "src": "grizzly",
+    "src_root": "grizzly",
+    "tgt_root": "gristly"
+  },
+  {
+    "sentence": "The cat in northern Scandinavia always had a lapp to sit on .",
+    "src": "lapp",
+    "src_root": "lapp",
+    "tgt_root": "lap"
+  },
+  {
+    "sentence": "Making up puns about the finest soil is the loess form of humor .",
+    "src": "loess",
+    "src_root": "loess",
+    "tgt_root": "low"
+  },
+  {
+    "sentence": "I haven ' t developed my photographs yet , said Tom negatively .",
+    "src": "negatively",
+    "src_root": "negatively",
+    "tgt_root": "negative"
+  },
+  {
+    "sentence": "If you eat soup that ' s nine days old you will get bad broth .",
+    "src": "broth",
+    "src_root": "broth",
+    "tgt_root": "breath"
+  },
+  {
+    "sentence": "Herbivores come in browns and graze .",
+    "src": "graze",
+    "src_root": "graze",
+    "tgt_root": "gray"
+  },
+  {
+    "sentence": "A husband who thinks he is as solid as a rock may have a wife who wishes he was a little bolder .",
+    "src": "bolder",
+    "src_root": "bold",
+    "tgt_root": "boulder"
+  },
+  {
+    "sentence": "' ' Congratulations ; you graduated , ' ' said Tom diplomatically .",
+    "src": "diplomatically",
+    "src_root": "diplomatically",
+    "tgt_root": "diploma"
+  },
+  {
+    "sentence": "Are Philosophy papers graded with Marx out of ten ?",
+    "src": "Marx",
+    "src_root": "marx",
+    "tgt_root": "mark"
+  },
+  {
+    "sentence": "The mad scientist in the old castle had a strange secret \u2013 but he kept it under his bat .",
+    "src": "bat",
+    "src_root": "bat",
+    "tgt_root": "hat"
+  },
+  {
+    "sentence": "A teacher having a tough time longs for the end of the school daze .",
+    "src": "daze",
+    "src_root": "daze",
+    "tgt_root": "day"
+  },
+  {
+    "sentence": "The Keystone Kops were frequently criticized for excessive use of farce .",
+    "src": "farce",
+    "src_root": "farce",
+    "tgt_root": "force"
+  },
+  {
+    "sentence": "Scarecrows are always garden their patch .",
+    "src": "garden",
+    "src_root": "garden",
+    "tgt_root": "guard"
+  },
+  {
+    "sentence": "Isn ' t the Grand Canyon just gorges ?",
+    "src": "gorges",
+    "src_root": "gorge",
+    "tgt_root": "gorgeous"
+  },
+  {
+    "sentence": "The church choir robes were too long and needed to be hymned .",
+    "src": "hymned",
+    "src_root": "hymn",
+    "tgt_root": "hem"
+  },
+  {
+    "sentence": "Scientists studying the sun have a flare for research .",
+    "src": "flare",
+    "src_root": "flare",
+    "tgt_root": "flair"
+  },
+  {
+    "sentence": "Abstinence makes the heart grow fonder",
+    "src": "Abstinence",
+    "src_root": "abstinence",
+    "tgt_root": "absence"
+  },
+  {
+    "sentence": "I love your old worn - out jacket covered with all those slogans , but I can ' t read the frays at the end of the sleeves .",
+    "src": "frays",
+    "src_root": "fray",
+    "tgt_root": "phrase"
+  },
+  {
+    "sentence": "A clean thief always makes a stainless steal .",
+    "src": "steal",
+    "src_root": "steal",
+    "tgt_root": "steel"
+  },
+  {
+    "sentence": "' ' Boy , I wish the elevator were working , ' ' said Tom , staring up to the top .",
+    "src": "staring",
+    "src_root": "stare",
+    "tgt_root": "stair"
+  },
+  {
+    "sentence": "Those who hate classical music have my symphony .",
+    "src": "symphony",
+    "src_root": "symphony",
+    "tgt_root": "sympathy"
+  },
+  {
+    "sentence": "The Jedi Knight traded in his light saber for a light dagger . He had gone over to the dirk side .",
+    "src": "dirk",
+    "src_root": "dirk",
+    "tgt_root": "dark"
+  },
+  {
+    "sentence": "A skunk fell in the river and stank to the bottom .",
+    "src": "stank",
+    "src_root": "stink",
+    "tgt_root": "sink"
+  },
+  {
+    "sentence": "I fought with Geronimo , said Tom bravely .",
+    "src": "bravely",
+    "src_root": "bravely",
+    "tgt_root": "brave"
+  },
+  {
+    "sentence": "' ' I think I ' ve broken my leg ' ' , reported Tom lamely .",
+    "src": "lamely",
+    "src_root": "lamely",
+    "tgt_root": "lame"
+  },
+  {
+    "sentence": "We sternly warned the circus clown not to light the fuse while we were inside the cannon , but he did it anyway - - and it really made us soar .",
+    "src": "soar",
+    "src_root": "soar",
+    "tgt_root": "sore"
+  },
+  {
+    "sentence": "A good baker will rise to the occasion , it ' s the yeast he can do .",
+    "src": "yeast",
+    "src_root": "yeast",
+    "tgt_root": "least"
+  },
+  {
+    "sentence": "My sweet mother got so old she granulated .",
+    "src": "granulated",
+    "src_root": "granulate",
+    "tgt_root": "granny"
+  },
+  {
+    "sentence": "The vendor at the Arab market resented how I haggled and told me to take a haik .",
+    "src": "haik",
+    "src_root": "haik",
+    "tgt_root": "hike"
+  },
+  {
+    "sentence": "Be the soul supporter of your children .",
+    "src": "soul",
+    "src_root": "soul",
+    "tgt_root": "sole"
+  },
+  {
+    "sentence": "Some people who cut hair can be quite barbarous .",
+    "src": "barbarous",
+    "src_root": "barbarous",
+    "tgt_root": "barber"
+  },
+  {
+    "sentence": "Drinking a whole bucket of water could make you turn pail .",
+    "src": "pail",
+    "src_root": "pail",
+    "tgt_root": "pale"
+  },
+  {
+    "sentence": "A cat ate some cheese and waited for a mouse with baited breath .",
+    "src": "baited",
+    "src_root": "bait",
+    "tgt_root": "bate"
+  },
+  {
+    "sentence": "Beautifully manicured lawns are highly sod after .",
+    "src": "sod",
+    "src_root": "sod",
+    "tgt_root": "sought_after"
+  },
+  {
+    "sentence": "The man leaned on the printer cartridge because he wanted to tone up his abs .",
+    "src": "tone",
+    "src_root": "tone",
+    "tgt_root": "toner"
+  },
+  {
+    "sentence": "I ' ll take the girl to the dance , Tom promised .",
+    "src": "promised",
+    "src_root": "promise",
+    "tgt_root": "prom"
+  },
+  {
+    "sentence": "Two wrongs can make a riot .",
+    "src": "riot",
+    "src_root": "riot",
+    "tgt_root": "right"
+  },
+  {
+    "sentence": "An illiterate fisherman was lost at c .",
+    "src": "c",
+    "src_root": "c",
+    "tgt_root": "sea"
+  },
+  {
+    "sentence": "She was so thrifty she could smell a bargain a mall away .",
+    "src": "mall",
+    "src_root": "mall",
+    "tgt_root": "mile"
+  },
+  {
+    "sentence": "Act your praise , not your shoe size .",
+    "src": "praise",
+    "src_root": "praise",
+    "tgt_root": "age"
+  },
+  {
+    "sentence": "Partying Saturday and Sunday leaves me feeling weakened .",
+    "src": "weakened",
+    "src_root": "weaken",
+    "tgt_root": "weekend"
+  },
+  {
+    "sentence": "It was raining cats and dogs . There were poodles all over the road .",
+    "src": "poodles",
+    "src_root": "poodle",
+    "tgt_root": "puddle"
+  },
+  {
+    "sentence": "Because they moved into an apartment , they didn ' t need to cut the grass any mow .",
+    "src": "mow",
+    "src_root": "mow",
+    "tgt_root": "more"
+  },
+  {
+    "sentence": "When priests have a good idea they are supposed to parish the thought .",
+    "src": "parish",
+    "src_root": "parish",
+    "tgt_root": "perish"
+  },
+  {
+    "sentence": "The only things sure for cab drivers are debt and taxis .",
+    "src": "taxis",
+    "src_root": "taxi",
+    "tgt_root": "tax"
+  },
+  {
+    "sentence": "As I revived her using mouth to mouth resuscitation , in spite of my lisp , I couldn ' t help noticing her beautiful breaths !",
+    "src": "breaths",
+    "src_root": "breath",
+    "tgt_root": "breast"
+  },
+  {
+    "sentence": "Sign at a place where you lose weight : ' Stop Look and Lessen ' .",
+    "src": "Lessen",
+    "src_root": "lessen",
+    "tgt_root": "listen"
+  },
+  {
+    "sentence": "She was only a Cyclist ' s daughter , but she peddled it all over town .",
+    "src": "peddled",
+    "src_root": "peddle",
+    "tgt_root": "pedal"
+  },
+  {
+    "sentence": "' Because ' is a word to the whys .",
+    "src": "whys",
+    "src_root": "why",
+    "tgt_root": "wise"
+  },
+  {
+    "sentence": "If you ' re stiff as a board it could be the lumbar .",
+    "src": "lumbar",
+    "src_root": "lumbar",
+    "tgt_root": "lumber"
+  },
+  {
+    "sentence": "A good carpenter will do his work and then varnish without a trace .",
+    "src": "varnish",
+    "src_root": "varnish",
+    "tgt_root": "vanish"
+  },
+  {
+    "sentence": "' ' Once upon a time there was a beautiful princess , ' ' Tom began grimly .",
+    "src": "grimly",
+    "src_root": "grimly",
+    "tgt_root": "grimm"
+  },
+  {
+    "sentence": "The snowstorm arrived at a fortuitous moment . It was white on time .",
+    "src": "white",
+    "src_root": "white",
+    "tgt_root": "right"
+  },
+  {
+    "sentence": "My uncle developed a strange vulgar habit . He would only cuss when he ' d eat chicken . The doctor said he has seen this happen in some cases . Too much chicken can produce a fowl mouth .",
+    "src": "fowl",
+    "src_root": "fowl",
+    "tgt_root": "foul"
+  },
+  {
+    "sentence": "How do spacemen add more protein to their diet ? They make it meteor .",
+    "src": "meteor",
+    "src_root": "meteor",
+    "tgt_root": "meaty"
+  },
+  {
+    "sentence": "Kennebunkport was George Bush ' s maine vacation spot .",
+    "src": "maine",
+    "src_root": "maine",
+    "tgt_root": "main"
+  },
+  {
+    "sentence": "I ' m glad I know sign language , it ' s pretty handy .",
+    "src": "handy",
+    "src_root": "handy",
+    "tgt_root": "hand"
+  },
+  {
+    "sentence": "I had to pay to get into the annual local carnival . But that was the county fare .",
+    "src": "fare",
+    "src_root": "fare",
+    "tgt_root": "fair"
+  },
+  {
+    "sentence": "A successful diet is the triumph of mind over platter .",
+    "src": "platter",
+    "src_root": "platter",
+    "tgt_root": "matter"
+  },
+  {
+    "sentence": "I must attend my flock , said Tom , sheepishly .",
+    "src": "sheepishly",
+    "src_root": "sheepishly",
+    "tgt_root": "sheep"
+  },
+  {
+    "sentence": "The local baker was paying his staff based on a flourly rate .",
+    "src": "flourly",
+    "src_root": "flour",
+    "tgt_root": "hourly"
+  },
+  {
+    "sentence": "It wasn \u2019 t the apple on the tree , but the pair beneath it .",
+    "src": "pair",
+    "src_root": "pair",
+    "tgt_root": "pear"
+  },
+  {
+    "sentence": "He stayed at the auction to the bidder end .",
+    "src": "bidder",
+    "src_root": "bidder",
+    "tgt_root": "bitter"
+  },
+  {
+    "sentence": "The new father of quintuplets could hardly believe his own census .",
+    "src": "census",
+    "src_root": "census",
+    "tgt_root": "sense"
+  },
+  {
+    "sentence": "I was going to study the work of Sigmund Freud , but I was too Jung to understand it .",
+    "src": "Jung",
+    "src_root": "jung",
+    "tgt_root": "young"
+  },
+  {
+    "sentence": "I ' d really like to know whether her collapse was due to a serious illness or whether it was one of her usual feints .",
+    "src": "feints",
+    "src_root": "feint",
+    "tgt_root": "faint"
+  },
+  {
+    "sentence": "This is the Netherlands , Tom stated flatly .",
+    "src": "flatly",
+    "src_root": "flatly",
+    "tgt_root": "flat"
+  },
+  {
+    "sentence": "Pablo and Jose waited for a signal from Pilar to join her in the Church Tower , but neither responded to the chiming because they didn ' t know for whom the belle was tolling .",
+    "src": "belle",
+    "src_root": "belle",
+    "tgt_root": "bell"
+  },
+  {
+    "sentence": "Working in the bakery left her with a loathe of bread .",
+    "src": "loathe",
+    "src_root": "loathe",
+    "tgt_root": "loaf"
+  },
+  {
+    "sentence": "Arriving late , Senator Kennedy slipped on a banana peel and fell in a heap , resulting in a humerus break in the midst of the subcommittee ' s intense discussion .",
+    "src": "humerus",
+    "src_root": "humerus",
+    "tgt_root": "humorous"
+  },
+  {
+    "sentence": "The Chinese chef maliciously dumped a hot broth with dumplings on an obnoxious customer . It was a wanton soup attack .",
+    "src": "wanton",
+    "src_root": "wanton",
+    "tgt_root": "wonton"
+  },
+  {
+    "sentence": "When a college dormitory exploded a lot of roomers were flying .",
+    "src": "roomers",
+    "src_root": "roomer",
+    "tgt_root": "rumor"
+  },
+  {
+    "sentence": "At the petting zoo I saw a sheep scratching itself . Turns out it had fleece .",
+    "src": "fleece",
+    "src_root": "fleece",
+    "tgt_root": "flea"
+  },
+  {
+    "sentence": "It ' s where we store the hay , Tom said loftily .",
+    "src": "loftily",
+    "src_root": "loftily",
+    "tgt_root": "loft"
+  },
+  {
+    "sentence": "At the urban renewal site , contractors were simultaneously tearing down and erecting . It was interesting to watch them razing all those buildings .",
+    "src": "razing",
+    "src_root": "raze",
+    "tgt_root": "raise"
+  },
+  {
+    "sentence": "There was a lot of equestrian paraphernalia at the bridle shower .",
+    "src": "bridle",
+    "src_root": "bridle",
+    "tgt_root": "bridal"
+  },
+  {
+    "sentence": "There ' s a repair shop for baroque musical instruments .",
+    "src": "baroque",
+    "src_root": "baroque",
+    "tgt_root": "broken"
+  },
+  {
+    "sentence": "My wife really likes to make pottery , but to me it ' s just kiln time .",
+    "src": "kiln",
+    "src_root": "kiln",
+    "tgt_root": "kill"
+  },
+  {
+    "sentence": "The swollen blood vessels in her legs were very quarrelsome - she had bellicose veins .",
+    "src": "bellicose",
+    "src_root": "bellicose",
+    "tgt_root": "varicose"
+  },
+  {
+    "sentence": "The astronomer made a claim about a well - known star , but it wasn ' t sirius .",
+    "src": "sirius",
+    "src_root": "sirius",
+    "tgt_root": "serious"
+  },
+  {
+    "sentence": "' ' I can eat one hundred and forty - four , ' ' Tom boasted grossly .",
+    "src": "grossly",
+    "src_root": "grossly",
+    "tgt_root": "gross"
+  },
+  {
+    "sentence": "For meat some people eat lamb and mutton else .",
+    "src": "mutton",
+    "src_root": "mutton",
+    "tgt_root": "nothing"
+  },
+  {
+    "sentence": "' ' I ' m mentioned in this book , ' ' said Tom contentedly .",
+    "src": "contentedly",
+    "src_root": "contentedly",
+    "tgt_root": "content"
+  },
+  {
+    "sentence": "If you want those ashes , you ' ll have to urn them .",
+    "src": "urn",
+    "src_root": "urn",
+    "tgt_root": "earn"
+  },
+  {
+    "sentence": "The cheap eye surgeon was always cutting corneas .",
+    "src": "corneas",
+    "src_root": "cornea",
+    "tgt_root": "corner"
+  },
+  {
+    "sentence": "The salesman was peddling used bikes .",
+    "src": "peddling",
+    "src_root": "peddle",
+    "tgt_root": "pedal"
+  },
+  {
+    "sentence": "I tried to record an album in a reptile shop , but there was a terrible gecko .",
+    "src": "gecko",
+    "src_root": "gecko",
+    "tgt_root": "echo"
+  },
+  {
+    "sentence": "OLD BATHERS never die , they just wade away .",
+    "src": "wade",
+    "src_root": "wade",
+    "tgt_root": "fade_away"
+  },
+  {
+    "sentence": "' ' I wish I could remember the name of that card game , ' ' said Tom wistfully .",
+    "src": "wistfully",
+    "src_root": "wistfully",
+    "tgt_root": "whist"
+  },
+  {
+    "sentence": "Old cotton - pickers never die . They just bale out .",
+    "src": "bale",
+    "src_root": "bale",
+    "tgt_root": "bail"
+  },
+  {
+    "sentence": "Russia was slow to recover after WW2 because it kept Stalin around .",
+    "src": "Stalin",
+    "src_root": "stalin",
+    "tgt_root": "stall"
+  },
+  {
+    "sentence": "' ' This looks like the fruit of the blackthorn , ' ' said Tom slowly .",
+    "src": "slowly",
+    "src_root": "slowly",
+    "tgt_root": "sloe"
+  },
+  {
+    "sentence": "No matter how much you push the envelope , it ' ll still be stationery .",
+    "src": "stationery",
+    "src_root": "stationery",
+    "tgt_root": "stationary"
+  },
+  {
+    "sentence": "' ' The seesaw is upside down , ' ' said Tom saucily .",
+    "src": "saucily",
+    "src_root": "saucily",
+    "tgt_root": "seesaw"
+  },
+  {
+    "sentence": "50 Shades of Grace",
+    "src": "Grace",
+    "src_root": "grace",
+    "tgt_root": "gray"
+  },
+  {
+    "sentence": "In his latest promotional campaign , the manager of City Tent and Awning told his crew to canvas the entire area .",
+    "src": "canvas",
+    "src_root": "canvas",
+    "tgt_root": "canvass"
+  },
+  {
+    "sentence": "I once worked at a factory that made boat paddles . The starting pay was ten dollars an oar .",
+    "src": "oar",
+    "src_root": "oar",
+    "tgt_root": "hour"
+  },
+  {
+    "sentence": "Many are content to live in a coal mine and never see the son .",
+    "src": "son",
+    "src_root": "son",
+    "tgt_root": "sun"
+  },
+  {
+    "sentence": "My two uncles bet who would get married first . Then one upped the ante .",
+    "src": "ante",
+    "src_root": "ante",
+    "tgt_root": "aunty"
+  },
+  {
+    "sentence": "If roosters saw how hens are treated they ' d turn over in their gravy .",
+    "src": "gravy",
+    "src_root": "gravy",
+    "tgt_root": "grave"
+  },
+  {
+    "sentence": "The dervish had so much endurance , he set a new whirled record .",
+    "src": "whirled",
+    "src_root": "whirl",
+    "tgt_root": "world"
+  },
+  {
+    "sentence": "I simply must find a new podiatrist . My podiatrist has developed such a callus attitude .",
+    "src": "callus",
+    "src_root": "callus",
+    "tgt_root": "callous"
+  },
+  {
+    "sentence": "I went out for a run this morning and tripped over , I could have been wearing the wrong size shoes , I haven ' t seen the footage yet .",
+    "src": "footage",
+    "src_root": "footage",
+    "tgt_root": "foot"
+  },
+  {
+    "sentence": "Is that pure rump roast ? Nothing butt .",
+    "src": "butt",
+    "src_root": "butt",
+    "tgt_root": "but"
+  },
+  {
+    "sentence": "OLD TREE SURGEONS never die , they just take a final bough .",
+    "src": "bough",
+    "src_root": "bough",
+    "tgt_root": "bow"
+  },
+  {
+    "sentence": "Fire ! yelled Tom alarmingly .",
+    "src": "alarmingly",
+    "src_root": "alarmingly",
+    "tgt_root": "alarm"
+  },
+  {
+    "sentence": "One of the tires just blew out , Tom said sparingly .",
+    "src": "sparingly",
+    "src_root": "sparingly",
+    "tgt_root": "spare"
+  },
+  {
+    "sentence": "May the 4th be with you .",
+    "src": "4th",
+    "src_root": "fourth",
+    "tgt_root": "force"
+  },
+  {
+    "sentence": "Lizards have a very strong heartbeat which can be faintly heard anywhere on their body , said Mr . Johnson , beginning a story . ' ' Come listen to this tail . ' '",
+    "src": "tail",
+    "src_root": "tail",
+    "tgt_root": "tale"
+  },
+  {
+    "sentence": "So that ' s the way the wind blows , said Tom vainly .",
+    "src": "vainly",
+    "src_root": "vainly",
+    "tgt_root": "vane"
+  },
+  {
+    "sentence": "It wasn ' t school John disliked it was just the principal of it .",
+    "src": "principal",
+    "src_root": "principal",
+    "tgt_root": "principle"
+  },
+  {
+    "sentence": "Mickey Mouse gives some people Disney spells .",
+    "src": "Disney",
+    "src_root": "disney",
+    "tgt_root": "dizzy"
+  },
+  {
+    "sentence": "The nudist defended himself by citing his Constitutional right to bare arms .",
+    "src": "bare",
+    "src_root": "bare",
+    "tgt_root": "bear"
+  },
+  {
+    "sentence": "My friend said , ' There ' s a lot of gold in those hills . ' I replied , ' That ' s a load of bullion . ' .",
+    "src": "bullion",
+    "src_root": "bullion",
+    "tgt_root": "bull"
+  },
+  {
+    "sentence": "My stereo ' s half - fixed , said Tom monotonously .",
+    "src": "monotonously",
+    "src_root": "monotonously",
+    "tgt_root": "mono"
+  },
+  {
+    "sentence": "The race horse went lame early . It was the first out of its gait .",
+    "src": "gait",
+    "src_root": "gait",
+    "tgt_root": "gate"
+  },
+  {
+    "sentence": "The study of ancient symbols will lead you to rune .",
+    "src": "rune",
+    "src_root": "rune",
+    "tgt_root": "ruin"
+  },
+  {
+    "sentence": "' ' What ' s a wide - angle lens ? ' ' asked Tom obtusely .",
+    "src": "obtusely",
+    "src_root": "obtusely",
+    "tgt_root": "obtuse"
+  },
+  {
+    "sentence": "A bee keeper will sell you honey with swarm wishes .",
+    "src": "swarm",
+    "src_root": "swarm",
+    "tgt_root": "warm"
+  },
+  {
+    "sentence": "My pet bird can predict the future . He is an omen pigeon .",
+    "src": "omen",
+    "src_root": "omen",
+    "tgt_root": "homing"
+  },
+  {
+    "sentence": "' ' I ' m waiting to see the doctor , ' ' said Tom patiently .",
+    "src": "patiently",
+    "src_root": "patiently",
+    "tgt_root": "patient"
+  },
+  {
+    "sentence": "Guerrilla warfare is more than just throwing a banana .",
+    "src": "Guerrilla",
+    "src_root": "guerrilla",
+    "tgt_root": "gorilla"
+  },
+  {
+    "sentence": "Did you know that donuts were first made in Greece ?",
+    "src": "Greece",
+    "src_root": "greece",
+    "tgt_root": "grease"
+  },
+  {
+    "sentence": "Two snakes parted , and one said , ' fangs for the memories ' .",
+    "src": "fangs",
+    "src_root": "fang",
+    "tgt_root": "thanks"
+  },
+  {
+    "sentence": "A bird with a headache might just migrane south .",
+    "src": "migrane",
+    "src_root": "migraine",
+    "tgt_root": "migrate"
+  },
+  {
+    "sentence": "Swine were the most influential animal of the last decade .",
+    "src": "influential",
+    "src_root": "influential",
+    "tgt_root": "flu"
+  },
+  {
+    "sentence": "My sofa was repaired , but I was surprised to find an item on the bill for upholstery tacks .",
+    "src": "tacks",
+    "src_root": "tack",
+    "tgt_root": "tax"
+  },
+  {
+    "sentence": "Some resist having the ' flu jab but it ' s quite innocuous .",
+    "src": "innocuous",
+    "src_root": "innocuous",
+    "tgt_root": "inoculate"
+  },
+  {
+    "sentence": "I got a nasty electric shock the other day , but I wasn ' t phased .",
+    "src": "phased",
+    "src_root": "phase",
+    "tgt_root": "faze"
+  },
+  {
+    "sentence": "Look at those tall flowers , said Tom gladly .",
+    "src": "gladly",
+    "src_root": "gladly",
+    "tgt_root": "gladiolus"
+  },
+  {
+    "sentence": "What you seize is what you get .",
+    "src": "seize",
+    "src_root": "seize",
+    "tgt_root": "see"
+  },
+  {
+    "sentence": "' ' It ' s just gold leaf , ' ' said Tom guiltily .",
+    "src": "guiltily",
+    "src_root": "guiltily",
+    "tgt_root": "gilt"
+  },
+  {
+    "sentence": "' ' I ' ve an urgent appointment , ' ' said Tom in Russian .",
+    "src": "Russian",
+    "src_root": "russian",
+    "tgt_root": "rush"
+  },
+  {
+    "sentence": "A crow in a telephone booth had no money so he had to make a collect caw .",
+    "src": "caw",
+    "src_root": "caw",
+    "tgt_root": "call"
+  },
+  {
+    "sentence": "On my tour of the U . K . , Charles invited me to cook at Buckingham Palace , and naturally , I took photos so I could show everyone the prince .",
+    "src": "prince",
+    "src_root": "prince",
+    "tgt_root": "print"
+  },
+  {
+    "sentence": "A waist is a terrible thing to mind .",
+    "src": "waist",
+    "src_root": "waist",
+    "tgt_root": "waste"
+  },
+  {
+    "sentence": "The sailor called his girlfriend ' s belly ring a naval destroyer .",
+    "src": "naval",
+    "src_root": "naval",
+    "tgt_root": "navel"
+  },
+  {
+    "sentence": "I started to work at a seafood buffet , but then I pulled a mussel .",
+    "src": "mussel",
+    "src_root": "mussel",
+    "tgt_root": "muscle"
+  },
+  {
+    "sentence": "Fashionable women in Indiana all wear designer Hoosiery .",
+    "src": "Hoosiery",
+    "src_root": "hoosier",
+    "tgt_root": "hosiery"
+  },
+  {
+    "sentence": "John Deere has just released its most powerful tractor yet . It is the torque of the town .",
+    "src": "torque",
+    "src_root": "torque",
+    "tgt_root": "talk"
+  },
+  {
+    "sentence": "She was only a Colonel ' s Daughter , but she was great to the navy and rotten to the corps .",
+    "src": "corps",
+    "src_root": "corps",
+    "tgt_root": "core"
+  },
+  {
+    "sentence": "Reading music makes me crotchety .",
+    "src": "crotchety",
+    "src_root": "crotchety",
+    "tgt_root": "crotchet"
+  },
+  {
+    "sentence": "That makes 144 , said Tom , grossly .",
+    "src": "grossly",
+    "src_root": "grossly",
+    "tgt_root": "gross"
+  },
+  {
+    "sentence": "I saw a beaver movie last night , it was the best dam movie I ' ve ever seen .",
+    "src": "dam",
+    "src_root": "dam",
+    "tgt_root": "damn"
+  },
+  {
+    "sentence": "The fine print is usually a clause for suspicion .",
+    "src": "clause",
+    "src_root": "clause",
+    "tgt_root": "cause"
+  },
+  {
+    "sentence": "The haughty magician had illusions of grandeur .",
+    "src": "illusions",
+    "src_root": "illusion",
+    "tgt_root": "delusion"
+  },
+  {
+    "sentence": "Greys Anatomy has many humerus remarks .",
+    "src": "humerus",
+    "src_root": "humerus",
+    "tgt_root": "humorous"
+  },
+  {
+    "sentence": "Although he perfected his comic routines on the mainland , his best audiences were in the aisles .",
+    "src": "aisles",
+    "src_root": "aisle",
+    "tgt_root": "isle"
+  },
+  {
+    "sentence": "It ' s just like a cowboy to stirrup trouble .",
+    "src": "stirrup",
+    "src_root": "stirrup",
+    "tgt_root": "stir_up"
+  },
+  {
+    "sentence": "' ' I was the first to climb Mount Everest , ' ' said Tom hilariously .",
+    "src": "hilariously",
+    "src_root": "hilariously",
+    "tgt_root": "hillary"
+  },
+  {
+    "sentence": "Let ' s go to the gym and weight a while .",
+    "src": "weight",
+    "src_root": "weight",
+    "tgt_root": "wait"
+  },
+  {
+    "sentence": "People have a happy time vacationing in Ireland because they are walking on Eire .",
+    "src": "Eire",
+    "src_root": "eire",
+    "tgt_root": "air"
+  },
+  {
+    "sentence": "I ' ll tempt Adam tonight , she said evilly .",
+    "src": "evilly",
+    "src_root": "evilly",
+    "tgt_root": "eve"
+  },
+  {
+    "sentence": "Sellers of dried grapes are always raisin awareness .",
+    "src": "raisin",
+    "src_root": "raisin",
+    "tgt_root": "raise"
+  },
+  {
+    "sentence": "' ' I won ' t tell you anything about my salivary glands , ' ' said Tom secretively .",
+    "src": "secretively",
+    "src_root": "secretively",
+    "tgt_root": "secrete"
+  },
+  {
+    "sentence": "I need to go on a diet , said Tom wastefully .",
+    "src": "wastefully",
+    "src_root": "wastefully",
+    "tgt_root": "waist"
+  },
+  {
+    "sentence": "I ' ve caught Moby Dick ! Tom wailed .",
+    "src": "wailed",
+    "src_root": "wail",
+    "tgt_root": "whale"
+  },
+  {
+    "sentence": "The prodigal son was having a bad heir day .",
+    "src": "heir",
+    "src_root": "heir",
+    "tgt_root": "hair"
+  },
+  {
+    "sentence": "To emphasize that someone is a stranger : ' ' As we used to say in the cheese industry , I don ' t know him from Edam . ' '",
+    "src": "Edam",
+    "src_root": "edam",
+    "tgt_root": "adam"
+  },
+  {
+    "sentence": "He frequently practices furtive looks to operate at peek efficiency .",
+    "src": "peek",
+    "src_root": "peek",
+    "tgt_root": "peak"
+  },
+  {
+    "sentence": "A king is old when he reaches the age of sovereignty .",
+    "src": "sovereignty",
+    "src_root": "sovereignty",
+    "tgt_root": "seventy"
+  },
+  {
+    "sentence": "Take a God look at yourself .",
+    "src": "God",
+    "src_root": "god",
+    "tgt_root": "good"
+  },
+  {
+    "sentence": "There was an orchestra conductor who threw tempo tantrums .",
+    "src": "tempo",
+    "src_root": "tempo",
+    "tgt_root": "temper"
+  },
+  {
+    "sentence": "Company ' s coming , Tom guessed .",
+    "src": "guessed",
+    "src_root": "guess",
+    "tgt_root": "guest"
+  },
+  {
+    "sentence": "What did the nice girl say when her date invited her home to see his stamp collection ? ' Philately will get you nowhere ' .",
+    "src": "Philately",
+    "src_root": "philately",
+    "tgt_root": "flattery"
+  },
+  {
+    "sentence": "Bakers have a great knead to make bread .",
+    "src": "knead",
+    "src_root": "knead",
+    "tgt_root": "need"
+  },
+  {
+    "sentence": "If you think that mutt made strange sounds as a pup , you should hear him grown .",
+    "src": "grown",
+    "src_root": "grown",
+    "tgt_root": "groan"
+  },
+  {
+    "sentence": "She was only a Columnist ' s daughter , but she ' s always chasing wild roomers .",
+    "src": "roomers",
+    "src_root": "roomer",
+    "tgt_root": "rumor"
+  },
+  {
+    "sentence": "Wanting to buy his girlfriend a gift that she was sure to appreciate , Bugs Bunny decided that something on the order of twenty - four carats would be about right .",
+    "src": "carats",
+    "src_root": "carat",
+    "tgt_root": "carrot"
+  },
+  {
+    "sentence": "As they looked at the recreation of the Greek temple on Rodeo Drive while a freak ice storm was occurring , Emily and Henry were astonished by the very unusual frieze .",
+    "src": "frieze",
+    "src_root": "frieze",
+    "tgt_root": "freeze"
+  },
+  {
+    "sentence": "The proctologist reassured the patient that his condition could be rectified .",
+    "src": "rectified",
+    "src_root": "rectify",
+    "tgt_root": "rectum"
+  },
+  {
+    "sentence": "A tangled bell ringer tolled himself off .",
+    "src": "tolled",
+    "src_root": "toll",
+    "tgt_root": "tell_off"
+  },
+  {
+    "sentence": "The chicken crossed the playground to get to the other slide .",
+    "src": "slide",
+    "src_root": "slide",
+    "tgt_root": "side"
+  },
+  {
+    "sentence": "Don ' t believe what you hear about fleas and ticks - - it ' s all lice .",
+    "src": "lice",
+    "src_root": "louse",
+    "tgt_root": "lie"
+  },
+  {
+    "sentence": "The hotel regrets that you do not find your rooms satisfactory ; I will send up our sweet manager right away .",
+    "src": "sweet",
+    "src_root": "sweet",
+    "tgt_root": "suite"
+  },
+  {
+    "sentence": "I feel empty inside , Tom hollered .",
+    "src": "hollered",
+    "src_root": "holler",
+    "tgt_root": "hollow"
+  },
+  {
+    "sentence": "To earn an A in ' ' Sewing with Burlap ' ' , you really have to know the coarse material .",
+    "src": "coarse",
+    "src_root": "coarse",
+    "tgt_root": "course"
+  },
+  {
+    "sentence": "' ' It ' s my personal magnetism , ' ' said Tom ironically .",
+    "src": "ironically",
+    "src_root": "ironically",
+    "tgt_root": "iron"
+  },
+  {
+    "sentence": "' ' I ' ve gained thirty pounds , ' ' said Tom heavily .",
+    "src": "heavily",
+    "src_root": "heavily",
+    "tgt_root": "heavy"
+  },
+  {
+    "sentence": "Did you hear about the father that was difficult to see ? He was transparent .",
+    "src": "transparent",
+    "src_root": "transparent",
+    "tgt_root": "parent"
+  },
+  {
+    "sentence": "Selling gasoline too cheaply would be fuelish .",
+    "src": "fuelish",
+    "src_root": "fuel",
+    "tgt_root": "foolish"
+  },
+  {
+    "sentence": "' ' I ' m just an ordinary soldier , ' ' Tom admitted privately .",
+    "src": "privately",
+    "src_root": "privately",
+    "tgt_root": "private"
+  },
+  {
+    "sentence": "A test - tube baby has a womb with a view .",
+    "src": "womb",
+    "src_root": "womb",
+    "tgt_root": "room"
+  },
+  {
+    "sentence": "Having too many vowels is a consonant struggle in the game of Scrabble .",
+    "src": "consonant",
+    "src_root": "consonant",
+    "tgt_root": "constant"
+  },
+  {
+    "sentence": "When making butter there is little margarine for error .",
+    "src": "margarine",
+    "src_root": "margarine",
+    "tgt_root": "margin"
+  },
+  {
+    "sentence": "The triangular computer monitor business was just a big pyramid screen .",
+    "src": "screen",
+    "src_root": "screen",
+    "tgt_root": "scheme"
+  },
+  {
+    "sentence": "The cost of a galvanized hull is enough to zinc a ship .",
+    "src": "zinc",
+    "src_root": "zinc",
+    "tgt_root": "sink"
+  },
+  {
+    "sentence": "Victims of bad construction in the orient are ' bamboozled ' .",
+    "src": "bamboozled",
+    "src_root": "bamboozle",
+    "tgt_root": "bamboo"
+  },
+  {
+    "sentence": "The psychotic florist created many flower derangements .",
+    "src": "derangements",
+    "src_root": "derangement",
+    "tgt_root": "arrangement"
+  },
+  {
+    "sentence": "Don ' t expect to eat something fancy when you ' re flying because it ' s plane food .",
+    "src": "plane",
+    "src_root": "plane",
+    "tgt_root": "plain"
+  },
+  {
+    "sentence": "He is an excellent soup maker . You might say he is consomme professional .",
+    "src": "consomme",
+    "src_root": "consomme",
+    "tgt_root": "consummate"
+  },
+  {
+    "sentence": "Have you ever heard of an honest cheetah ?",
+    "src": "cheetah",
+    "src_root": "cheetah",
+    "tgt_root": "cheater"
+  },
+  {
+    "sentence": "Some bankers are generous to a vault .",
+    "src": "vault",
+    "src_root": "vault",
+    "tgt_root": "fault"
+  },
+  {
+    "sentence": "In times like these the value of Chinese currency should make Americans pay attention . Instead , too many of us just yuan .",
+    "src": "yuan",
+    "src_root": "yuan",
+    "tgt_root": "yawn"
+  },
+  {
+    "sentence": "Computer programs for gambling need beta testing .",
+    "src": "beta",
+    "src_root": "beta",
+    "tgt_root": "better"
+  },
+  {
+    "sentence": "Did you hear about the nervous preacher ? He had sweaty psalms .",
+    "src": "psalms",
+    "src_root": "psalm",
+    "tgt_root": "palm"
+  },
+  {
+    "sentence": "The winter drive - by shooting was a slay ride .",
+    "src": "slay",
+    "src_root": "slay",
+    "tgt_root": "sleigh"
+  },
+  {
+    "sentence": "On the old trains the engineer had a lot of esteem .",
+    "src": "esteem",
+    "src_root": "esteem",
+    "tgt_root": "steam"
+  },
+  {
+    "sentence": "Why are Italians so good at making coffee ? Because they really know how to espresso themselves .",
+    "src": "espresso",
+    "src_root": "espresso",
+    "tgt_root": "express"
+  },
+  {
+    "sentence": "Patience is a virtue that carries a lot of wait .",
+    "src": "wait",
+    "src_root": "wait",
+    "tgt_root": "weight"
+  },
+  {
+    "sentence": "Two coin collectors got together for old dimes sake .",
+    "src": "dimes",
+    "src_root": "dime",
+    "tgt_root": "time"
+  },
+  {
+    "sentence": "The stress of having his beloved pet bunny die caused a man to go bald - - he was very upset about losing his hare .",
+    "src": "hare",
+    "src_root": "hare",
+    "tgt_root": "hair"
+  },
+  {
+    "sentence": "' ' I presented my case to the judge , ' ' Tom said briefly .",
+    "src": "briefly",
+    "src_root": "briefly",
+    "tgt_root": "brief"
+  },
+  {
+    "sentence": "Someone led me to believe that graphite was discovered in Pennsylvania .",
+    "src": "led",
+    "src_root": "lead",
+    "tgt_root": "lead"
+  },
+  {
+    "sentence": "' ' I haven ' t had my photographs developed yet , ' ' said Tom negatively .",
+    "src": "negatively",
+    "src_root": "negatively",
+    "tgt_root": "negative"
+  },
+  {
+    "sentence": "Getting soap in your eyes is no lathering matter .",
+    "src": "lathering",
+    "src_root": "lather",
+    "tgt_root": "laugh"
+  },
+  {
+    "sentence": "Why did the dairy churn ? The less said , the butter . . .",
+    "src": "butter",
+    "src_root": "butter",
+    "tgt_root": "better"
+  },
+  {
+    "sentence": "I was fighting a Dragon , easier slayed then done .",
+    "src": "slayed",
+    "src_root": "slay",
+    "tgt_root": "say"
+  },
+  {
+    "sentence": "My family scoffed when I had a divine inspiration I ' d get rich selling my ' ' Beets Brule , ' ' but after I made my first million , they had to admit I made quite a prophet .",
+    "src": "prophet",
+    "src_root": "prophet",
+    "tgt_root": "profit"
+  },
+  {
+    "sentence": "The cast , after the scene in the forest , took their boughs .",
+    "src": "boughs",
+    "src_root": "bough",
+    "tgt_root": "bow"
+  },
+  {
+    "sentence": "The little green men told me it was the Dog Star . I told them they can ' t be Sirius .",
+    "src": "Sirius",
+    "src_root": "sirius",
+    "tgt_root": "serious"
+  },
+  {
+    "sentence": "Old chicken farmers never die , they just have a dozen aches .",
+    "src": "aches",
+    "src_root": "ache",
+    "tgt_root": "egg"
+  },
+  {
+    "sentence": "The tightrope walker gently took a step at a time and always wore diamond - laced slippers . The spectators always would stare in awe at the tightrope walker ' s feat .",
+    "src": "feat",
+    "src_root": "feat",
+    "tgt_root": "foot"
+  },
+  {
+    "sentence": "Sailors like to seas opportunities .",
+    "src": "seas",
+    "src_root": "sea",
+    "tgt_root": "seize"
+  },
+  {
+    "sentence": "I ' m simply not a nice girl , ' ' she whispered tartly .",
+    "src": "tartly",
+    "src_root": "tartly",
+    "tgt_root": "tart"
+  },
+  {
+    "sentence": "In the novel , there is an unexpected secret meeting of the lovers . It is a plot tryst .",
+    "src": "tryst",
+    "src_root": "tryst",
+    "tgt_root": "twist"
+  },
+  {
+    "sentence": "' ' I ' d like to be a Chinese labourer , ' ' said Tom coolly .",
+    "src": "coolly",
+    "src_root": "coolly",
+    "tgt_root": "coolie"
+  },
+  {
+    "sentence": "A men ' s wear store has opening and clothing times .",
+    "src": "clothing",
+    "src_root": "clothe",
+    "tgt_root": "close"
+  },
+  {
+    "sentence": "She was only a Carpenter ' s daughter , but she knows every vise .",
+    "src": "vise",
+    "src_root": "vise",
+    "tgt_root": "vice"
+  },
+  {
+    "sentence": "Little Bo Peep grew tired of the daily search for her lost sheep and decided to keep them in the garden area close to her house . Since she no longer had to spend her days tracking down her wayward herd , Bo decided to take up the hobby of flower gardening . Now every morning Bo Peep goes out to tend her phlox .",
+    "src": "phlox",
+    "src_root": "phlox",
+    "tgt_root": "flock"
+  },
+  {
+    "sentence": "Shopaholics never die , they just sale away .",
+    "src": "sale",
+    "src_root": "sale",
+    "tgt_root": "sail"
+  },
+  {
+    "sentence": "' ' My pencil is blunt , ' ' said Tom pointlessly .",
+    "src": "pointlessly",
+    "src_root": "pointlessly",
+    "tgt_root": "pointless"
+  },
+  {
+    "sentence": "All students in Helsinki go to Finnish school .",
+    "src": "Finnish",
+    "src_root": "finnish",
+    "tgt_root": "finish"
+  },
+  {
+    "sentence": "We Are Not Dairy Queen \u2026 But We Have Great Sundays",
+    "src": "Sundays",
+    "src_root": "sunday",
+    "tgt_root": "sundae"
+  },
+  {
+    "sentence": "OLD STOREKEEPERS never die , they just sale away .",
+    "src": "sale",
+    "src_root": "sale",
+    "tgt_root": "sail"
+  },
+  {
+    "sentence": "When the waiter told me they were out of corn I said , ' That really shucks . '",
+    "src": "shucks",
+    "src_root": "shuck",
+    "tgt_root": "suck"
+  },
+  {
+    "sentence": "Making your own hard liquor is a whiskey business .",
+    "src": "whiskey",
+    "src_root": "whiskey",
+    "tgt_root": "risky"
+  },
+  {
+    "sentence": "' ' Have you seen my collection of ancient Chinese artifacts ? ' ' asked Tom charmingly .",
+    "src": "charmingly",
+    "src_root": "charmingly",
+    "tgt_root": "ming"
+  },
+  {
+    "sentence": "The son shines on the righteous .",
+    "src": "son",
+    "src_root": "son",
+    "tgt_root": "sun"
+  },
+  {
+    "sentence": "The weather man said there won ' t be any rain for 6 months , but I drought it .",
+    "src": "drought",
+    "src_root": "drought",
+    "tgt_root": "doubt"
+  },
+  {
+    "sentence": "The class took a field trip to a meat processing plant , but what they saw was just offal .",
+    "src": "offal",
+    "src_root": "offal",
+    "tgt_root": "awful"
+  },
+  {
+    "sentence": "Two mining companies merged and became alloys .",
+    "src": "alloys",
+    "src_root": "alloy",
+    "tgt_root": "ally"
+  },
+  {
+    "sentence": "A course offered to introduce French in five easy liaisons .",
+    "src": "liaisons",
+    "src_root": "liaison",
+    "tgt_root": "lesson"
+  },
+  {
+    "sentence": "' ' Has my magazine arrived ? ' ' Tom asked periodically .",
+    "src": "periodically",
+    "src_root": "periodically",
+    "tgt_root": "periodical"
+  },
+  {
+    "sentence": "This fowl has been stuffed , said Tom sagely .",
+    "src": "sagely",
+    "src_root": "sagely",
+    "tgt_root": "sage"
+  },
+  {
+    "sentence": "Exposure to the Son prevents burning",
+    "src": "Son",
+    "src_root": "son",
+    "tgt_root": "sun"
+  },
+  {
+    "sentence": "Animals that tunnel in the soil have to have an escape root .",
+    "src": "root",
+    "src_root": "root",
+    "tgt_root": "route"
+  },
+  {
+    "sentence": "In a surfing competition the winner got wave reviews .",
+    "src": "wave",
+    "src_root": "wave",
+    "tgt_root": "rave"
+  },
+  {
+    "sentence": "Practice safe eating \u2013 always use condiments .",
+    "src": "condiments",
+    "src_root": "condiment",
+    "tgt_root": "condom"
+  },
+  {
+    "sentence": "When she made Mario Puzo ' s books required reading for her class , she made him an author they couldn ' t refuse .",
+    "src": "author",
+    "src_root": "author",
+    "tgt_root": "offer"
+  },
+  {
+    "sentence": "Those who find bargain antiques like to junk for joy .",
+    "src": "junk",
+    "src_root": "junk",
+    "tgt_root": "jump"
+  },
+  {
+    "sentence": "' ' I bought myself fifty hamburgers and I ' ve only ten left , ' ' said Tom with fortitude .",
+    "src": "fortitude",
+    "src_root": "fortitude",
+    "tgt_root": "forty"
+  },
+  {
+    "sentence": "The body builder worried too much about the lifting contest and his trainer concluded that the mind is a terrible thing to weights .",
+    "src": "weights",
+    "src_root": "weight",
+    "tgt_root": "waste"
+  },
+  {
+    "sentence": "OLD RIVER RATS never die , they just start to creek",
+    "src": "creek",
+    "src_root": "creek",
+    "tgt_root": "creak"
+  },
+  {
+    "sentence": "Long fairy tales have a tendency to dragon .",
+    "src": "dragon",
+    "src_root": "dragon",
+    "tgt_root": "drag_on"
+  },
+  {
+    "sentence": "It is difficult to escape being a peasant because resistance is feudal .",
+    "src": "feudal",
+    "src_root": "feudal",
+    "tgt_root": "futile"
+  },
+  {
+    "sentence": "I ' m single , Tom said wanly .",
+    "src": "wanly",
+    "src_root": "wanly",
+    "tgt_root": "one"
+  },
+  {
+    "sentence": "' ' Let ' s take a vacation in the south of France , ' ' said Tom nicely .",
+    "src": "nicely",
+    "src_root": "nicely",
+    "tgt_root": "nice"
+  },
+  {
+    "sentence": "On the way to the church our car broke down . I desperately tried to find some succor to help us resume our journey .",
+    "src": "succor",
+    "src_root": "succor",
+    "tgt_root": "sucker"
+  },
+  {
+    "sentence": "Pink satin was perfect for her gown , yet the debutante appeared even more charming with beaux on either side .",
+    "src": "beaux",
+    "src_root": "beau",
+    "tgt_root": "bow"
+  },
+  {
+    "sentence": "Exposure to the Son may prevent burning",
+    "src": "Son",
+    "src_root": "son",
+    "tgt_root": "sun"
+  },
+  {
+    "sentence": "' ' Where shall I plant these water lilies ? ' ' Tom pondered .",
+    "src": "pondered",
+    "src_root": "ponder",
+    "tgt_root": "pond"
+  },
+  {
+    "sentence": "He stared at his belly button so much , he was promoted to navel officer .",
+    "src": "navel",
+    "src_root": "navel",
+    "tgt_root": "naval"
+  },
+  {
+    "sentence": "' ' It ' s the quotient of two integers , ' ' said Tom rationally .",
+    "src": "rationally",
+    "src_root": "rationally",
+    "tgt_root": "rational"
+  },
+  {
+    "sentence": "OLD SHOEMAKERS never die , they just lose their sole .",
+    "src": "sole",
+    "src_root": "sole",
+    "tgt_root": "soul"
+  },
+  {
+    "sentence": "The study of genealogy is a basic requirement for a descent education .",
+    "src": "descent",
+    "src_root": "descent",
+    "tgt_root": "decent"
+  },
+  {
+    "sentence": "Staying at the trendy , new hotel was the inn thing to do .",
+    "src": "inn",
+    "src_root": "inn",
+    "tgt_root": "in"
+  },
+  {
+    "sentence": "I like the latest horror movie so much that I ' ve arranged a private screaming .",
+    "src": "screaming",
+    "src_root": "scream",
+    "tgt_root": "screen"
+  },
+  {
+    "sentence": "The Spaniard ' s wife was always up before the Don .",
+    "src": "Don",
+    "src_root": "don",
+    "tgt_root": "dawn"
+  },
+  {
+    "sentence": "If children were allowed to dig for coal , would they still be miners ?",
+    "src": "miners",
+    "src_root": "miner",
+    "tgt_root": "minor"
+  },
+  {
+    "sentence": "Take me to the dance , Tom bawled .",
+    "src": "bawled",
+    "src_root": "bawl",
+    "tgt_root": "ball"
+  },
+  {
+    "sentence": "Opportunities take ' ' now ' ' for an answer",
+    "src": "now",
+    "src_root": "now",
+    "tgt_root": "no"
+  },
+  {
+    "sentence": "At some executive meetings there is a chairman of the bored .",
+    "src": "bored",
+    "src_root": "bored",
+    "tgt_root": "board"
+  },
+  {
+    "sentence": "While attempting to decipher complicated technical instructions : ' ' It ' s all Geek to me . ' '",
+    "src": "Geek",
+    "src_root": "geek",
+    "tgt_root": "greek"
+  },
+  {
+    "sentence": "It ' s a lengthy article on Japanese Sword Fighters but I can Samurais it for you .",
+    "src": "Samurais",
+    "src_root": "samurai",
+    "tgt_root": "summarize"
+  },
+  {
+    "sentence": "What is the best store to be in during an earthquake ? A stationery store .",
+    "src": "stationery",
+    "src_root": "stationery",
+    "tgt_root": "stationary"
+  },
+  {
+    "sentence": "I went to prom with a broken leg . During the slow dances my date could tell that I had a crutch on her .",
+    "src": "crutch",
+    "src_root": "crutch",
+    "tgt_root": "crush"
+  },
+  {
+    "sentence": "She was small , slender with doe like eyes . ' ' Oh , my deer , ' ' he whispered .",
+    "src": "deer",
+    "src_root": "deer",
+    "tgt_root": "dear"
+  },
+  {
+    "sentence": "I ' d like some Chinese food , said Tom wantonly .",
+    "src": "wantonly",
+    "src_root": "wantonly",
+    "tgt_root": "wonton"
+  },
+  {
+    "sentence": "When the creator of Tarzan wrote about Pellucidar and other Earth - core stories , was it Edgar Rice burrows ?",
+    "src": "burrows",
+    "src_root": "burrow",
+    "tgt_root": "burroughs"
+  },
+  {
+    "sentence": "Our garden hose was damaged yesterday , and I couldn ' t get to the leek without getting wet .",
+    "src": "leek",
+    "src_root": "leek",
+    "tgt_root": "leak"
+  },
+  {
+    "sentence": "OLD TEACHERS never die , they just grade away",
+    "src": "grade",
+    "src_root": "grade",
+    "tgt_root": "fade_away"
+  },
+  {
+    "sentence": "A boy who instinctively waves at people has a natural hi .",
+    "src": "hi",
+    "src_root": "hi",
+    "tgt_root": "high"
+  },
+  {
+    "sentence": "' ' These bit patterns will be more readable in groups of 8 , ' ' said Tom bitingly .",
+    "src": "bitingly",
+    "src_root": "bitingly",
+    "tgt_root": "byte"
+  },
+  {
+    "sentence": "The careless pyromaniac made an ash of himself .",
+    "src": "ash",
+    "src_root": "ash",
+    "tgt_root": "ass"
+  },
+  {
+    "sentence": "Dorothy and Toto found to their horror that tornadoes really could raze a house .",
+    "src": "raze",
+    "src_root": "raze",
+    "tgt_root": "raise"
+  },
+  {
+    "sentence": "People have many misconceptions about pregnancy .",
+    "src": "misconceptions",
+    "src_root": "misconception",
+    "tgt_root": "conception"
+  },
+  {
+    "sentence": "OLD FARMERS never die , they just spade away .",
+    "src": "spade",
+    "src_root": "spade",
+    "tgt_root": "fade_away"
+  },
+  {
+    "sentence": "The fireplaces of oriental doctors have an Asian flue .",
+    "src": "flue",
+    "src_root": "flue",
+    "tgt_root": "flu"
+  },
+  {
+    "sentence": "The triglyph commented , ' It ' s friezing in here . .",
+    "src": "friezing",
+    "src_root": "frieze",
+    "tgt_root": "freeze"
+  },
+  {
+    "sentence": "In the delivery room , the unborn infant expected to be given a wide berth .",
+    "src": "berth",
+    "src_root": "berth",
+    "tgt_root": "birth"
+  },
+  {
+    "sentence": "Easter is more than something to dye for",
+    "src": "dye",
+    "src_root": "dye",
+    "tgt_root": "die"
+  },
+  {
+    "sentence": "Chimney sweep ' s daughter , but she soots me fine .",
+    "src": "soots",
+    "src_root": "soot",
+    "tgt_root": "suit"
+  },
+  {
+    "sentence": "If a dog was computer literate , would his bark be worse than his byte ?",
+    "src": "byte",
+    "src_root": "byte",
+    "tgt_root": "bite"
+  },
+  {
+    "sentence": "A hay farmer in jail could get out on bale .",
+    "src": "bale",
+    "src_root": "bale",
+    "tgt_root": "bail"
+  },
+  {
+    "sentence": "I told my friend about the creative writing class I took , and she said that she had a simile experience .",
+    "src": "simile",
+    "src_root": "simile",
+    "tgt_root": "similar"
+  },
+  {
+    "sentence": "Doctor , doctor , I keep thinking I ' m a billiard ball . - Get back in the queue . Next .",
+    "src": "queue",
+    "src_root": "queue",
+    "tgt_root": "cue"
+  },
+  {
+    "sentence": "I ' m a ditch digger , said Tom , trenchantly",
+    "src": "trenchantly",
+    "src_root": "trenchantly",
+    "tgt_root": "trench"
+  },
+  {
+    "sentence": "A man ' s home is his castle in a manor of speaking .",
+    "src": "manor",
+    "src_root": "manor",
+    "tgt_root": "manner"
+  },
+  {
+    "sentence": "' ' I wish I had something to write with , ' ' Tom said pensively .",
+    "src": "pensively",
+    "src_root": "pensively",
+    "tgt_root": "pen"
+  },
+  {
+    "sentence": "I don ' t find health - related puns funny anymore since I started suffering from an irony deficiency .",
+    "src": "irony",
+    "src_root": "irony",
+    "tgt_root": "iron"
+  },
+  {
+    "sentence": "OLD POLITICIANS never die , they just harangue in there .",
+    "src": "harangue",
+    "src_root": "harangue",
+    "tgt_root": "hang_in"
+  },
+  {
+    "sentence": "An alien landed at a soft drink company and said ' take me to your liter ' .",
+    "src": "liter",
+    "src_root": "liter",
+    "tgt_root": "leader"
+  },
+  {
+    "sentence": "The son can warm you forever",
+    "src": "son",
+    "src_root": "son",
+    "tgt_root": "sun"
+  },
+  {
+    "sentence": "He crashed through several windows , but felt no pane .",
+    "src": "pane",
+    "src_root": "pane",
+    "tgt_root": "pain"
+  },
+  {
+    "sentence": "The sheep robber was caught on the lamb .",
+    "src": "lamb",
+    "src_root": "lamb",
+    "tgt_root": "lam"
+  },
+  {
+    "sentence": "His wife loved pottery making but for him it was just kiln time .",
+    "src": "kiln",
+    "src_root": "kiln",
+    "tgt_root": "kill"
+  },
+  {
+    "sentence": "When overcome by thoughts of sin the princess visited the knave .",
+    "src": "knave",
+    "src_root": "knave",
+    "tgt_root": "nave"
+  },
+  {
+    "sentence": "When a problem or dilemma arises : ' ' As plumbers say , it ' s not drain surgery . ' '",
+    "src": "drain",
+    "src_root": "drain",
+    "tgt_root": "brain"
+  },
+  {
+    "sentence": "' ' I only have diamonds , clubs and spades , ' ' said Tom heartlessly .",
+    "src": "heartlessly",
+    "src_root": "heartlessly",
+    "tgt_root": "heartless"
+  },
+  {
+    "sentence": "Patience is a virtue heavy in wait",
+    "src": "wait",
+    "src_root": "wait",
+    "tgt_root": "weight"
+  },
+  {
+    "sentence": "A veterinarian knows how to make a dog heal .",
+    "src": "heal",
+    "src_root": "heal",
+    "tgt_root": "heel"
+  },
+  {
+    "sentence": "Life is a puzzle ; look here for the missing peace .",
+    "src": "peace",
+    "src_root": "peace",
+    "tgt_root": "piece"
+  },
+  {
+    "sentence": "Many people think that Edgar Allan Poe was a raven madman .",
+    "src": "raven",
+    "src_root": "raven",
+    "tgt_root": "rave"
+  },
+  {
+    "sentence": "OLD ENUMERATORS never die , they just lose their census",
+    "src": "census",
+    "src_root": "census",
+    "tgt_root": "sense"
+  },
+  {
+    "sentence": "The embarrassed news anchor was bright red , but he nor the television monitor was appropriately phased .",
+    "src": "phased",
+    "src_root": "phase",
+    "tgt_root": "faze"
+  },
+  {
+    "sentence": "She was only a Glaziers daughter but took great panes to please",
+    "src": "panes",
+    "src_root": "pane",
+    "tgt_root": "pains"
+  },
+  {
+    "sentence": "She was only a Sailor ' s daughter and how she loved seamen .",
+    "src": "seamen",
+    "src_root": "seaman",
+    "tgt_root": "semen"
+  },
+  {
+    "sentence": "A pie went for an audition for a part in a play . The casting agent told him he performed well , but it was more of a sausage roll .",
+    "src": "roll",
+    "src_root": "roll",
+    "tgt_root": "role"
+  },
+  {
+    "sentence": "Failure is the path of least persistence .",
+    "src": "persistence",
+    "src_root": "persistence",
+    "tgt_root": "resistance"
+  },
+  {
+    "sentence": "Old programmers never die , they just can ' t C as well .",
+    "src": "C",
+    "src_root": "c",
+    "tgt_root": "see"
+  },
+  {
+    "sentence": "If your dad ' s sisters are construction workers you might call them carpenter aunts .",
+    "src": "aunts",
+    "src_root": "aunt",
+    "tgt_root": "ant"
+  },
+  {
+    "sentence": "The swanky hoteliers ' convention tended to attract the inn crowd .",
+    "src": "inn",
+    "src_root": "inn",
+    "tgt_root": "in"
+  },
+  {
+    "sentence": "OLD RANCHERS never die , they just breed their last .",
+    "src": "breed",
+    "src_root": "breed",
+    "tgt_root": "breathe"
+  },
+  {
+    "sentence": "The king never let any of his personal musicians go swimming immediately after eating for fear that they would get minstrel cramps .",
+    "src": "minstrel",
+    "src_root": "minstrel",
+    "tgt_root": "menstrual"
+  },
+  {
+    "sentence": "The Junior NCO had sore wrists . The doctor said it was corporal tunnel syndrome .",
+    "src": "corporal",
+    "src_root": "corporal",
+    "tgt_root": "carpal"
+  },
+  {
+    "sentence": "' ' I ' m the butcher ' s assistant , ' ' said Tom cuttingly .",
+    "src": "cuttingly",
+    "src_root": "cuttingly",
+    "tgt_root": "cut"
+  },
+  {
+    "sentence": "Two brothers fought over some sheet music but their mother wanted to keep the piece .",
+    "src": "piece",
+    "src_root": "piece",
+    "tgt_root": "peace"
+  },
+  {
+    "sentence": "A mathematician that couldn ' t stop adding up recently went incremental .",
+    "src": "incremental",
+    "src_root": "incremental",
+    "tgt_root": "mental"
+  },
+  {
+    "sentence": "After being treated by an optometrist , the bird seed .",
+    "src": "seed",
+    "src_root": "seed",
+    "tgt_root": "see"
+  },
+  {
+    "sentence": "The satellite went into orbit on January 1st causing a new year ' s revolution .",
+    "src": "revolution",
+    "src_root": "revolution",
+    "tgt_root": "resolution"
+  },
+  {
+    "sentence": "Two rites make a wrong where bigamy is concerned .",
+    "src": "rites",
+    "src_root": "rite",
+    "tgt_root": "right"
+  },
+  {
+    "sentence": "Fishers often wet their appetite .",
+    "src": "wet",
+    "src_root": "wet",
+    "tgt_root": "whet"
+  },
+  {
+    "sentence": "The guilt - ridden shark always has a feeling of remoras .",
+    "src": "remoras",
+    "src_root": "remora",
+    "tgt_root": "remorse"
+  },
+  {
+    "sentence": "The cd salesman said , ' ' The classical music section is right over there , ' ' as he smoothed his pencil - thin mustache and spread another handful of Brylcreem on his hair .",
+    "src": "cd",
+    "src_root": "cd",
+    "tgt_root": "seedy"
+  },
+  {
+    "sentence": "Even though Ashley was blind and under arrest , she still had hope that someone would brail her out .",
+    "src": "brail",
+    "src_root": "braille",
+    "tgt_root": "bail"
+  },
+  {
+    "sentence": "Traveling on a flying carpet is a rugged experience .",
+    "src": "rugged",
+    "src_root": "rugged",
+    "tgt_root": "rug"
+  },
+  {
+    "sentence": "The trucker explained that he was early because he had had no breaks .",
+    "src": "breaks",
+    "src_root": "break",
+    "tgt_root": "brake"
+  },
+  {
+    "sentence": "OLD CHEESE MAKERS never die , they just lose their whey",
+    "src": "whey",
+    "src_root": "whey",
+    "tgt_root": "way"
+  },
+  {
+    "sentence": "If the mint makes 25 cent pieces it should expect quarterly profits .",
+    "src": "quarterly",
+    "src_root": "quarterly",
+    "tgt_root": "quarter"
+  },
+  {
+    "sentence": "Water leaking through wallboard is usually a ceiling problem .",
+    "src": "ceiling",
+    "src_root": "ceiling",
+    "tgt_root": "sealing"
+  },
+  {
+    "sentence": "After the lawyer flushed the toilet , it went to the suer .",
+    "src": "suer",
+    "src_root": "suer",
+    "tgt_root": "sewer"
+  },
+  {
+    "sentence": "Last night , I kept dreaming that I had written Lord of the Rings . The wife said I ' d been tolkien in my sleep .",
+    "src": "tolkien",
+    "src_root": "tolkien",
+    "tgt_root": "talk"
+  },
+  {
+    "sentence": "' ' I ' m losing my hair , ' ' Tom bawled .",
+    "src": "bawled",
+    "src_root": "bawl",
+    "tgt_root": "bald"
+  },
+  {
+    "sentence": "' ' I have to wear this cast for another six weeks , ' ' said Tom disjointedly .",
+    "src": "disjointedly",
+    "src_root": "disjointedly",
+    "tgt_root": "disjoint"
+  },
+  {
+    "sentence": "I trained my dog to hunt for underground mushrooms but now he ' s more truffle than he ' s worth .",
+    "src": "truffle",
+    "src_root": "truffle",
+    "tgt_root": "trouble"
+  },
+  {
+    "sentence": "He bought the drum for a great price , it was a steel .",
+    "src": "steel",
+    "src_root": "steel",
+    "tgt_root": "steal"
+  },
+  {
+    "sentence": "Lamb stew is much ado about mutton",
+    "src": "mutton",
+    "src_root": "mutton",
+    "tgt_root": "nothing"
+  },
+  {
+    "sentence": "OLD MILKMAIDS never die they just lose their whey .",
+    "src": "whey",
+    "src_root": "whey",
+    "tgt_root": "way"
+  },
+  {
+    "sentence": "I ' m singing well these days , Tom intoned .",
+    "src": "intoned",
+    "src_root": "intone",
+    "tgt_root": "tone"
+  },
+  {
+    "sentence": "Let ' s visit the tombs , said Tom , cryptically .",
+    "src": "cryptically",
+    "src_root": "cryptically",
+    "tgt_root": "crypt"
+  },
+  {
+    "sentence": "' ' I ' m putting on my T - shirt , shorts , and sunglasses , ' ' Tom summarised .",
+    "src": "summarised",
+    "src_root": "summarize",
+    "tgt_root": "summerize"
+  },
+  {
+    "sentence": "' ' I know which boyd gets the woym , ' ' said Tom in an oily voice .",
+    "src": "oily",
+    "src_root": "oily",
+    "tgt_root": "early"
+  },
+  {
+    "sentence": "She was only a Grape picker ' s daughter , but she was never Chablis dressed .",
+    "src": "Chablis",
+    "src_root": "chablis",
+    "tgt_root": "shabbily"
+  },
+  {
+    "sentence": "The garden club visited the nursery and found themselves in a hosta environment .",
+    "src": "hosta",
+    "src_root": "hosta",
+    "tgt_root": "hostile"
+  },
+  {
+    "sentence": "The woman who rode her broom to a croquet game was a wicket witch .",
+    "src": "wicket",
+    "src_root": "wicket",
+    "tgt_root": "wicked"
+  },
+  {
+    "sentence": "Jack and Jill is the best nursery rhyme as others pail in comparison .",
+    "src": "pail",
+    "src_root": "pail",
+    "tgt_root": "pale"
+  },
+  {
+    "sentence": "Being able to fit size 14 shoes is quite a feet .",
+    "src": "feet",
+    "src_root": "foot",
+    "tgt_root": "feat"
+  },
+  {
+    "sentence": "' ' I still haven ' t struck oil , ' ' said Tom boringly .",
+    "src": "boringly",
+    "src_root": "boringly",
+    "tgt_root": "bore"
+  },
+  {
+    "sentence": "Sometimes a pregnancy is so long it seems like a maternity .",
+    "src": "maternity",
+    "src_root": "maternity",
+    "tgt_root": "eternity"
+  },
+  {
+    "sentence": "OLD POPULATION EXPERTS never die , they just lose their census .",
+    "src": "census",
+    "src_root": "census",
+    "tgt_root": "sense"
+  },
+  {
+    "sentence": "His affection for her was more than a passion interest .",
+    "src": "passion",
+    "src_root": "passion",
+    "tgt_root": "passing"
+  },
+  {
+    "sentence": "I choked on my dessert and decided to sue , so I hired an attorney who specializes in tortes .",
+    "src": "tortes",
+    "src_root": "torte",
+    "tgt_root": "tort"
+  },
+  {
+    "sentence": "I used to enjoy steak and cheese with my eggs , but it ' s all ova now .",
+    "src": "ova",
+    "src_root": "ovum",
+    "tgt_root": "over"
+  },
+  {
+    "sentence": "The vegetable never taken aboard ship is a leek .",
+    "src": "leek",
+    "src_root": "leek",
+    "tgt_root": "leak"
+  },
+  {
+    "sentence": "Before the revolution , Russia was in a Tsary state .",
+    "src": "Tsary",
+    "src_root": "tsar",
+    "tgt_root": "sorry"
+  },
+  {
+    "sentence": "The dentist decided he was going to try a new path to fame and fortune , and this time he would choose a different root .",
+    "src": "root",
+    "src_root": "root",
+    "tgt_root": "route"
+  },
+  {
+    "sentence": "When you dream in color , it ' s a pigment of your imagination .",
+    "src": "pigment",
+    "src_root": "pigment",
+    "tgt_root": "figment"
+  },
+  {
+    "sentence": "Please mix me a martini , said Tom , dryly .",
+    "src": "dryly",
+    "src_root": "dryly",
+    "tgt_root": "dry"
+  },
+  {
+    "sentence": "A motorcycle rider with bad teeth is the leader of the plaque .",
+    "src": "plaque",
+    "src_root": "plaque",
+    "tgt_root": "pack"
+  },
+  {
+    "sentence": "If you write bad things about me I am libel to sue you .",
+    "src": "libel",
+    "src_root": "libel",
+    "tgt_root": "liable"
+  },
+  {
+    "sentence": "When the cattlemen ' s association sponsored a track and field competition , followed by a barbecue , the commemorative T - shirt read , ' ' We loved the meet . ' '",
+    "src": "meet",
+    "src_root": "meet",
+    "tgt_root": "meat"
+  },
+  {
+    "sentence": "You should never drink beyond the pint of no return .",
+    "src": "pint",
+    "src_root": "pint",
+    "tgt_root": "point"
+  },
+  {
+    "sentence": "You ' ll never conquer me , Goliath said stonily .",
+    "src": "stonily",
+    "src_root": "stonily",
+    "tgt_root": "stone"
+  },
+  {
+    "sentence": "Pray for keeps",
+    "src": "Pray",
+    "src_root": "pray",
+    "tgt_root": "play"
+  },
+  {
+    "sentence": "What did the grape say when it got stepped on ? Nothing - but it let out a little whine .",
+    "src": "whine",
+    "src_root": "whine",
+    "tgt_root": "wine"
+  },
+  {
+    "sentence": "Drinking too much of a certain potent potable may require a leave of absinthe .",
+    "src": "absinthe",
+    "src_root": "absinthe",
+    "tgt_root": "absence"
+  },
+  {
+    "sentence": "I just got my permit to harvest shrimp in the Antarctic . Now I have a licence to Krill .",
+    "src": "Krill",
+    "src_root": "krill",
+    "tgt_root": "kill"
+  },
+  {
+    "sentence": "Two lovers who had been apart for some time were reunited on a foggy day . One whispered to the other ' I mist you ' .",
+    "src": "mist",
+    "src_root": "mist",
+    "tgt_root": "miss"
+  },
+  {
+    "sentence": "If you say you have bad skin , I ' d say that was a pore excuse .",
+    "src": "pore",
+    "src_root": "pore",
+    "tgt_root": "poor"
+  },
+  {
+    "sentence": "' ' That horse looks like a good bet at 20 to 1 , ' ' said Tom oddly .",
+    "src": "oddly",
+    "src_root": "oddly",
+    "tgt_root": "odds"
+  },
+  {
+    "sentence": "I wanted to be a clarinettist but I couldn ' t reed music .",
+    "src": "reed",
+    "src_root": "reed",
+    "tgt_root": "read"
+  },
+  {
+    "sentence": "Britain is a wet place since the queen has had a long reign .",
+    "src": "reign",
+    "src_root": "reign",
+    "tgt_root": "rain"
+  },
+  {
+    "sentence": "I finished my trigonometry exam without a secant to lose .",
+    "src": "secant",
+    "src_root": "secant",
+    "tgt_root": "second"
+  },
+  {
+    "sentence": "Podiatrist malpractice : Callous neglect",
+    "src": "Callous",
+    "src_root": "callous",
+    "tgt_root": "callus"
+  },
+  {
+    "sentence": "I thought that the penny I was looking for would have belonged to a man , but I detected the cent of a woman .",
+    "src": "cent",
+    "src_root": "cent",
+    "tgt_root": "scent"
+  },
+  {
+    "sentence": "I told my friend about the creative writing class I took , and she said that she had a simile experience .",
+    "src": "simile",
+    "src_root": "simile",
+    "tgt_root": "similar"
+  },
+  {
+    "sentence": "He cussed in his sleep all night and woke up all swore out .",
+    "src": "swore",
+    "src_root": "swear",
+    "tgt_root": "wear_out"
+  },
+  {
+    "sentence": "The British cannibal enjoyed snacking on fish and chaps .",
+    "src": "chaps",
+    "src_root": "chap",
+    "tgt_root": "chips"
+  },
+  {
+    "sentence": "Do hotel managers get board with their jobs ?",
+    "src": "board",
+    "src_root": "board",
+    "tgt_root": "bored"
+  },
+  {
+    "sentence": "' ' I ' ve mailed the letter , ' ' Tom assented .",
+    "src": "assented",
+    "src_root": "assent",
+    "tgt_root": "send"
+  },
+  {
+    "sentence": "' ' It ' s only average , ' ' said Tom meanly .",
+    "src": "meanly",
+    "src_root": "meanly",
+    "tgt_root": "mean"
+  },
+  {
+    "sentence": "Having too many axe - like tools to do a particular job only adze to the confusion .",
+    "src": "adze",
+    "src_root": "adze",
+    "tgt_root": "add"
+  },
+  {
+    "sentence": "Lions don ' t have to worry about every little detail in life . . . just the mane thing .",
+    "src": "mane",
+    "src_root": "mane",
+    "tgt_root": "main"
+  },
+  {
+    "sentence": "The fisherman kept bragging about the big fish he caught , but he would not be very pacific about where he caught it .",
+    "src": "pacific",
+    "src_root": "pacific",
+    "tgt_root": "specific"
+  },
+  {
+    "sentence": "OLD TAILORS never die , they just get ironic .",
+    "src": "ironic",
+    "src_root": "ironic",
+    "tgt_root": "iron"
+  },
+  {
+    "sentence": "Nature reserves are an eagle opportunity employer .",
+    "src": "eagle",
+    "src_root": "eagle",
+    "tgt_root": "equal"
+  },
+  {
+    "sentence": "Goddard couldn ' t be reached . He was out to launch .",
+    "src": "launch",
+    "src_root": "launch",
+    "tgt_root": "lunch"
+  },
+  {
+    "sentence": "An hourglass is a waist of time .",
+    "src": "waist",
+    "src_root": "waist",
+    "tgt_root": "waste"
+  },
+  {
+    "sentence": "Most hunters are nice because they ' re such deer people .",
+    "src": "deer",
+    "src_root": "deer",
+    "tgt_root": "dear"
+  },
+  {
+    "sentence": "She was only a Butcher ' s daughter , but there wasn ' t much more she could loin .",
+    "src": "loin",
+    "src_root": "loin",
+    "tgt_root": "learn"
+  },
+  {
+    "sentence": "Sign on a broken perfume bottle , ' ' Out of odor ' ' .",
+    "src": "odor",
+    "src_root": "odor",
+    "tgt_root": "order"
+  },
+  {
+    "sentence": "A pediatrician is a doctor of little patients .",
+    "src": "patients",
+    "src_root": "patient",
+    "tgt_root": "patience"
+  },
+  {
+    "sentence": "The cheque is in the post , Tom assented .",
+    "src": "assented",
+    "src_root": "assent",
+    "tgt_root": "send"
+  },
+  {
+    "sentence": "A dentist has to tell a patient the whole tooth .",
+    "src": "tooth",
+    "src_root": "tooth",
+    "tgt_root": "truth"
+  },
+  {
+    "sentence": "I was completely exonerated , said Tom clearly .",
+    "src": "clearly",
+    "src_root": "clearly",
+    "tgt_root": "clear"
+  },
+  {
+    "sentence": "The flock of doves decided to stage a coo",
+    "src": "coo",
+    "src_root": "coo",
+    "tgt_root": "coup"
+  },
+  {
+    "sentence": "' ' I work at a bank , ' ' said Tom tellingly .",
+    "src": "tellingly",
+    "src_root": "tellingly",
+    "tgt_root": "teller"
+  },
+  {
+    "sentence": "You should massage a cow ' s back before putting it out to posture .",
+    "src": "posture",
+    "src_root": "posture",
+    "tgt_root": "pasture"
+  },
+  {
+    "sentence": "When those around King Arthur ' s table had insomnia , there were a lot of sleepless knights .",
+    "src": "knights",
+    "src_root": "knight",
+    "tgt_root": "night"
+  },
+  {
+    "sentence": "My friend gave me a book about puns for my birthday and I loved it . It was two meaningful .",
+    "src": "two",
+    "src_root": "two",
+    "tgt_root": "too"
+  },
+  {
+    "sentence": "The math teacher was hungry , but all she had to eat was a piece of pi .",
+    "src": "pi",
+    "src_root": "pi",
+    "tgt_root": "pie"
+  },
+  {
+    "sentence": "Some cooks have a shellfish attitude .",
+    "src": "shellfish",
+    "src_root": "shellfish",
+    "tgt_root": "selfish"
+  },
+  {
+    "sentence": "As Sir Galahad lifted the sacred chalice , the bottom fell out . He had indeed found the holey Grail .",
+    "src": "holey",
+    "src_root": "holey",
+    "tgt_root": "holy"
+  },
+  {
+    "sentence": "The king never let any of his personal musicians go swimming immediately after eating for fear that they would get minstrel cramps .",
+    "src": "minstrel",
+    "src_root": "minstrel",
+    "tgt_root": "menstrual"
+  },
+  {
+    "sentence": "The mushroom is a vegetable of high morel standing .",
+    "src": "morel",
+    "src_root": "morel",
+    "tgt_root": "moral"
+  },
+  {
+    "sentence": "The promises of some tailors are pure fabrication .",
+    "src": "fabrication",
+    "src_root": "fabrication",
+    "tgt_root": "fabric"
+  },
+  {
+    "sentence": "In a bakery buns usually play a small role .",
+    "src": "role",
+    "src_root": "role",
+    "tgt_root": "roll"
+  },
+  {
+    "sentence": "Ancient vessels lacked stability because there were no rudders in the days of yaw .",
+    "src": "yaw",
+    "src_root": "yaw",
+    "tgt_root": "yore"
+  },
+  {
+    "sentence": "The researcher ' s report showed data on the political graphed .",
+    "src": "graphed",
+    "src_root": "graph",
+    "tgt_root": "graft"
+  },
+  {
+    "sentence": "Life is fragile , handle with prayer",
+    "src": "prayer",
+    "src_root": "prayer",
+    "tgt_root": "care"
+  },
+  {
+    "sentence": "Running around your yard for thousands of miles would be quite a feet .",
+    "src": "feet",
+    "src_root": "foot",
+    "tgt_root": "feat"
+  },
+  {
+    "sentence": "Money doesn ' t grow on sprees .",
+    "src": "sprees",
+    "src_root": "spree",
+    "tgt_root": "tree"
+  },
+  {
+    "sentence": "When Mongolians walk they like to take big steppes .",
+    "src": "steppes",
+    "src_root": "steppe",
+    "tgt_root": "step"
+  },
+  {
+    "sentence": "3 . 142 Tom enumerated piously .",
+    "src": "piously",
+    "src_root": "piously",
+    "tgt_root": "pi"
+  },
+  {
+    "sentence": "I wish I ' d said that , Oscar , said Tom wildly .",
+    "src": "wildly",
+    "src_root": "wildly",
+    "tgt_root": "wilde"
+  },
+  {
+    "sentence": "A group of singers wore coral necklaces .",
+    "src": "coral",
+    "src_root": "coral",
+    "tgt_root": "choral"
+  },
+  {
+    "sentence": "' ' That ' s price - fixing ! ' ' said Tom caustically .",
+    "src": "caustically",
+    "src_root": "caustically",
+    "tgt_root": "cost"
+  },
+  {
+    "sentence": "Make like mustard and catch up !",
+    "src": "catch",
+    "src_root": "catch_up",
+    "tgt_root": "ketchup"
+  },
+  {
+    "sentence": "Cane sugar can ' t be beet .",
+    "src": "beet",
+    "src_root": "beet",
+    "tgt_root": "beat"
+  },
+  {
+    "sentence": "Some moss took a lichen to a tree .",
+    "src": "lichen",
+    "src_root": "lichen",
+    "tgt_root": "liking"
+  },
+  {
+    "sentence": "I love hockey , said Tom , puckishly .",
+    "src": "puckishly",
+    "src_root": "puckishly",
+    "tgt_root": "puck"
+  },
+  {
+    "sentence": "' ' This Bud ' s for you , ' ' said Tom lightly .",
+    "src": "lightly",
+    "src_root": "lightly",
+    "tgt_root": "light"
+  },
+  {
+    "sentence": "He who makes false teeth is an indentured labourer .",
+    "src": "indentured",
+    "src_root": "indentured",
+    "tgt_root": "denture"
+  },
+  {
+    "sentence": "When artists dream in color it ' s a pigment of their imagination .",
+    "src": "pigment",
+    "src_root": "pigment",
+    "tgt_root": "figment"
+  },
+  {
+    "sentence": "When an actress saw her first strands of gray hair she thought she ' d dye .",
+    "src": "dye",
+    "src_root": "dye",
+    "tgt_root": "die"
+  },
+  {
+    "sentence": "After delivering a presentation last fall , I sent a message to friends who were unable to attend . The report concluded : ' ' A good time was heard by all . ' '",
+    "src": "heard",
+    "src_root": "hear",
+    "tgt_root": "have"
+  },
+  {
+    "sentence": "Some music stores are in a CD part of town .",
+    "src": "CD",
+    "src_root": "cd",
+    "tgt_root": "seedy"
+  },
+  {
+    "sentence": "Getting your driver ' s license is a right of passage .",
+    "src": "right",
+    "src_root": "right",
+    "tgt_root": "rite"
+  },
+  {
+    "sentence": "The farmer ' s market featured an enormous expanse of bins containing Indian corn , and I wandered aimlessly through this maize for nearly an hour .",
+    "src": "maize",
+    "src_root": "maize",
+    "tgt_root": "maze"
+  },
+  {
+    "sentence": "The soap - eating cult was swallowing lyes in search of the truth .",
+    "src": "lyes",
+    "src_root": "lye",
+    "tgt_root": "lie"
+  },
+  {
+    "sentence": "Pray up in advance .",
+    "src": "Pray",
+    "src_root": "pray",
+    "tgt_root": "pay"
+  },
+  {
+    "sentence": "' ' I have to sing a run of eighth notes , ' ' said Tom quaveringly .",
+    "src": "quaveringly",
+    "src_root": "quaveringly",
+    "tgt_root": "quaver"
+  },
+  {
+    "sentence": "Why was the orange sad ? He had peelings for the apple .",
+    "src": "peelings",
+    "src_root": "peeling",
+    "tgt_root": "feeling"
+  },
+  {
+    "sentence": "The discovery of how to make steel was ironic .",
+    "src": "ironic",
+    "src_root": "ironic",
+    "tgt_root": "iron"
+  },
+  {
+    "sentence": "They were the quietest burglars in the history of New York City . The newspapers called them ' Criminal Mimes . '",
+    "src": "Mimes",
+    "src_root": "mime",
+    "tgt_root": "mind"
+  },
+  {
+    "sentence": "OLD HAIRDRESSERS never dye . . . or cut .",
+    "src": "dye",
+    "src_root": "dye",
+    "tgt_root": "die"
+  },
+  {
+    "sentence": "Upon being shown a uniquely sculptured piece of so - called granite , a geologist remarked to his colleague ' ' You know that ' s really gneiss . ' '",
+    "src": "gneiss",
+    "src_root": "gneiss",
+    "tgt_root": "nice"
+  },
+  {
+    "sentence": "A cardboard belt would be a waist of paper .",
+    "src": "waist",
+    "src_root": "waist",
+    "tgt_root": "waste"
+  },
+  {
+    "sentence": "A fight over love and money would be duel purpose .",
+    "src": "duel",
+    "src_root": "duel",
+    "tgt_root": "dual"
+  },
+  {
+    "sentence": "' ' I wonder where the next character is going to appear , ' ' said Tom with a cursory glance .",
+    "src": "cursory",
+    "src_root": "cursory",
+    "tgt_root": "cursor"
+  },
+  {
+    "sentence": "He doesn ' t talk much does he ? He ' s just a little horse .",
+    "src": "horse",
+    "src_root": "horse",
+    "tgt_root": "hoarse"
+  },
+  {
+    "sentence": "I always had wanted to know how ships really worked , and now I finally was going to sea .",
+    "src": "sea",
+    "src_root": "sea",
+    "tgt_root": "see"
+  },
+  {
+    "sentence": "When some people open their mouth they put their feat in .",
+    "src": "feat",
+    "src_root": "feat",
+    "tgt_root": "foot"
+  },
+  {
+    "sentence": "' ' This is the most common language used on micros , ' ' said Tom basically .",
+    "src": "basically",
+    "src_root": "basically",
+    "tgt_root": "basic"
+  },
+  {
+    "sentence": "Someone who attempts long distance fraud is known as a phony .",
+    "src": "phony",
+    "src_root": "phony",
+    "tgt_root": "phone"
+  },
+  {
+    "sentence": "I have eight children , said Tom , apparently .",
+    "src": "apparently",
+    "src_root": "apparently",
+    "tgt_root": "parent"
+  },
+  {
+    "sentence": "The killer followed the psychopath into the forest where he was surrounded by the copse .",
+    "src": "copse",
+    "src_root": "copse",
+    "tgt_root": "cop"
+  },
+  {
+    "sentence": "Faith doesn \u2019 t fall apart at the seems",
+    "src": "seems",
+    "src_root": "seem",
+    "tgt_root": "seam"
+  },
+  {
+    "sentence": "That gas pump must be sick . It doesn ' t fill well .",
+    "src": "fill",
+    "src_root": "fill",
+    "tgt_root": "feel"
+  },
+  {
+    "sentence": "People who hate the marines are rotten to the corps .",
+    "src": "corps",
+    "src_root": "corps",
+    "tgt_root": "core"
+  },
+  {
+    "sentence": "They owed me a lot of money for the new house - I billed them .",
+    "src": "billed",
+    "src_root": "bill",
+    "tgt_root": "build"
+  },
+  {
+    "sentence": "Even covered in salad dressing my lettuce looked bare , so I put some cloves on it .",
+    "src": "cloves",
+    "src_root": "clove",
+    "tgt_root": "clothes"
+  },
+  {
+    "sentence": "Dairy Queen isn ' t the only place with awesome Sundays : )",
+    "src": "Sundays",
+    "src_root": "sunday",
+    "tgt_root": "sundae"
+  },
+  {
+    "sentence": "I love beagles , Tom dogmatized .",
+    "src": "dogmatized",
+    "src_root": "dogmatize",
+    "tgt_root": "dog"
+  },
+  {
+    "sentence": "Baseball players have to stay in line or they will be afoul of the rules .",
+    "src": "afoul",
+    "src_root": "afoul",
+    "tgt_root": "foul"
+  },
+  {
+    "sentence": "OLD BASEBALL PLAYERS never die , they just go batty .",
+    "src": "batty",
+    "src_root": "batty",
+    "tgt_root": "bat"
+  },
+  {
+    "sentence": "The stink bomb tossed at the standup comics ' convention quickly emptied the place out ; when the smoke cleared , not a wit of them remained .",
+    "src": "wit",
+    "src_root": "wit",
+    "tgt_root": "whit"
+  },
+  {
+    "sentence": "Cleopatra was the Pharaohs one of all .",
+    "src": "Pharaohs",
+    "src_root": "pharaoh",
+    "tgt_root": "fair"
+  },
+  {
+    "sentence": "I need to clear my throat , said Tom phlegmatically .",
+    "src": "phlegmatically",
+    "src_root": "phlegmatically",
+    "tgt_root": "phlegm"
+  },
+  {
+    "sentence": "OLD HORSE STABLES do die but they can always be barn again",
+    "src": "barn",
+    "src_root": "barn",
+    "tgt_root": "bear"
+  },
+  {
+    "sentence": "The man loved a good play on words but his wife couldn ' t stand the punishment .",
+    "src": "punishment",
+    "src_root": "punishment",
+    "tgt_root": "pun"
+  },
+  {
+    "sentence": "' ' I visit my parents every Sunday , ' ' said Tom weakly .",
+    "src": "weakly",
+    "src_root": "weakly",
+    "tgt_root": "weekly"
+  },
+  {
+    "sentence": "Marine biologists never make mistakes on porpoise .",
+    "src": "porpoise",
+    "src_root": "porpoise",
+    "tgt_root": "purpose"
+  },
+  {
+    "sentence": "I met some cult members who worshiped soup serving utensils . I said , ' Oh ye of ladle faith . '",
+    "src": "ladle",
+    "src_root": "ladle",
+    "tgt_root": "little"
+  },
+  {
+    "sentence": "I heard Einstein got along well with his parents . . . relatively speaking .",
+    "src": "relatively",
+    "src_root": "relatively",
+    "tgt_root": "relativity"
+  },
+  {
+    "sentence": "The salt said ' hi ' to the pepper . It was seasonings greetings .",
+    "src": "seasonings",
+    "src_root": "seasoning",
+    "tgt_root": "season"
+  },
+  {
+    "sentence": "You decide what kind of light bulbs to buy by a process of illumination .",
+    "src": "illumination",
+    "src_root": "illumination",
+    "tgt_root": "elimination"
+  },
+  {
+    "sentence": "When I asked him whether we ought to climb the steep hill , he started up the incline and , in ascent , said , ' ' Yes . ' '",
+    "src": "ascent",
+    "src_root": "ascent",
+    "tgt_root": "assent"
+  },
+  {
+    "sentence": "He only knew how to drive a fork lift in reverse . He was the backup man .",
+    "src": "backup",
+    "src_root": "backup",
+    "tgt_root": "back_up"
+  },
+  {
+    "sentence": "The bicycle salesman had broken his ankle and was , alas , unable to pedal his wares .",
+    "src": "pedal",
+    "src_root": "pedal",
+    "tgt_root": "peddle"
+  },
+  {
+    "sentence": "Yes , I have read Gulliver ' s Travels , said Tom swiftly .",
+    "src": "swiftly",
+    "src_root": "swiftly",
+    "tgt_root": "swift"
+  },
+  {
+    "sentence": "As anyone who has ever lived in the area can tell you , life is different in Montana . Since golf courses are often placed in areas ideal for hunting , most golfers carry a hunting rifle in their golf bag and when the opportunity presents itself combine their two favorite pastimes . Recently one such sportsman got lost and had to stop for directions asking , ' ' Which way to the lynx . ' '",
+    "src": "lynx",
+    "src_root": "lynx",
+    "tgt_root": "links"
+  },
+  {
+    "sentence": "He gave up playing chess , and went on to a checkered career .",
+    "src": "checkered",
+    "src_root": "checkered",
+    "tgt_root": "checkers"
+  },
+  {
+    "sentence": "I had such a bad cold , I thought I was coffin to death .",
+    "src": "coffin",
+    "src_root": "coffin",
+    "tgt_root": "cough"
+  },
+  {
+    "sentence": "What ' s the name of that street in Paris ? asked Tom ruefully .",
+    "src": "ruefully",
+    "src_root": "ruefully",
+    "tgt_root": "rue"
+  },
+  {
+    "sentence": "Noah wasn ' t the first off the ark . He came forth .",
+    "src": "forth",
+    "src_root": "forth",
+    "tgt_root": "fourth"
+  },
+  {
+    "sentence": "Can you read music ? the bandleader asked notably .",
+    "src": "notably",
+    "src_root": "notably",
+    "tgt_root": "note"
+  },
+  {
+    "sentence": "Tying up a circle may take a lot of chords .",
+    "src": "chords",
+    "src_root": "chord",
+    "tgt_root": "cord"
+  },
+  {
+    "sentence": "A chicken farmer ' s favorite car is a coupe .",
+    "src": "coupe",
+    "src_root": "coupe",
+    "tgt_root": "coop"
+  },
+  {
+    "sentence": "OLD BRIDGE PLAYERS never die , they just sit around on their fat aces .",
+    "src": "aces",
+    "src_root": "ace",
+    "tgt_root": "ass"
+  },
+  {
+    "sentence": "Aliens are lovable because they ' re so spatial .",
+    "src": "spatial",
+    "src_root": "spatial",
+    "tgt_root": "special"
+  },
+  {
+    "sentence": "' Sweeney Todd ' is a good source of sheer terror .",
+    "src": "sheer",
+    "src_root": "sheer",
+    "tgt_root": "shear"
+  },
+  {
+    "sentence": "' ' There ' s no need for silence , ' ' Tom allowed .",
+    "src": "allowed",
+    "src_root": "allow",
+    "tgt_root": "aloud"
+  },
+  {
+    "sentence": "' ' You must be my host , ' ' Tom guessed .",
+    "src": "guessed",
+    "src_root": "guess",
+    "tgt_root": "guest"
+  },
+  {
+    "sentence": "It was such a big piece of gold , he didn ' t know what to assay .",
+    "src": "assay",
+    "src_root": "assay",
+    "tgt_root": "say"
+  },
+  {
+    "sentence": "' ' ' ' said Tom blankly .",
+    "src": "blankly",
+    "src_root": "blankly",
+    "tgt_root": "blank"
+  },
+  {
+    "sentence": "When bottled water is cheap it ' s called a liquidation sale .",
+    "src": "liquidation",
+    "src_root": "liquidation",
+    "tgt_root": "liquid"
+  },
+  {
+    "sentence": "Waiter , there ' s a fly in my soup ! ' ' No , sir , that is an essential bee vitamin . ' '",
+    "src": "bee",
+    "src_root": "bee",
+    "tgt_root": "b"
+  },
+  {
+    "sentence": "I ' ll clean the chimney , said Tom , fluently",
+    "src": "fluently",
+    "src_root": "fluently",
+    "tgt_root": "flue"
+  },
+  {
+    "sentence": "Nearing the end of his sentence , the convicted Wall Street wizard , feeling both oddly safe in his spartan confinement but not quite penitent for his overzealous trading misdeeds , feared and anticipated his release , nightly dreaming of his long cherished hard sell .",
+    "src": "sell",
+    "src_root": "sell",
+    "tgt_root": "cell"
+  },
+  {
+    "sentence": "When I first tried the new cough syrup , I really had no idea what to expectorate .",
+    "src": "expectorate",
+    "src_root": "expectorate",
+    "tgt_root": "expect"
+  },
+  {
+    "sentence": "Sign over the librarian ' s desk : No talking aloud .",
+    "src": "aloud",
+    "src_root": "aloud",
+    "tgt_root": "allow"
+  },
+  {
+    "sentence": "An architect knows how to make a long storey short .",
+    "src": "storey",
+    "src_root": "storey",
+    "tgt_root": "story"
+  },
+  {
+    "sentence": "My grandmother learned grammar by wrote .",
+    "src": "wrote",
+    "src_root": "write",
+    "tgt_root": "rote"
+  },
+  {
+    "sentence": "A cat that swallowed a ball of wool had mittens .",
+    "src": "mittens",
+    "src_root": "mitten",
+    "tgt_root": "kitten"
+  },
+  {
+    "sentence": "Sign : ' Please turn out the lights . Thanks a watt . '",
+    "src": "watt",
+    "src_root": "watt",
+    "tgt_root": "a_lot"
+  },
+  {
+    "sentence": "The shoemaker did not deny his apprentice anything he needed . He gave his awl .",
+    "src": "awl",
+    "src_root": "awl",
+    "tgt_root": "all"
+  },
+  {
+    "sentence": "The undersized and timorous knight , armed only with an aluminum sword , lacked the adequate metal to face the ferocious dragon .",
+    "src": "metal",
+    "src_root": "metal",
+    "tgt_root": "mettle"
+  },
+  {
+    "sentence": "My wife is a fine cook , plus a great algebra teacher , she is quite famous for her pi .",
+    "src": "pi",
+    "src_root": "pi",
+    "tgt_root": "pie"
+  },
+  {
+    "sentence": "Today a truck hit my car . I wasn ' t hurt but I got the freight of my life .",
+    "src": "freight",
+    "src_root": "freight",
+    "tgt_root": "fright"
+  },
+  {
+    "sentence": "Absent the fungus , the story had no morel",
+    "src": "morel",
+    "src_root": "morel",
+    "tgt_root": "moral"
+  },
+  {
+    "sentence": "' ' I ' ve struck oil ! ' ' said Tom crudely .",
+    "src": "crudely",
+    "src_root": "crudely",
+    "tgt_root": "crude"
+  },
+  {
+    "sentence": "I get my large circumference from too much pi .",
+    "src": "pi",
+    "src_root": "pi",
+    "tgt_root": "pie"
+  },
+  {
+    "sentence": "This is some pretty good tapioca . That ' s one way of pudding it .",
+    "src": "pudding",
+    "src_root": "pudding",
+    "tgt_root": "put"
+  },
+  {
+    "sentence": "Kentucky Fried Chicken , looking to expand into the area of low - fat dining alternatives , has begun selling popcorn . Their new motto is , ' ' Look for the kernel . ' '",
+    "src": "kernel",
+    "src_root": "kernel",
+    "tgt_root": "colonel"
+  },
+  {
+    "sentence": "One day my friend asked me , how do you take such good care of your saxophone . I responded with tenor , love and care .",
+    "src": "tenor",
+    "src_root": "tenor",
+    "tgt_root": "tender"
+  },
+  {
+    "sentence": "A reformed arsonist was in confession . He began , ' ' Bless me Father for I have singed . ' '",
+    "src": "singed",
+    "src_root": "singe",
+    "tgt_root": "sin"
+  },
+  {
+    "sentence": "' ' I won ' t finish in fifth place , ' ' Tom held forth .",
+    "src": "forth",
+    "src_root": "forth",
+    "tgt_root": "fourth"
+  },
+  {
+    "sentence": "Old genealogists never die , they just lose their census .",
+    "src": "census",
+    "src_root": "census",
+    "tgt_root": "sense"
+  },
+  {
+    "sentence": "A bacteria walked into a bar and the bartender said , ' We don ' t serve bacteria in this place . ' The bacteria said , ' But I work here , I ' m staph . '",
+    "src": "staph",
+    "src_root": "staph",
+    "tgt_root": "staff"
+  },
+  {
+    "sentence": "Try our Sundays , they \u2019 re better than Baskin Robbins",
+    "src": "Sundays",
+    "src_root": "sunday",
+    "tgt_root": "sundae"
+  },
+  {
+    "sentence": "Santa goes down the chimney because it soots him .",
+    "src": "soots",
+    "src_root": "soot",
+    "tgt_root": "suit"
+  },
+  {
+    "sentence": "She was only a Computer Programmer ' s daughter , but she sure liked to byte .",
+    "src": "byte",
+    "src_root": "byte",
+    "tgt_root": "bite"
+  },
+  {
+    "sentence": "My neighbor ' s sprinkler is a constant irrigation to me .",
+    "src": "irrigation",
+    "src_root": "irrigation",
+    "tgt_root": "irritation"
+  },
+  {
+    "sentence": "The dieters vowed to let nothing go to waist .",
+    "src": "waist",
+    "src_root": "waist",
+    "tgt_root": "waste"
+  },
+  {
+    "sentence": "Communism is a complicated thing . You must think about from all sorts of Engels .",
+    "src": "Engels",
+    "src_root": "engels",
+    "tgt_root": "angle"
+  },
+  {
+    "sentence": "OLD CHICKEN FARMERS never die , they just end up with a dozen aches .",
+    "src": "aches",
+    "src_root": "ache",
+    "tgt_root": "egg"
+  },
+  {
+    "sentence": "She was only a Glazier ' s daughter , but she was never a pain to me .",
+    "src": "pain",
+    "src_root": "pain",
+    "tgt_root": "pane"
+  },
+  {
+    "sentence": "I dropped out of my communism class because of lousy Marx .",
+    "src": "Marx",
+    "src_root": "marx",
+    "tgt_root": "mark"
+  },
+  {
+    "sentence": "She said she wasn ' t pregnant but contractions speak louder then words .",
+    "src": "contractions",
+    "src_root": "contraction",
+    "tgt_root": "action"
+  },
+  {
+    "sentence": "During my trip to Italy , I didn ' t do much . I just vegged out . When in Rome , do as the Romaines .",
+    "src": "Romaines",
+    "src_root": "romaine",
+    "tgt_root": "roman"
+  },
+  {
+    "sentence": "' I got lost in the streets of Paris , ' he said ruefully .",
+    "src": "ruefully",
+    "src_root": "ruefully",
+    "tgt_root": "rue"
+  },
+  {
+    "sentence": "What do you call Peruvian Rorschach tests ? Inca Blots .",
+    "src": "Inca",
+    "src_root": "inca",
+    "tgt_root": "ink"
+  },
+  {
+    "sentence": "The steward refused to swallow the harsh whine of the petulant cabernet peddler .",
+    "src": "whine",
+    "src_root": "whine",
+    "tgt_root": "wine"
+  },
+  {
+    "sentence": "We ' ve taken over the government , Tom cooed",
+    "src": "cooed",
+    "src_root": "coo",
+    "tgt_root": "coup"
+  },
+  {
+    "sentence": "' ' It ' s become much bigger , ' ' said Tom with a groan .",
+    "src": "groan",
+    "src_root": "groan",
+    "tgt_root": "grow"
+  },
+  {
+    "sentence": "A logger went to his doctor because of a problem with the lumbar .",
+    "src": "lumbar",
+    "src_root": "lumbar",
+    "tgt_root": "lumber"
+  },
+  {
+    "sentence": "' ' Are you all governors ? ' ' Tom asked , bored .",
+    "src": "bored",
+    "src_root": "bored",
+    "tgt_root": "board"
+  },
+  {
+    "sentence": "A chaplain on the sea leads the soldiers in their warship .",
+    "src": "warship",
+    "src_root": "warship",
+    "tgt_root": "worship"
+  },
+  {
+    "sentence": "When asked by her co - workers whether they should bring a gift to her birthday party , Mary replied , ' ' You should know that all I ' m interested in is your presence . ' '",
+    "src": "presence",
+    "src_root": "presence",
+    "tgt_root": "present"
+  },
+  {
+    "sentence": "I keep reading ' The Lord of the Rings ' over and over . I guess it ' s just force of hobbit .",
+    "src": "hobbit",
+    "src_root": "hobbit",
+    "tgt_root": "habit"
+  },
+  {
+    "sentence": "' ' Give me a haircut , ' ' Tom said barbarously .",
+    "src": "barbarously",
+    "src_root": "barbarously",
+    "tgt_root": "barber"
+  },
+  {
+    "sentence": "Betty Crocker was a flour child .",
+    "src": "flour",
+    "src_root": "flour",
+    "tgt_root": "flower"
+  },
+  {
+    "sentence": "She was only a Coal dealer ' s daughter , but , oh , where she had bin .",
+    "src": "bin",
+    "src_root": "bin",
+    "tgt_root": "be"
+  },
+  {
+    "sentence": "Tired well worn expressions need to be phrased out of the language .",
+    "src": "phrased",
+    "src_root": "phrase",
+    "tgt_root": "phase_out"
+  },
+  {
+    "sentence": "He rose through the ranks of the International Corn Growers association , eventually becoming a kernel .",
+    "src": "kernel",
+    "src_root": "kernel",
+    "tgt_root": "colonel"
+  },
+  {
+    "sentence": "A scientist who wanted a tattoo got a skin graph .",
+    "src": "graph",
+    "src_root": "graph",
+    "tgt_root": "graft"
+  },
+  {
+    "sentence": "Balls ! Tom said roundly .",
+    "src": "roundly",
+    "src_root": "roundly",
+    "tgt_root": "round"
+  },
+  {
+    "sentence": "My friends call me Mesa because of my big butte .",
+    "src": "butte",
+    "src_root": "butte",
+    "tgt_root": "butt"
+  },
+  {
+    "sentence": "Nothing can compare to picnicking on a French hillside and savoring the bries .",
+    "src": "bries",
+    "src_root": "brie",
+    "tgt_root": "breeze"
+  },
+  {
+    "sentence": "OLD DAIRY FARMERS never die , they just go to the udder place .",
+    "src": "udder",
+    "src_root": "udder",
+    "tgt_root": "other"
+  },
+  {
+    "sentence": "She must be wearing mink , Tom inferred .",
+    "src": "inferred",
+    "src_root": "infer",
+    "tgt_root": "fur"
+  },
+  {
+    "sentence": "Westinghouse stopped everything . . . he needed the brake .",
+    "src": "brake",
+    "src_root": "brake",
+    "tgt_root": "break"
+  },
+  {
+    "sentence": "A six foot poet stanza very tall .",
+    "src": "stanza",
+    "src_root": "stanza",
+    "tgt_root": "stand"
+  },
+  {
+    "sentence": "OLD HELSINKI TOURISTS never die , they just vanish into Finn air .",
+    "src": "Finn",
+    "src_root": "finn",
+    "tgt_root": "thin"
+  },
+  {
+    "sentence": "When you use glue in class it paste to be careful .",
+    "src": "paste",
+    "src_root": "paste",
+    "tgt_root": "pay"
+  },
+  {
+    "sentence": "When the King asked the fool for a joke the fool just shrugged . He was the court gesture .",
+    "src": "gesture",
+    "src_root": "gesture",
+    "tgt_root": "jester"
+  },
+  {
+    "sentence": "I didn ' t want to buy leather shoes , but eventually I was suede .",
+    "src": "suede",
+    "src_root": "suede",
+    "tgt_root": "sway"
+  },
+  {
+    "sentence": "Reported sightings of the abominable snowman are yeti to be confirmed .",
+    "src": "yeti",
+    "src_root": "yeti",
+    "tgt_root": "yet"
+  },
+  {
+    "sentence": "' ' I ' d like to eat seventeen cakes , ' ' Tom agreed .",
+    "src": "agreed",
+    "src_root": "agree",
+    "tgt_root": "greed"
+  },
+  {
+    "sentence": "The mathematics professor , lamenting his students ' lackadaisical approach to trigonometry , sighed , ' ' It ' s a sine of the times . ' '",
+    "src": "sine",
+    "src_root": "sine",
+    "tgt_root": "sign"
+  },
+  {
+    "sentence": "There was a guy who played the organ in his garden to get organically grown food .",
+    "src": "organically",
+    "src_root": "organically",
+    "tgt_root": "organ"
+  },
+  {
+    "sentence": "At a pet store : ' buy one dog , get one flea ' .",
+    "src": "flea",
+    "src_root": "flea",
+    "tgt_root": "free"
+  },
+  {
+    "sentence": "The other day I held the door open for a clown . I thought it was a nice jester .",
+    "src": "jester",
+    "src_root": "jester",
+    "tgt_root": "gesture"
+  },
+  {
+    "sentence": "A fisherman hated fish and chips but he didn ' t tell a sole .",
+    "src": "sole",
+    "src_root": "sole",
+    "tgt_root": "soul"
+  },
+  {
+    "sentence": "A letter carrier career is a mail dominated profession .",
+    "src": "mail",
+    "src_root": "mail",
+    "tgt_root": "male"
+  },
+  {
+    "sentence": "Her eyes were wide with longing as she peered into the Dunkin ' Donuts box and ate the last doughnut whole .",
+    "src": "whole",
+    "src_root": "whole",
+    "tgt_root": "hole"
+  },
+  {
+    "sentence": "He drove his car until the day of wreckoning .",
+    "src": "wreckoning",
+    "src_root": "wreck",
+    "tgt_root": "reckon"
+  },
+  {
+    "sentence": "I flunked my exam , said Tom , testily .",
+    "src": "testily",
+    "src_root": "testily",
+    "tgt_root": "test"
+  },
+  {
+    "sentence": "' ' Another plate of seafood for me ! ' ' Tom clamored .",
+    "src": "clamored",
+    "src_root": "clamor",
+    "tgt_root": "clam"
+  },
+  {
+    "sentence": "' ' Who discovered radium ? ' ' asked Tom curiously .",
+    "src": "curiously",
+    "src_root": "curiously",
+    "tgt_root": "curie"
+  },
+  {
+    "sentence": "I ' m a mathematician , Tom added summarily .",
+    "src": "summarily",
+    "src_root": "summarily",
+    "tgt_root": "sum"
+  },
+  {
+    "sentence": "King Arthur really knew how to deal with the sworded truth .",
+    "src": "sworded",
+    "src_root": "sword",
+    "tgt_root": "sordid"
+  },
+  {
+    "sentence": "When I was starving to death , my children gave me a raisin to keep on living .",
+    "src": "raisin",
+    "src_root": "raisin",
+    "tgt_root": "reason"
+  },
+  {
+    "sentence": "The lamb was cold because he lost his muttons .",
+    "src": "muttons",
+    "src_root": "mutton",
+    "tgt_root": "mitten"
+  },
+  {
+    "sentence": "The magician got so mad he pulled his hare out .",
+    "src": "hare",
+    "src_root": "hare",
+    "tgt_root": "hair"
+  },
+  {
+    "sentence": "I ' m not a crook , Nixon said resignedly .",
+    "src": "resignedly",
+    "src_root": "resignedly",
+    "tgt_root": "resign"
+  },
+  {
+    "sentence": "I can ' t budge this huge box ! ' ' I exclaimed . ' ' Of course not , ' ' the office supply warehouse clerk replied , ' ' it ' s stationery . ' ' .",
+    "src": "stationery",
+    "src_root": "stationery",
+    "tgt_root": "stationary"
+  },
+  {
+    "sentence": "My investments are worth more every day , said Tom appreciatively .",
+    "src": "appreciatively",
+    "src_root": "appreciatively",
+    "tgt_root": "appreciate"
+  },
+  {
+    "sentence": "When the bad poet stood in front of the judge , the judge thought the punishment should fit the rhyme .",
+    "src": "rhyme",
+    "src_root": "rhyme",
+    "tgt_root": "crime"
+  },
+  {
+    "sentence": "She dumped him because of all their lousy dates . After all , whining and dining does get tiresome after a while .",
+    "src": "whining",
+    "src_root": "whine",
+    "tgt_root": "wine"
+  },
+  {
+    "sentence": "Il se muove , said Galileo , movingly",
+    "src": "movingly",
+    "src_root": "movingly",
+    "tgt_root": "move"
+  },
+  {
+    "sentence": "' ' Nobody has scored yet in the tennis game , ' ' said Tom lovingly .",
+    "src": "lovingly",
+    "src_root": "lovingly",
+    "tgt_root": "love"
+  },
+  {
+    "sentence": "When walking through a pig barn be careful how you maneuver .",
+    "src": "maneuver",
+    "src_root": "maneuver",
+    "tgt_root": "manure"
+  },
+  {
+    "sentence": "In middle east outdoor markets you can find bazaar items for sale .",
+    "src": "bazaar",
+    "src_root": "bazaar",
+    "tgt_root": "bizarre"
+  },
+  {
+    "sentence": "Do you play the guitar ? , Tom asked callously .",
+    "src": "callously",
+    "src_root": "callously",
+    "tgt_root": "callus"
+  },
+  {
+    "sentence": "I was studying in an apiary class . This resulted in me receiving a bee on my exam .",
+    "src": "bee",
+    "src_root": "bee",
+    "tgt_root": "b"
+  },
+  {
+    "sentence": "She was only a Quarryman ' s daughter , but she took everything for granite .",
+    "src": "granite",
+    "src_root": "granite",
+    "tgt_root": "granted"
+  },
+  {
+    "sentence": "A doctor who fell on his funny bone had a nurse tell him it was a humerus incident .",
+    "src": "humerus",
+    "src_root": "humerus",
+    "tgt_root": "humorous"
+  },
+  {
+    "sentence": "There are a lot of bakeries on the yeast coast .",
+    "src": "yeast",
+    "src_root": "yeast",
+    "tgt_root": "east"
+  },
+  {
+    "sentence": "OLD PACIFISTS never die they just go to peaces .",
+    "src": "peaces",
+    "src_root": "peace",
+    "tgt_root": "piece"
+  },
+  {
+    "sentence": "The candle - making machine broke down when someone threw a spanner in the wax .",
+    "src": "wax",
+    "src_root": "wax",
+    "tgt_root": "works"
+  },
+  {
+    "sentence": "Computers at breakfast food companies use serial i / o .",
+    "src": "serial",
+    "src_root": "serial",
+    "tgt_root": "cereal"
+  },
+  {
+    "sentence": "Thieves have muscles of steal .",
+    "src": "steal",
+    "src_root": "steal",
+    "tgt_root": "steel"
+  },
+  {
+    "sentence": "If they say you look good in glasses that would be an optical allusion .",
+    "src": "allusion",
+    "src_root": "allusion",
+    "tgt_root": "illusion"
+  },
+  {
+    "sentence": "If I am afraid of losing my fat tissue . My psychiatrist told me I have an adipose complex .",
+    "src": "adipose",
+    "src_root": "adipose",
+    "tgt_root": "oedipus"
+  },
+  {
+    "sentence": "He wasn ' t supposed to eat the pie but he kept pecan at it .",
+    "src": "pecan",
+    "src_root": "pecan",
+    "tgt_root": "peck"
+  },
+  {
+    "sentence": "I agreed to watch my neighbor ' s dog , but only if it didn ' t scratch me . It ' s in the clause .",
+    "src": "clause",
+    "src_root": "clause",
+    "tgt_root": "claw"
+  },
+  {
+    "sentence": "The first order of priority in hiring math majors is get them to sine on the dotted line",
+    "src": "sine",
+    "src_root": "sine",
+    "tgt_root": "sign"
+  },
+  {
+    "sentence": "' Volts ' - the dance you perform after an electric shock .",
+    "src": "Volts",
+    "src_root": "volt",
+    "tgt_root": "waltz"
+  },
+  {
+    "sentence": "If intervening was an olympic sport , he ' d win the gold meddle .",
+    "src": "meddle",
+    "src_root": "meddle",
+    "tgt_root": "medal"
+  },
+  {
+    "sentence": "When the Pequod with its crew went down , Ishmael remembered , a great wail came up from the sea .",
+    "src": "wail",
+    "src_root": "wail",
+    "tgt_root": "whale"
+  },
+  {
+    "sentence": "Those who carry too many buckets start feeling pail .",
+    "src": "pail",
+    "src_root": "pail",
+    "tgt_root": "pale"
+  },
+  {
+    "sentence": "Modern fashion designs are often presented with tongue in chic .",
+    "src": "chic",
+    "src_root": "chic",
+    "tgt_root": "cheek"
+  },
+  {
+    "sentence": "Be kind to your dentist because he has fillings too .",
+    "src": "fillings",
+    "src_root": "filling",
+    "tgt_root": "feeling"
+  },
+  {
+    "sentence": "I was given a shampoo and trim by a Pakistani in Liverpool , said Tom in Urdu .",
+    "src": "Urdu",
+    "src_root": "urdu",
+    "tgt_root": "hairdo"
+  },
+  {
+    "sentence": "I ' m always exhausted by Friday , said Tom weakly .",
+    "src": "weakly",
+    "src_root": "weakly",
+    "tgt_root": "week"
+  },
+  {
+    "sentence": "Coins are mint to be .",
+    "src": "mint",
+    "src_root": "mint",
+    "tgt_root": "mean"
+  },
+  {
+    "sentence": "The bullfighter ' s display of timidity left macho to be desired .",
+    "src": "macho",
+    "src_root": "macho",
+    "tgt_root": "much"
+  },
+  {
+    "sentence": "OLD LAWN CARE WORKERS never die , they just recede .",
+    "src": "recede",
+    "src_root": "recede",
+    "tgt_root": "reseed"
+  },
+  {
+    "sentence": "If you ' re dying to purchase cropland in Thailand , then you ' ve baht the farm .",
+    "src": "baht",
+    "src_root": "baht",
+    "tgt_root": "buy"
+  },
+  {
+    "sentence": "Have another soft drink , Tom coaxed .",
+    "src": "coaxed",
+    "src_root": "coax",
+    "tgt_root": "coke"
+  },
+  {
+    "sentence": "I don ' t like hanging out at the pancake house , that place gives me the crepes !",
+    "src": "crepes",
+    "src_root": "crepe",
+    "tgt_root": "creeps"
+  },
+  {
+    "sentence": "You can ' t trust a tiger . You never know when he might be lion .",
+    "src": "lion",
+    "src_root": "lion",
+    "tgt_root": "lie"
+  },
+  {
+    "sentence": "I heard about this new governing document that says people can only go to the bathroom one per day . It ' s called the Constipation .",
+    "src": "Constipation",
+    "src_root": "constipation",
+    "tgt_root": "constitution"
+  },
+  {
+    "sentence": "Fight Truth Decay \u2026 Study The Bible Daily",
+    "src": "Truth",
+    "src_root": "truth",
+    "tgt_root": "tooth"
+  },
+  {
+    "sentence": "OLD DIVERS never die , they just get board .",
+    "src": "board",
+    "src_root": "board",
+    "tgt_root": "bored"
+  },
+  {
+    "sentence": "My shins are well protected , Tom grieved .",
+    "src": "grieved",
+    "src_root": "grieve",
+    "tgt_root": "greave"
+  },
+  {
+    "sentence": "' ' Another work week begins , ' ' said Tom mundanely .",
+    "src": "mundanely",
+    "src_root": "mundanely",
+    "tgt_root": "monday"
+  },
+  {
+    "sentence": "Bees make money by celling their honey .",
+    "src": "celling",
+    "src_root": "cell",
+    "tgt_root": "sell"
+  },
+  {
+    "sentence": "A bunch of robins followed the priest wherever he went . Birds of a father flock together .",
+    "src": "father",
+    "src_root": "father",
+    "tgt_root": "feather"
+  },
+  {
+    "sentence": "' ' It ' s made the grass wet , ' ' said Tom after due consideration .",
+    "src": "due",
+    "src_root": "due",
+    "tgt_root": "dew"
+  },
+  {
+    "sentence": "The math teacher was a good dancer - he had algorithm .",
+    "src": "algorithm",
+    "src_root": "algorithm",
+    "tgt_root": "rhythm"
+  },
+  {
+    "sentence": "' ' That ' s nothing ! ' ' said Tom naughtily .",
+    "src": "naughtily",
+    "src_root": "naughtily",
+    "tgt_root": "naught"
+  },
+  {
+    "sentence": "OLD ELVIS IMPERSONATORS never die , they just get out of sequins .",
+    "src": "sequins",
+    "src_root": "sequin",
+    "tgt_root": "sequence"
+  },
+  {
+    "sentence": "Did you hear about the film editor at Hollywood who had a part - time job at a pizza parlor ? He used to ask customers whether they wanted one splice or two .",
+    "src": "splice",
+    "src_root": "splice",
+    "tgt_root": "slice"
+  },
+  {
+    "sentence": "The male pig puts everyone to sleep . You could say he ' s quite the boar .",
+    "src": "boar",
+    "src_root": "boar",
+    "tgt_root": "bore"
+  },
+  {
+    "sentence": "The suspect ' Sheppard ' was finally taken into custody after authorities caught him on the lam .",
+    "src": "lam",
+    "src_root": "lam",
+    "tgt_root": "lamb"
+  },
+  {
+    "sentence": "If a Monk throws a hissy fit , is it a temple tantrum ?",
+    "src": "temple",
+    "src_root": "temple",
+    "tgt_root": "temper"
+  },
+  {
+    "sentence": "They tried to save him with an I . V . but it was all in vein .",
+    "src": "vein",
+    "src_root": "vein",
+    "tgt_root": "in_vain"
+  },
+  {
+    "sentence": "The editor inserted a caret in the recipe .",
+    "src": "caret",
+    "src_root": "caret",
+    "tgt_root": "carrot"
+  },
+  {
+    "sentence": "' ' Cosign here , ' ' read the first instruction on the trigonometry placement exam .",
+    "src": "Cosign",
+    "src_root": "cosign",
+    "tgt_root": "cosine"
+  },
+  {
+    "sentence": "Throughout the centuries , the Buddhist herdsmen of Peru have followed their lamas religiously .",
+    "src": "lamas",
+    "src_root": "lama",
+    "tgt_root": "llama"
+  },
+  {
+    "sentence": "After coming to work and play musicians come home suite home .",
+    "src": "suite",
+    "src_root": "suite",
+    "tgt_root": "sweet"
+  },
+  {
+    "sentence": "There ' s a Sin dividing line between heaven and hell .",
+    "src": "Sin",
+    "src_root": "sin",
+    "tgt_root": "thin"
+  },
+  {
+    "sentence": "When old story tellers die they are mythed .",
+    "src": "mythed",
+    "src_root": "myth",
+    "tgt_root": "miss"
+  },
+  {
+    "sentence": "When people first heard of the ABS , it was braking news .",
+    "src": "braking",
+    "src_root": "brake",
+    "tgt_root": "break"
+  },
+  {
+    "sentence": "OLD SLAVS never die , they just czech out .",
+    "src": "czech",
+    "src_root": "czech",
+    "tgt_root": "check_out"
+  },
+  {
+    "sentence": "A gossip is someone with a great sense of rumor .",
+    "src": "rumor",
+    "src_root": "rumor",
+    "tgt_root": "humor"
+  },
+  {
+    "sentence": "She was only a Poet ' s daughter , but I ' ve seen verse .",
+    "src": "verse",
+    "src_root": "verse",
+    "tgt_root": "worse"
+  },
+  {
+    "sentence": "The humorist ' s favorite sandwich was smoked tongue on wry .",
+    "src": "wry",
+    "src_root": "wry",
+    "tgt_root": "rye"
+  },
+  {
+    "sentence": "Why did the pig quit running the marathon ? He had a problem with his hamstring .",
+    "src": "hamstring",
+    "src_root": "hamstring",
+    "tgt_root": "ham"
+  },
+  {
+    "sentence": "' ' A dog bit me , ' ' said Tom rabidly .",
+    "src": "rabidly",
+    "src_root": "rabidly",
+    "tgt_root": "rabid"
+  },
+  {
+    "sentence": "Carmen is my favorite opera , said Tom busily .",
+    "src": "busily",
+    "src_root": "busily",
+    "tgt_root": "bizet"
+  },
+  {
+    "sentence": "The Arab ' s opulence was obvious from his chic clothing . ' '",
+    "src": "chic",
+    "src_root": "chic",
+    "tgt_root": "sheik"
+  },
+  {
+    "sentence": "OLD HYPOCHONDRIACS never die they just lose their grippe .",
+    "src": "grippe",
+    "src_root": "grippe",
+    "tgt_root": "grip"
+  },
+  {
+    "sentence": "Waiting for her photos to be developed a young girl sang ' Some day my prints will come . '",
+    "src": "prints",
+    "src_root": "print",
+    "tgt_root": "prince"
+  },
+  {
+    "sentence": "I really regretted the inconsiderate comment I made . It was rued .",
+    "src": "rued",
+    "src_root": "rue",
+    "tgt_root": "rude"
+  },
+  {
+    "sentence": "The eight chicken farmers jumped in their rowing shell and put their cox up in front .",
+    "src": "cox",
+    "src_root": "cox",
+    "tgt_root": "cock"
+  },
+  {
+    "sentence": "The sun was bright on a dry , cloudless morning , but later it waned .",
+    "src": "waned",
+    "src_root": "wane",
+    "tgt_root": "rain"
+  },
+  {
+    "sentence": "A baker stopped making donuts after he got tired of the hole thing .",
+    "src": "hole",
+    "src_root": "hole",
+    "tgt_root": "whole"
+  },
+  {
+    "sentence": "A baker always put too much flour in his bread because he was a gluten for punishment .",
+    "src": "gluten",
+    "src_root": "gluten",
+    "tgt_root": "glutton"
+  },
+  {
+    "sentence": "Remembering the Mongol leader ' s reputation for chicanery , Marco Polo approached the palace of the khan warily .",
+    "src": "khan",
+    "src_root": "khan",
+    "tgt_root": "con"
+  },
+  {
+    "sentence": "Anxious about the future ? Psalms read every Sunday .",
+    "src": "Psalms",
+    "src_root": "psalm",
+    "tgt_root": "palm"
+  },
+  {
+    "sentence": "After Jimmy swallowed a live earthworm , he sat waiting with baited breath to see if he ' d get sick .",
+    "src": "baited",
+    "src_root": "bait",
+    "tgt_root": "bate"
+  },
+  {
+    "sentence": "Romance isn ' t a science - it ' s a heart .",
+    "src": "heart",
+    "src_root": "heart",
+    "tgt_root": "art"
+  },
+  {
+    "sentence": "The marine biology seminars weren ' t for entertainment , but were created for educational porpoises .",
+    "src": "porpoises",
+    "src_root": "porpoise",
+    "tgt_root": "purpose"
+  },
+  {
+    "sentence": "My chronically runny - nosed friend , who staunchly opposes all independent emirates , was bothered by catarrh on his trip around the world .",
+    "src": "catarrh",
+    "src_root": "catarrh",
+    "tgt_root": "qatar"
+  },
+  {
+    "sentence": "The first scientists who studied fog were mistified .",
+    "src": "mistified",
+    "src_root": "mystify",
+    "tgt_root": "mist"
+  },
+  {
+    "sentence": "I don ' t recommend dating bridge builders , they have truss issues .",
+    "src": "truss",
+    "src_root": "truss",
+    "tgt_root": "trust"
+  },
+  {
+    "sentence": "A massage therapist kneaded new customers .",
+    "src": "kneaded",
+    "src_root": "knead",
+    "tgt_root": "need"
+  },
+  {
+    "sentence": "The geneticist taught his students how to mendel defective genes .",
+    "src": "mendel",
+    "src_root": "mendel",
+    "tgt_root": "mend"
+  },
+  {
+    "sentence": "Farmers can hardly wheat for a good harvest .",
+    "src": "wheat",
+    "src_root": "wheat",
+    "tgt_root": "wait"
+  },
+  {
+    "sentence": "The Egyptian cinema usherette sold religious icons in the daytime . Sometimes she got confused and called out , ' Get your choc isis here ! '",
+    "src": "isis",
+    "src_root": "isis",
+    "tgt_root": "ice"
+  },
+  {
+    "sentence": "Have you ever been whitewater rafting ? Tom asked rapidly .",
+    "src": "rapidly",
+    "src_root": "rapidly",
+    "tgt_root": "rapid"
+  },
+  {
+    "sentence": "An explosion at the meat packing plant caused quite a meatier shower .",
+    "src": "meatier",
+    "src_root": "meaty",
+    "tgt_root": "meteor"
+  },
+  {
+    "sentence": "' ' Do you buy and sell stolen goods ? ' ' asked Tom offensively .",
+    "src": "offensively",
+    "src_root": "offensively",
+    "tgt_root": "fence"
+  },
+  {
+    "sentence": "That ' s no beagle ; that ' s a mongrel , Tom muttered .",
+    "src": "muttered",
+    "src_root": "mutter",
+    "tgt_root": "mutt"
+  },
+  {
+    "sentence": "An argument over puppy selection is a pique of the litter .",
+    "src": "pique",
+    "src_root": "pique",
+    "tgt_root": "pick"
+  },
+  {
+    "sentence": "To heir is human .",
+    "src": "heir",
+    "src_root": "heir",
+    "tgt_root": "err"
+  },
+  {
+    "sentence": "That the obstetrician ' s services were needed on the train was an accident of berth .",
+    "src": "berth",
+    "src_root": "berth",
+    "tgt_root": "birth"
+  },
+  {
+    "sentence": "People in Switzerland can ' t learn to ski without a lot of alp .",
+    "src": "alp",
+    "src_root": "alp",
+    "tgt_root": "help"
+  },
+  {
+    "sentence": "A pun is its own reword .",
+    "src": "reword",
+    "src_root": "reword",
+    "tgt_root": "reward"
+  },
+  {
+    "sentence": "The nuclear physicist took a vacation for a fission trip .",
+    "src": "fission",
+    "src_root": "fission",
+    "tgt_root": "fish"
+  },
+  {
+    "sentence": "Time flies when you \u2019 re following the son",
+    "src": "son",
+    "src_root": "son",
+    "tgt_root": "sun"
+  },
+  {
+    "sentence": "OLD KINGS never die they just get throne away",
+    "src": "throne",
+    "src_root": "throne",
+    "tgt_root": "throw"
+  },
+  {
+    "sentence": "' ' It ' s a unit of electric current , ' ' said Tom amply .",
+    "src": "amply",
+    "src_root": "amply",
+    "tgt_root": "amp"
+  },
+  {
+    "sentence": "When the fog burns off it won ' t be mist .",
+    "src": "mist",
+    "src_root": "mist",
+    "tgt_root": "miss"
+  },
+  {
+    "sentence": "A fisherman took pain pills because of a persistent haddock .",
+    "src": "haddock",
+    "src_root": "haddock",
+    "tgt_root": "headache"
+  },
+  {
+    "sentence": "OLD PROSTITUTES never die , they just fake away",
+    "src": "fake",
+    "src_root": "fake",
+    "tgt_root": "fade_away"
+  },
+  {
+    "sentence": "Many people are strongly attracted to a magnate .",
+    "src": "magnate",
+    "src_root": "magnate",
+    "tgt_root": "magnet"
+  },
+  {
+    "sentence": "Local Area Network in Australia : the LAN down under .",
+    "src": "LAN",
+    "src_root": "lan",
+    "tgt_root": "land"
+  },
+  {
+    "sentence": "A second chimney is superfluous .",
+    "src": "superfluous",
+    "src_root": "superfluous",
+    "tgt_root": "flue"
+  },
+  {
+    "sentence": "I like hot fudge sauce , but never on sundays .",
+    "src": "sundays",
+    "src_root": "sunday",
+    "tgt_root": "sundae"
+  },
+  {
+    "sentence": "George Westinghouse was a refrigerator magnate .",
+    "src": "magnate",
+    "src_root": "magnate",
+    "tgt_root": "magnet"
+  },
+  {
+    "sentence": "Sin and bear it",
+    "src": "Sin",
+    "src_root": "sin",
+    "tgt_root": "grin"
+  },
+  {
+    "sentence": "I ' m a great opera singer , said Tom , being callous .",
+    "src": "callous",
+    "src_root": "callous",
+    "tgt_root": "callas"
+  },
+  {
+    "sentence": "Ever since my mineral extraction facility was converted to parking , I ' ve had a lot on my mine .",
+    "src": "mine",
+    "src_root": "mine",
+    "tgt_root": "mind"
+  },
+  {
+    "sentence": "Another batch of shells for me ! Tom clamored .",
+    "src": "clamored",
+    "src_root": "clamor",
+    "tgt_root": "clam"
+  },
+  {
+    "sentence": "If you want to buy a hose you might go on a shopping spray .",
+    "src": "spray",
+    "src_root": "spray",
+    "tgt_root": "spree"
+  },
+  {
+    "sentence": "She thought it was a real horse , but it was a phony .",
+    "src": "phony",
+    "src_root": "phony",
+    "tgt_root": "pony"
+  },
+  {
+    "sentence": "The Belly Dancer was popular with sailors because she understood navel maneuvers .",
+    "src": "navel",
+    "src_root": "navel",
+    "tgt_root": "naval"
+  },
+  {
+    "sentence": "A man threatened to jump off the side of a building - alledgedly .",
+    "src": "alledgedly",
+    "src_root": "allegedly",
+    "tgt_root": "ledge"
+  },
+  {
+    "sentence": "The evil onion had many lairs .",
+    "src": "lairs",
+    "src_root": "lair",
+    "tgt_root": "layer"
+  },
+  {
+    "sentence": "The Loch Ness monster eats fish and ships .",
+    "src": "ships",
+    "src_root": "ship",
+    "tgt_root": "chips"
+  },
+  {
+    "sentence": "' ' I think I ' ll use a different font , ' ' said Tom boldly .",
+    "src": "boldly",
+    "src_root": "boldly",
+    "tgt_root": "bold"
+  },
+  {
+    "sentence": "Well I ' ll be an SOB ! Tom said doggedly .",
+    "src": "doggedly",
+    "src_root": "doggedly",
+    "tgt_root": "dog"
+  },
+  {
+    "sentence": "OLD WEATHERMEN never die , they reign forever .",
+    "src": "reign",
+    "src_root": "reign",
+    "tgt_root": "rain"
+  },
+  {
+    "sentence": "I knew that the spirit couldn ' t float around very long . What ghost up must come down .",
+    "src": "ghost",
+    "src_root": "ghost",
+    "tgt_root": "go"
+  },
+  {
+    "sentence": "What is a duck ' s favorite game to play ? Billiards .",
+    "src": "Billiards",
+    "src_root": "billiards",
+    "tgt_root": "bill"
+  },
+  {
+    "sentence": "The store clerk lost his job , so he set up a kiosk in the mall to vend for himself .",
+    "src": "vend",
+    "src_root": "vend",
+    "tgt_root": "fend"
+  },
+  {
+    "sentence": "Would you like some soda in your whiskey ? asked Tom caustically .",
+    "src": "caustically",
+    "src_root": "caustically",
+    "tgt_root": "caustic"
+  },
+  {
+    "sentence": "He who hesitates is bossed .",
+    "src": "bossed",
+    "src_root": "boss",
+    "tgt_root": "lose"
+  },
+  {
+    "sentence": "You should always use basil the day you buy it - as they say , herb today , gone tomorrow .",
+    "src": "herb",
+    "src_root": "herb",
+    "tgt_root": "here"
+  },
+  {
+    "sentence": "OLD HAIRDRESSERS never die , they just braid away . .",
+    "src": "braid",
+    "src_root": "braid",
+    "tgt_root": "fade_away"
+  },
+  {
+    "sentence": "I was kicked out of math class for one too many infractions .",
+    "src": "infractions",
+    "src_root": "infraction",
+    "tgt_root": "fraction"
+  },
+  {
+    "sentence": "Some orchestra conductors make their mark in the world of opera . They were in the right aria at the right time .",
+    "src": "aria",
+    "src_root": "aria",
+    "tgt_root": "area"
+  },
+  {
+    "sentence": "Astronauts like to do launch .",
+    "src": "launch",
+    "src_root": "launch",
+    "tgt_root": "lunch"
+  },
+  {
+    "sentence": "Chop up an old piano and you will get a cord of wood .",
+    "src": "cord",
+    "src_root": "cord",
+    "tgt_root": "chord"
+  },
+  {
+    "sentence": "The poet had written better poems , but he ' d also written verse .",
+    "src": "verse",
+    "src_root": "verse",
+    "tgt_root": "worse"
+  },
+  {
+    "sentence": "OLD DIETICIANS never die , they just waist away",
+    "src": "waist",
+    "src_root": "waist",
+    "tgt_root": "waste"
+  },
+  {
+    "sentence": "At a flower show the first prize is often a bloom ribbon .",
+    "src": "bloom",
+    "src_root": "bloom",
+    "tgt_root": "blue"
+  },
+  {
+    "sentence": "A dying artist painted himself into a coroner .",
+    "src": "coroner",
+    "src_root": "coroner",
+    "tgt_root": "corner"
+  },
+  {
+    "sentence": "' ' I teach at a university , ' ' Tom professed .",
+    "src": "professed",
+    "src_root": "profess",
+    "tgt_root": "professor"
+  },
+  {
+    "sentence": "Cottage cheese diet : eating your curds and weigh .",
+    "src": "weigh",
+    "src_root": "weigh",
+    "tgt_root": "whey"
+  },
+  {
+    "sentence": "Some people make big pottery items to urn a living .",
+    "src": "urn",
+    "src_root": "urn",
+    "tgt_root": "earn"
+  },
+  {
+    "sentence": "I ' ll eat till I burst , Tom agreed .",
+    "src": "agreed",
+    "src_root": "agree",
+    "tgt_root": "greed"
+  },
+  {
+    "sentence": "The IRS left a message on my cell phone that I owed them more money . It was a taxed message .",
+    "src": "taxed",
+    "src_root": "tax",
+    "tgt_root": "text"
+  },
+  {
+    "sentence": "On cooking shows , there is little margarine of error .",
+    "src": "margarine",
+    "src_root": "margarine",
+    "tgt_root": "margin"
+  },
+  {
+    "sentence": "The sweep got stuck in a cold chimney , which collapsed . He came down with the flue .",
+    "src": "flue",
+    "src_root": "flue",
+    "tgt_root": "flu"
+  },
+  {
+    "sentence": "A third - generation clothes designer had it in her jeans .",
+    "src": "jeans",
+    "src_root": "jeans",
+    "tgt_root": "gene"
+  },
+  {
+    "sentence": "The celebration of the royal wedding progressed well into the night . As he stumbled outside to await his ride home one inebriated nobleman , attracted by the bright lights , made his way to the theater district and sat down below one of the brightly illuminated theater signs to await his car . The driver , unfamiliar with both the nobleman and the area , was instructed to look for a well - lit marquis .",
+    "src": "marquis",
+    "src_root": "marquis",
+    "tgt_root": "marquee"
+  },
+  {
+    "sentence": "A chicken crossing the road is poultry in motion .",
+    "src": "poultry",
+    "src_root": "poultry",
+    "tgt_root": "poetry"
+  },
+  {
+    "sentence": "I ' ve inherited a fortune , said Tom , willfully",
+    "src": "willfully",
+    "src_root": "willfully",
+    "tgt_root": "will"
+  },
+  {
+    "sentence": "I ' ve made up my mind to re - lay my lawn . It was a turf decision .",
+    "src": "turf",
+    "src_root": "turf",
+    "tgt_root": "tough"
+  },
+  {
+    "sentence": "Did you hear about the vampire who used to torture his victims with music ? His Bach was worse than his bite .",
+    "src": "Bach",
+    "src_root": "bach",
+    "tgt_root": "bark"
+  },
+  {
+    "sentence": "One item contributed was a picture of a pretty , kimono - clad girl ; it bore the inscription : ' ' Maid in Japan ' ' .",
+    "src": "Maid",
+    "src_root": "maid",
+    "tgt_root": "made"
+  },
+  {
+    "sentence": "The white beets were returned to the produce supplier because they were chard beyond recognition .",
+    "src": "chard",
+    "src_root": "chard",
+    "tgt_root": "char"
+  },
+  {
+    "sentence": "I met a man who loves eating couches . I think he has a suite tooth .",
+    "src": "suite",
+    "src_root": "suite",
+    "tgt_root": "sweet"
+  },
+  {
+    "sentence": "I have always wanted to hand out carts at Wal - Mart . I cannot imagine a greeter job .",
+    "src": "greeter",
+    "src_root": "greeter",
+    "tgt_root": "greater"
+  },
+  {
+    "sentence": "The port was very beautiful . The sailors said it was haven on earth .",
+    "src": "haven",
+    "src_root": "haven",
+    "tgt_root": "heaven"
+  },
+  {
+    "sentence": "' ' The policeman charged me twenty bucks for speeding , ' ' said Tom finally .",
+    "src": "finally",
+    "src_root": "finally",
+    "tgt_root": "fine"
+  },
+  {
+    "sentence": "' ' This is mutiny ! ' ' said Tom bountifully .",
+    "src": "bountifully",
+    "src_root": "bountifully",
+    "tgt_root": "bounty"
+  },
+  {
+    "sentence": "' ' I need an injection , ' ' Tom pleaded in vain .",
+    "src": "vain",
+    "src_root": "in_vain",
+    "tgt_root": "vein"
+  },
+  {
+    "sentence": "Inflammatory talk is often seen as propane language .",
+    "src": "propane",
+    "src_root": "propane",
+    "tgt_root": "profane"
+  },
+  {
+    "sentence": "' ' Rowing hurts my hands , ' ' said Tom callously .",
+    "src": "callously",
+    "src_root": "callously",
+    "tgt_root": "callus"
+  },
+  {
+    "sentence": "I want you in the navy , said Tom impressively .",
+    "src": "impressively",
+    "src_root": "impressively",
+    "tgt_root": "impress"
+  },
+  {
+    "sentence": "On organic farms they till it like it is .",
+    "src": "till",
+    "src_root": "till",
+    "tgt_root": "tell"
+  },
+  {
+    "sentence": "She was only a Horseman ' s daughter , but she didn ' t know how to say neigh .",
+    "src": "neigh",
+    "src_root": "neigh",
+    "tgt_root": "nay"
+  },
+  {
+    "sentence": "When it comes to drinks , citrus fruit juices are always in the limelight .",
+    "src": "limelight",
+    "src_root": "limelight",
+    "tgt_root": "lime"
+  },
+  {
+    "sentence": "We believe in separation of church and hate",
+    "src": "hate",
+    "src_root": "hate",
+    "tgt_root": "state"
+  },
+  {
+    "sentence": "OLD FISHERMEN never die , they just get reel tired .",
+    "src": "reel",
+    "src_root": "reel",
+    "tgt_root": "real"
+  },
+  {
+    "sentence": "To find bargains go where the auction is .",
+    "src": "auction",
+    "src_root": "auction",
+    "tgt_root": "action"
+  },
+  {
+    "sentence": "The veterinarian had a great deal of trouble getting his dog to heel .",
+    "src": "heel",
+    "src_root": "heel",
+    "tgt_root": "heal"
+  },
+  {
+    "sentence": "He owned a fish farm until he poured out his sole .",
+    "src": "sole",
+    "src_root": "sole",
+    "tgt_root": "soul"
+  },
+  {
+    "sentence": "I was fixated on the pain in my bad tooth . I was abscessed by it .",
+    "src": "abscessed",
+    "src_root": "abscess",
+    "tgt_root": "obsess"
+  },
+  {
+    "sentence": "The whistling fisherman was always out of tuna .",
+    "src": "tuna",
+    "src_root": "tuna",
+    "tgt_root": "tune"
+  },
+  {
+    "sentence": "The editor received his award with sheer delete .",
+    "src": "delete",
+    "src_root": "delete",
+    "tgt_root": "delight"
+  },
+  {
+    "sentence": "The soup was so bad it was gruel and unusual punishment .",
+    "src": "gruel",
+    "src_root": "gruel",
+    "tgt_root": "cruel"
+  },
+  {
+    "sentence": "A band of teenagers cruised past my neighbor ' s house and pelted it with rotten tomatoes . Police described it as a drive - by fruiting .",
+    "src": "fruiting",
+    "src_root": "fruit",
+    "tgt_root": "shooting"
+  },
+  {
+    "sentence": "The accountant enjoyed the job , figuratively speaking .",
+    "src": "figuratively",
+    "src_root": "figuratively",
+    "tgt_root": "figure"
+  },
+  {
+    "sentence": "Jesus is more precious than silver or golf .",
+    "src": "golf",
+    "src_root": "golf",
+    "tgt_root": "gold"
+  },
+  {
+    "sentence": "I wouldn ' t marry you if you were the only woman on earth , said Tom evenly .",
+    "src": "evenly",
+    "src_root": "evenly",
+    "tgt_root": "eve"
+  },
+  {
+    "sentence": "Why was six afraid of seven ? Because seven eight nine .",
+    "src": "eight",
+    "src_root": "eight",
+    "tgt_root": "eat"
+  },
+  {
+    "sentence": "How do bunnies that don ' t have a car commute to work ? The Rabbit Transit .",
+    "src": "Rabbit",
+    "src_root": "rabbit",
+    "tgt_root": "rapid"
+  },
+  {
+    "sentence": "The Ennui Society elected a new chairman of the bored .",
+    "src": "bored",
+    "src_root": "bored",
+    "tgt_root": "board"
+  },
+  {
+    "sentence": "When I suffered a groin injury I became quite testy .",
+    "src": "testy",
+    "src_root": "testy",
+    "tgt_root": "testis"
+  },
+  {
+    "sentence": "The other animals shunned the kangaroo . They treated him like a leaper .",
+    "src": "leaper",
+    "src_root": "leaper",
+    "tgt_root": "leper"
+  },
+  {
+    "sentence": "A man sprayed a boy with ceiling foam . He was arrested for insulating behavior .",
+    "src": "insulating",
+    "src_root": "insulate",
+    "tgt_root": "insult"
+  },
+  {
+    "sentence": "Looting a drugstore is called Pillaging .",
+    "src": "Pillaging",
+    "src_root": "pillage",
+    "tgt_root": "pill"
+  },
+  {
+    "sentence": "You should lock up your wine in a cabernet .",
+    "src": "cabernet",
+    "src_root": "cabernet",
+    "tgt_root": "cabinet"
+  },
+  {
+    "sentence": "When Caesar entered the Senate all hail broke loose .",
+    "src": "hail",
+    "src_root": "hail",
+    "tgt_root": "hell"
+  },
+  {
+    "sentence": "The book about Teflon contained no frictional characters .",
+    "src": "frictional",
+    "src_root": "frictional",
+    "tgt_root": "fictional"
+  },
+  {
+    "sentence": "I ' m not sure about Heisenberg , said Tom uncertainly .",
+    "src": "uncertainly",
+    "src_root": "uncertainly",
+    "tgt_root": "uncertainty"
+  },
+  {
+    "sentence": "The old doctors practice of bloodletting was all in vein .",
+    "src": "vein",
+    "src_root": "vein",
+    "tgt_root": "in_vain"
+  },
+  {
+    "sentence": "' ' You resemble a goat , ' ' said Tom satirically .",
+    "src": "satirically",
+    "src_root": "satirically",
+    "tgt_root": "satyr"
+  },
+  {
+    "sentence": "Those who drink too much at night have to worry about the mourning after .",
+    "src": "mourning",
+    "src_root": "mourning",
+    "tgt_root": "morning"
+  },
+  {
+    "sentence": "Scrambling for cover amid the chaos caused by the rebel forces ' attack and the ' ' coincidental ' ' breakout of the zoo animals , I stumbled into the face of a hostile guerrilla !",
+    "src": "guerrilla",
+    "src_root": "guerrilla",
+    "tgt_root": "gorilla"
+  },
+  {
+    "sentence": "Baseball on a foggy day is all about hit and mist .",
+    "src": "mist",
+    "src_root": "mist",
+    "tgt_root": "miss"
+  },
+  {
+    "sentence": "When Martha Stewart was on trial , New York Times columnist Clyde Haberman reported on her arrival at the courthouse , where a group of supporters had assembled to greet her . ' ' They included a man in a chef ' s hat who stood with the others behind a metal barrier \u2014 one toque over the line . ' '",
+    "src": "toque",
+    "src_root": "toque",
+    "tgt_root": "toke"
+  },
+  {
+    "sentence": "To keep someone from stealing your shipments of smoked salmon , secure them with lox .",
+    "src": "lox",
+    "src_root": "lox",
+    "tgt_root": "lock"
+  },
+  {
+    "sentence": "' ' The door ' s ajar , ' ' said Tom openly .",
+    "src": "openly",
+    "src_root": "openly",
+    "tgt_root": "open"
+  },
+  {
+    "sentence": "Need soul repair ? Walk right in .",
+    "src": "soul",
+    "src_root": "soul",
+    "tgt_root": "sole"
+  },
+  {
+    "sentence": "Have a ride in my new ambulance , said Tom hospitably .",
+    "src": "hospitably",
+    "src_root": "hospitably",
+    "tgt_root": "hospital"
+  },
+  {
+    "sentence": "Some people , asked what they thought had caused the recent flooding in our valley , pointed to a concrete wall in the distance and said it was this damn thing .",
+    "src": "damn",
+    "src_root": "damn",
+    "tgt_root": "dam"
+  },
+  {
+    "sentence": "I walked into this posh restaurant , the prices were extortionate , it was daylight snobbery .",
+    "src": "snobbery",
+    "src_root": "snobbery",
+    "tgt_root": "robbery"
+  },
+  {
+    "sentence": "The church needs to be souled .",
+    "src": "souled",
+    "src_root": "soul",
+    "tgt_root": "sell"
+  },
+  {
+    "sentence": "A surgery nurse was demoted for being absent without gauze .",
+    "src": "gauze",
+    "src_root": "gauze",
+    "tgt_root": "cause"
+  },
+  {
+    "sentence": "Those who live beyond their means should act their wage .",
+    "src": "wage",
+    "src_root": "wage",
+    "tgt_root": "age"
+  },
+  {
+    "sentence": "OLD SCHOOL SUPERINTENDENTS \u00a0 never die , they just lose their principals .",
+    "src": "principals",
+    "src_root": "principal",
+    "tgt_root": "principle"
+  },
+  {
+    "sentence": "Did you hear about the herb who was an all round great guy , did loads of charity work and was always there to help ? He was a Tarragon Of Virtue .",
+    "src": "Tarragon",
+    "src_root": "tarragon",
+    "tgt_root": "paragon"
+  },
+  {
+    "sentence": "Sweet potatoes ? I yam impressed !",
+    "src": "yam",
+    "src_root": "yam",
+    "tgt_root": "be"
+  },
+  {
+    "sentence": "OLD BATHING BEAUTIES never die , they just wade away .",
+    "src": "wade",
+    "src_root": "wade",
+    "tgt_root": "fade_away"
+  },
+  {
+    "sentence": "' We ' ve run out of lemons ' , she said bitterly .",
+    "src": "bitterly",
+    "src_root": "bitterly",
+    "tgt_root": "bitter"
+  },
+  {
+    "sentence": "The anesthesiologist ' s computer has an ethernet connection .",
+    "src": "ethernet",
+    "src_root": "ethernet",
+    "tgt_root": "ether"
+  },
+  {
+    "sentence": "She didn ' t marry the gardener . Too rough around the hedges .",
+    "src": "hedges",
+    "src_root": "hedge",
+    "tgt_root": "edge"
+  },
+  {
+    "sentence": "Issue of first day cover almost ended in a stampede .",
+    "src": "stampede",
+    "src_root": "stampede",
+    "tgt_root": "stamp"
+  },
+  {
+    "sentence": "They were married by candle - light , but the marriage lasted only a wick .",
+    "src": "wick",
+    "src_root": "wick",
+    "tgt_root": "week"
+  },
+  {
+    "sentence": "The Turkish soldier refused to eat cottage cheese , because he didn ' t trust the kurds",
+    "src": "kurds",
+    "src_root": "kurd",
+    "tgt_root": "curd"
+  },
+  {
+    "sentence": "The astronomer ' s research project didn ' t win him the coveted Galaxy Award , but he did receive a constellation prize .",
+    "src": "constellation",
+    "src_root": "constellation",
+    "tgt_root": "consolation"
+  },
+  {
+    "sentence": "Getting into the skunk selling business might make a lot of scents .",
+    "src": "scents",
+    "src_root": "scent",
+    "tgt_root": "sense"
+  },
+  {
+    "sentence": "Seven days without a pun makes one weak .",
+    "src": "weak",
+    "src_root": "weak",
+    "tgt_root": "week"
+  },
+  { "sentence": "Just pew it", "src": "pew", "src_root": "pew", "tgt_root": "do" },
+  {
+    "sentence": "Epitaphs are engraved !",
+    "src": "engraved",
+    "src_root": "engrave",
+    "tgt_root": "grave"
+  },
+  {
+    "sentence": "That soil scientist always travels by himself . He ' s a loam ranger .",
+    "src": "loam",
+    "src_root": "loam",
+    "tgt_root": "lone"
+  },
+  {
+    "sentence": "' ' I can ' t march any more ! ' ' the soldier called haltingly .",
+    "src": "haltingly",
+    "src_root": "haltingly",
+    "tgt_root": "halt"
+  },
+  {
+    "sentence": "If you spend too much time in the coffee shop you ' ll be latte for work .",
+    "src": "latte",
+    "src_root": "latte",
+    "tgt_root": "late"
+  },
+  {
+    "sentence": "Some doting parents are son worshipers .",
+    "src": "son",
+    "src_root": "son",
+    "tgt_root": "sun"
+  },
+  {
+    "sentence": "The optical scientist who stole his colleague ' s bifocals was sentenced to three years in a state prism .",
+    "src": "prism",
+    "src_root": "prism",
+    "tgt_root": "prison"
+  },
+  {
+    "sentence": "' ' Eating uranium makes me feel funny , ' ' said Tom radiantly .",
+    "src": "radiantly",
+    "src_root": "radiantly",
+    "tgt_root": "radiation"
+  },
+  {
+    "sentence": "If you believe restaurants always overcook steaks , then you probably order them rarely .",
+    "src": "rarely",
+    "src_root": "rarely",
+    "tgt_root": "rare"
+  },
+  {
+    "sentence": "There are many judges who would like to acquit smoking .",
+    "src": "acquit",
+    "src_root": "acquit",
+    "tgt_root": "quit"
+  },
+  {
+    "sentence": "A church fair is a bazaar experience .",
+    "src": "bazaar",
+    "src_root": "bazaar",
+    "tgt_root": "bizarre"
+  },
+  {
+    "sentence": "The tired playgoers decided to bypass the new production of ' ' Othello ' ' despite the good reviews ; having just returned from a long trip , they didn ' t feel like seeing any moor of Venice .",
+    "src": "moor",
+    "src_root": "moor",
+    "tgt_root": "more"
+  },
+  {
+    "sentence": "On Independence day , may the fourth be with you .",
+    "src": "fourth",
+    "src_root": "fourth",
+    "tgt_root": "force"
+  },
+  {
+    "sentence": "They are not answering - we ' d better try the knocker , said Tom adoringly .",
+    "src": "adoringly",
+    "src_root": "adoringly",
+    "tgt_root": "door"
+  },
+  {
+    "sentence": "A pet store had a bird contest with no perches necessary .",
+    "src": "perches",
+    "src_root": "perch",
+    "tgt_root": "purchase"
+  },
+  {
+    "sentence": "Safety goggles were invented by a peripheral visionary .",
+    "src": "visionary",
+    "src_root": "visionary",
+    "tgt_root": "vision"
+  },
+  {
+    "sentence": "At shearing time there are some sheep thrills .",
+    "src": "sheep",
+    "src_root": "sheep",
+    "tgt_root": "cheap"
+  },
+  {
+    "sentence": "Jim : ' Did you hear about the guy who ate twenty pancakes for breakfast ? ' Joe : ' How waffle . '",
+    "src": "waffle",
+    "src_root": "waffle",
+    "tgt_root": "awful"
+  },
+  {
+    "sentence": "Our theft of raw gold from the mine site was a fiasco because , as we jumped into the getaway boat , we dropped the ore .",
+    "src": "ore",
+    "src_root": "ore",
+    "tgt_root": "oar"
+  },
+  {
+    "sentence": "You ' re a wicked glutton , Tom insinuated .",
+    "src": "insinuated",
+    "src_root": "insinuate",
+    "tgt_root": "sin"
+  },
+  {
+    "sentence": "I like wool gathering for the shear joy of it .",
+    "src": "shear",
+    "src_root": "shear",
+    "tgt_root": "sheer"
+  },
+  {
+    "sentence": "I ' m going to fix the roof , Tom translated .",
+    "src": "translated",
+    "src_root": "translate",
+    "tgt_root": "slate"
+  },
+  {
+    "sentence": "The chef took some cheese and made some grate things .",
+    "src": "grate",
+    "src_root": "grate",
+    "tgt_root": "great"
+  },
+  {
+    "sentence": "A cloth maker ' s daughter told him she was too young to dye .",
+    "src": "dye",
+    "src_root": "dye",
+    "tgt_root": "die"
+  },
+  {
+    "sentence": "When Jesus entered Jerusalem , people waved palm branches because they were being frondly .",
+    "src": "frondly",
+    "src_root": "frond",
+    "tgt_root": "friendly"
+  },
+  {
+    "sentence": "My wife is trying to lose weight but continues to frequent the coffee shops for rich beverages and delicacies . You could say she is making a moccary of her diet .",
+    "src": "moccary",
+    "src_root": "mocha",
+    "tgt_root": "mockery"
+  },
+  {
+    "sentence": "I plan to work in a cemetery , Tom plotted gravely .",
+    "src": "gravely",
+    "src_root": "gravely",
+    "tgt_root": "grave"
+  },
+  {
+    "sentence": "To stay fit the priest exorcises .",
+    "src": "exorcises",
+    "src_root": "exorcise",
+    "tgt_root": "exercise"
+  },
+  {
+    "sentence": "' I agree with you wholeheartedly , ' said the artichoke grower .",
+    "src": "wholeheartedly",
+    "src_root": "wholeheartedly",
+    "tgt_root": "heart"
+  },
+  {
+    "sentence": "She was only a Postman ' s daughter , but she sure knew her males .",
+    "src": "males",
+    "src_root": "male",
+    "tgt_root": "mail"
+  },
+  {
+    "sentence": "French bankers are known for their franc talk .",
+    "src": "franc",
+    "src_root": "franc",
+    "tgt_root": "frank"
+  },
+  {
+    "sentence": "Mathematicians are sum worshippers .",
+    "src": "sum",
+    "src_root": "sum",
+    "tgt_root": "sun"
+  },
+  {
+    "sentence": "I was caught studying the periodic table in English class . It was an elementary mistake .",
+    "src": "elementary",
+    "src_root": "elementary",
+    "tgt_root": "element"
+  },
+  {
+    "sentence": "The optician fell into the lens grinding machine and made a spectacle of himself .",
+    "src": "spectacle",
+    "src_root": "spectacle",
+    "tgt_root": "spectacles"
+  },
+  {
+    "sentence": "The ex - lumberjack will be sawly missed .",
+    "src": "sawly",
+    "src_root": "saw",
+    "tgt_root": "sorely"
+  },
+  {
+    "sentence": "Undertakers have to get up early in the mourning .",
+    "src": "mourning",
+    "src_root": "mourn",
+    "tgt_root": "morning"
+  },
+  {
+    "sentence": "My bid for this contract aims to please , said Tom tenderly .",
+    "src": "tenderly",
+    "src_root": "tenderly",
+    "tgt_root": "tender"
+  },
+  {
+    "sentence": "To stay out of debt , act your wage .",
+    "src": "wage",
+    "src_root": "wage",
+    "tgt_root": "age"
+  },
+  {
+    "sentence": "That horse looks like a good bet at 17 to 1 , said Tom oddly .",
+    "src": "oddly",
+    "src_root": "oddly",
+    "tgt_root": "odds"
+  },
+  {
+    "sentence": "The stern pirate captain ' s policy of forcing the worst members of his crew to walk the plank went swimmingly .",
+    "src": "swimmingly",
+    "src_root": "swimmingly",
+    "tgt_root": "swim"
+  },
+  {
+    "sentence": "Did you hear about my friend who hired out vampires and poison , and my other friend who ate children ? Could say the first one was the lessor of two evils .",
+    "src": "lessor",
+    "src_root": "lessor",
+    "tgt_root": "lesser"
+  },
+  {
+    "sentence": "Vampires are always looking for their necks victim .",
+    "src": "necks",
+    "src_root": "neck",
+    "tgt_root": "next"
+  },
+  {
+    "sentence": "From the middle of the Pacific , the shipwrecked survivor found his way to the California coast purely by occident .",
+    "src": "occident",
+    "src_root": "occident",
+    "tgt_root": "accident"
+  },
+  {
+    "sentence": "We found a dead crow in our front yard but have yet to hear the caws of death .",
+    "src": "caws",
+    "src_root": "caw",
+    "tgt_root": "cause"
+  },
+  {
+    "sentence": "The trucker was always irritated at an inspection station , it was the weight that bothered him .",
+    "src": "weight",
+    "src_root": "weight",
+    "tgt_root": "wait"
+  },
+  {
+    "sentence": "Upon discovering the deadly virus carried by Surinamese toads , the herpetologist contemplated how best to protect the pipal .",
+    "src": "pipal",
+    "src_root": "pipal",
+    "tgt_root": "people"
+  },
+  {
+    "sentence": "Let ' s get married , said Tom engagingly .",
+    "src": "engagingly",
+    "src_root": "engagingly",
+    "tgt_root": "engage"
+  },
+  {
+    "sentence": "New years resolution for the bankrupt gardener was to forget the past and rely on the fuchsia .",
+    "src": "fuchsia",
+    "src_root": "fuchsia",
+    "tgt_root": "future"
+  },
+  {
+    "sentence": "I hate Chablis , Tom whined .",
+    "src": "whined",
+    "src_root": "whine",
+    "tgt_root": "wine"
+  },
+  {
+    "sentence": "OLD SCOTSMEN never die , but they can be kilt .",
+    "src": "kilt",
+    "src_root": "kilt",
+    "tgt_root": "kill"
+  },
+  {
+    "sentence": "He made so many mistakes that he had an err about him .",
+    "src": "err",
+    "src_root": "err",
+    "tgt_root": "air"
+  },
+  {
+    "sentence": "When the bottom of a cargo ship got a hole , it had one hull of a problem .",
+    "src": "hull",
+    "src_root": "hull",
+    "tgt_root": "hell"
+  },
+  {
+    "sentence": "OLD GARDENERS never die , they just spade away .",
+    "src": "spade",
+    "src_root": "spade",
+    "tgt_root": "fade_away"
+  },
+  {
+    "sentence": "As a young boy , Brutus ' mother often cautioned him not to run with Caesars .",
+    "src": "Caesars",
+    "src_root": "caesar",
+    "tgt_root": "scissors"
+  },
+  {
+    "sentence": "Asked by a waiter if she would like a drink the lady replied ' wine not ? '",
+    "src": "wine",
+    "src_root": "wine",
+    "tgt_root": "why"
+  },
+  {
+    "sentence": "OLD PRAGUE RESIDENTS never die , they just Czech out .",
+    "src": "Czech",
+    "src_root": "czech",
+    "tgt_root": "check_out"
+  },
+  {
+    "sentence": "Data got into so much trouble , her parents sent her packeting .",
+    "src": "packeting",
+    "src_root": "packet",
+    "tgt_root": "pack"
+  },
+  {
+    "sentence": "The percussionist was very good at analyzing symbols .",
+    "src": "symbols",
+    "src_root": "symbol",
+    "tgt_root": "cymbal"
+  },
+  {
+    "sentence": "The man put his name on the neck of his shirt so he would have collar ID .",
+    "src": "collar",
+    "src_root": "collar",
+    "tgt_root": "caller"
+  },
+  {
+    "sentence": "Sick fish go to the sturgeon .",
+    "src": "sturgeon",
+    "src_root": "sturgeon",
+    "tgt_root": "surgeon"
+  },
+  {
+    "sentence": "I ' d like to learn a new card game , Tom said wistfully .",
+    "src": "wistfully",
+    "src_root": "wistfully",
+    "tgt_root": "whist"
+  },
+  {
+    "sentence": "When the hockey player came home he gave his wife a puck on the cheek .",
+    "src": "puck",
+    "src_root": "puck",
+    "tgt_root": "peck"
+  },
+  {
+    "sentence": "For children to eat without washing their hands would be a grime .",
+    "src": "grime",
+    "src_root": "grime",
+    "tgt_root": "crime"
+  },
+  {
+    "sentence": "' ' I ' ve been to a film festival in Southern France , ' ' said Tom cannily .",
+    "src": "cannily",
+    "src_root": "cannily",
+    "tgt_root": "cannes"
+  },
+  {
+    "sentence": "Royal chairs are rarely throne out .",
+    "src": "throne",
+    "src_root": "throne",
+    "tgt_root": "throw"
+  },
+  {
+    "sentence": "In ancient times , seagoing vessels were much more fuel efficient . They got thousands of miles to the galleon .",
+    "src": "galleon",
+    "src_root": "galleon",
+    "tgt_root": "gallon"
+  },
+  {
+    "sentence": "When the glazier was sent to the hospital room to check the cracked window , he told the patient in the body cast , ' ' I ' ve come to feel your pane . ' '",
+    "src": "pane",
+    "src_root": "pane",
+    "tgt_root": "pain"
+  },
+  {
+    "sentence": "' ' I ' m on social security , ' ' said Tom dolefully .",
+    "src": "dolefully",
+    "src_root": "dolefully",
+    "tgt_root": "dole"
+  },
+  {
+    "sentence": "Did Gregor Mendel ever win the Nobel Peas Prize ?",
+    "src": "Peas",
+    "src_root": "pea",
+    "tgt_root": "peace"
+  },
+  {
+    "sentence": "Mothers everywhere want their children to give peas a chance .",
+    "src": "peas",
+    "src_root": "pea",
+    "tgt_root": "peace"
+  },
+  {
+    "sentence": "Old sailors never die , they just get a little dinghy .",
+    "src": "dinghy",
+    "src_root": "dinghy",
+    "tgt_root": "dingy"
+  },
+  {
+    "sentence": "' ' This is all from memory , ' ' Tom wrote .",
+    "src": "wrote",
+    "src_root": "write",
+    "tgt_root": "rote"
+  },
+  {
+    "sentence": "' ' I have a gift for you , ' ' said Tom presently .",
+    "src": "presently",
+    "src_root": "presently",
+    "tgt_root": "present"
+  },
+  {
+    "sentence": "To some Christmas is about other people ' s presence .",
+    "src": "presence",
+    "src_root": "presence",
+    "tgt_root": "present"
+  },
+  {
+    "sentence": "Car salesmen compete trying to sell for the lease amount .",
+    "src": "lease",
+    "src_root": "lease",
+    "tgt_root": "least"
+  },
+  {
+    "sentence": "The elderly chef retired because his sage was showing .",
+    "src": "sage",
+    "src_root": "sage",
+    "tgt_root": "age"
+  },
+  {
+    "sentence": "When a skunk walked in , the judge said , ' odor in the court ' .",
+    "src": "odor",
+    "src_root": "odor",
+    "tgt_root": "order"
+  },
+  {
+    "sentence": "When told his design for a stadium was too grandiose , the architect shed a tier .",
+    "src": "tier",
+    "src_root": "tier",
+    "tgt_root": "tear"
+  },
+  {
+    "sentence": "How do farmers make crop circles ? With a protractor .",
+    "src": "protractor",
+    "src_root": "protractor",
+    "tgt_root": "tractor"
+  },
+  {
+    "sentence": "If your mind is clouded or in a fog you may have mist some opportunities .",
+    "src": "mist",
+    "src_root": "mist",
+    "tgt_root": "miss"
+  },
+  {
+    "sentence": "It was an emotional wedding . Even the cake was in tiers .",
+    "src": "tiers",
+    "src_root": "tier",
+    "tgt_root": "tears"
+  },
+  {
+    "sentence": "I always prayed before my trigonometry tests . I was hoping for a sine from above .",
+    "src": "sine",
+    "src_root": "sine",
+    "tgt_root": "sign"
+  },
+  {
+    "sentence": "We ' ve taken over the government , the general cooed .",
+    "src": "cooed",
+    "src_root": "coo",
+    "tgt_root": "coup"
+  },
+  {
+    "sentence": "A chemist has discovered a drug that will keep dogs from howling at night . Now , not every dog will have his bay .",
+    "src": "bay",
+    "src_root": "bay",
+    "tgt_root": "day"
+  },
+  {
+    "sentence": "Those changing baby diapers sometimes act rashly .",
+    "src": "rashly",
+    "src_root": "rashly",
+    "tgt_root": "rash"
+  },
+  {
+    "sentence": "Mourning has broken on Easter Sunday .",
+    "src": "Mourning",
+    "src_root": "mourning",
+    "tgt_root": "morning"
+  },
+  {
+    "sentence": "A little boy found out from his mother that grime does not pay .",
+    "src": "grime",
+    "src_root": "grime",
+    "tgt_root": "crime"
+  },
+  {
+    "sentence": "' ' I just bought a woollen sweater , ' ' said Tom sheepishly .",
+    "src": "sheepishly",
+    "src_root": "sheepishly",
+    "tgt_root": "sheep"
+  },
+  {
+    "sentence": "John plans to retire in the spring and , like the trees around us , will be leafing .",
+    "src": "leafing",
+    "src_root": "leaf",
+    "tgt_root": "leave"
+  },
+  {
+    "sentence": "Cryptographers make terrible drummers . They just sit there , fascinated by all the cymbals .",
+    "src": "cymbals",
+    "src_root": "cymbal",
+    "tgt_root": "symbol"
+  },
+  {
+    "sentence": "' ' I can tell which way the wind blows , ' ' said Tom vainly .",
+    "src": "vainly",
+    "src_root": "vainly",
+    "tgt_root": "vane"
+  },
+  {
+    "sentence": "When two bakers traded buns they had a roll reversal .",
+    "src": "roll",
+    "src_root": "roll",
+    "tgt_root": "role"
+  },
+  {
+    "sentence": "My friend is moving to Seoul . He thought it would be a good Korea move .",
+    "src": "Korea",
+    "src_root": "korea",
+    "tgt_root": "career"
+  },
+  {
+    "sentence": "When asked whether or not I was bilingual , I was about to say I knew sign language , but I figured it was sort of a mute point .",
+    "src": "mute",
+    "src_root": "mute",
+    "tgt_root": "moot"
+  },
+  {
+    "sentence": "I saw something similar to moss the other day , but I didn ' t know what to lichen it to .",
+    "src": "lichen",
+    "src_root": "lichen",
+    "tgt_root": "liken"
+  },
+  {
+    "sentence": "My brother told me that serpentine is what you use to get paint off a boa constrictor .",
+    "src": "serpentine",
+    "src_root": "serpentine",
+    "tgt_root": "turpentine"
+  },
+  {
+    "sentence": "When I was in my cabin on the ship I got sick . Someone told me once I got to the doc I ' d feel better .",
+    "src": "doc",
+    "src_root": "doc",
+    "tgt_root": "dock"
+  },
+  {
+    "sentence": "Bakers trade bread recipes on a knead to know basis .",
+    "src": "knead",
+    "src_root": "knead",
+    "tgt_root": "need"
+  },
+  {
+    "sentence": "A pickle maker fell into one of the vats at work . At hospital it was determined he had a brine injury .",
+    "src": "brine",
+    "src_root": "brine",
+    "tgt_root": "brain"
+  },
+  {
+    "sentence": "Archaeologists working at night need lots of eon lights .",
+    "src": "eon",
+    "src_root": "eon",
+    "tgt_root": "neon"
+  },
+  {
+    "sentence": "Beaver rallying cry : ' ' River be dammed ! ' '",
+    "src": "dammed",
+    "src_root": "dam",
+    "tgt_root": "damn"
+  },
+  {
+    "sentence": "Bee keepers always manage to keep buzzy .",
+    "src": "buzzy",
+    "src_root": "buzz",
+    "tgt_root": "busy"
+  },
+  {
+    "sentence": "A budget helps us live below our yearnings",
+    "src": "yearnings",
+    "src_root": "yearning",
+    "tgt_root": "earnings"
+  },
+  {
+    "sentence": "Despite the repressive restrictions in force against all of the fine arts , students in Kabul often gathered secretly to listen to band music .",
+    "src": "band",
+    "src_root": "band",
+    "tgt_root": "ban"
+  },
+  {
+    "sentence": "The chaplain got his gown from the army surplice depot .",
+    "src": "surplice",
+    "src_root": "surplice",
+    "tgt_root": "surplus"
+  },
+  {
+    "sentence": "Some people don ' t like food going to waist .",
+    "src": "waist",
+    "src_root": "waist",
+    "tgt_root": "waste"
+  },
+  {
+    "sentence": "My computer is so slow it hertz .",
+    "src": "hertz",
+    "src_root": "hertz",
+    "tgt_root": "hurt"
+  },
+  {
+    "sentence": "I witnessed the attack on the castle and saw the queen ' s robe torn and the king ' s throne under the horses ' feet .",
+    "src": "throne",
+    "src_root": "throne",
+    "tgt_root": "throw"
+  },
+  {
+    "sentence": "I tried to play the bagpipes , but the sound coming out was off kilter .",
+    "src": "kilter",
+    "src_root": "kilter",
+    "tgt_root": "kilt"
+  },
+  {
+    "sentence": "' ' Would anyone like some Parmesan ? ' ' asked Tom gratingly .",
+    "src": "gratingly",
+    "src_root": "gratingly",
+    "tgt_root": "grate"
+  },
+  {
+    "sentence": "Ancient scribes who hired Aztec writers had to make sure the Inca was dry .",
+    "src": "Inca",
+    "src_root": "inca",
+    "tgt_root": "ink"
+  },
+  {
+    "sentence": "I used to think I ' d hate Italian food , but I finally decided to give pizza a chance .",
+    "src": "pizza",
+    "src_root": "pizza",
+    "tgt_root": "peace"
+  },
+  {
+    "sentence": "Shotgun wedding : A case of wife or death .",
+    "src": "wife",
+    "src_root": "wife",
+    "tgt_root": "life"
+  },
+  {
+    "sentence": "Chicken farmers will often share a good yolk .",
+    "src": "yolk",
+    "src_root": "yolk",
+    "tgt_root": "joke"
+  },
+  {
+    "sentence": "One ear of corn said to the other ' You ' re getting husky ' .",
+    "src": "husky",
+    "src_root": "husky",
+    "tgt_root": "husk"
+  },
+  {
+    "sentence": "Southerners are quick on the drawl .",
+    "src": "drawl",
+    "src_root": "drawl",
+    "tgt_root": "draw"
+  },
+  {
+    "sentence": "Never make fun of a Scotsman ' s traditional garb . You could get kilt that way .",
+    "src": "kilt",
+    "src_root": "kilt",
+    "tgt_root": "kill"
+  },
+  {
+    "sentence": "I always pray to St . Ignatius , said Tom loyally .",
+    "src": "loyally",
+    "src_root": "loyally",
+    "tgt_root": "loyola"
+  },
+  {
+    "sentence": "Cheating on a test can put honorable students in conflict with their principals .",
+    "src": "principals",
+    "src_root": "principal",
+    "tgt_root": "principle"
+  },
+  {
+    "sentence": "Dollars do best when accompanied by some sense",
+    "src": "sense",
+    "src_root": "sense",
+    "tgt_root": "cent"
+  },
+  {
+    "sentence": "There was a snake that gave birth to a bouncing baby boa .",
+    "src": "boa",
+    "src_root": "boa",
+    "tgt_root": "boy"
+  },
+  {
+    "sentence": "After getting pranked by his friends and getting hit with a basket , Aron knew they had a wickerd sense of humour .",
+    "src": "wickerd",
+    "src_root": "wicker",
+    "tgt_root": "wicked"
+  },
+  {
+    "sentence": "The statistician attended the dance stag . He didn ' t have any data .",
+    "src": "data",
+    "src_root": "data",
+    "tgt_root": "date"
+  },
+  {
+    "sentence": "Old white blood cells lymph around the body .",
+    "src": "lymph",
+    "src_root": "lymph",
+    "tgt_root": "limp"
+  },
+  {
+    "sentence": "Happy Halloween ! Tom said gravely .",
+    "src": "gravely",
+    "src_root": "gravely",
+    "tgt_root": "grave"
+  },
+  {
+    "sentence": "The weekend reporter sailed through the newscasts while the anchor was aweigh .",
+    "src": "aweigh",
+    "src_root": "aweigh",
+    "tgt_root": "away"
+  },
+  {
+    "sentence": "A cannibal ' s favourite game is ' swallow the leader ' .",
+    "src": "swallow",
+    "src_root": "swallow",
+    "tgt_root": "follow"
+  },
+  {
+    "sentence": "Kings sometimes found that uprisings were a peasant surprise .",
+    "src": "peasant",
+    "src_root": "peasant",
+    "tgt_root": "pleasant"
+  },
+  {
+    "sentence": "I felt sick after I ate the scallopini . I didn ' t veal well at all .",
+    "src": "veal",
+    "src_root": "veal",
+    "tgt_root": "feel"
+  },
+  {
+    "sentence": "I ' ll take that , said Tom appropriately .",
+    "src": "appropriately",
+    "src_root": "appropriately",
+    "tgt_root": "appropriate"
+  },
+  {
+    "sentence": "When the orchard owner went to trial he was judged by a jury of his pears .",
+    "src": "pears",
+    "src_root": "pear",
+    "tgt_root": "peer"
+  },
+  {
+    "sentence": "She became a lifeguard at the beach and kept the buoys in line .",
+    "src": "buoys",
+    "src_root": "buoy",
+    "tgt_root": "boy"
+  },
+  {
+    "sentence": "' ' I have to fix the car , ' ' said Tom mechanically .",
+    "src": "mechanically",
+    "src_root": "mechanically",
+    "tgt_root": "mechanic"
+  },
+  {
+    "sentence": "Church disputes can be settled with canons .",
+    "src": "canons",
+    "src_root": "canon",
+    "tgt_root": "cannon"
+  },
+  {
+    "sentence": "' ' What are these berries ? ' ' Tom rasped .",
+    "src": "rasped",
+    "src_root": "rasp",
+    "tgt_root": "raspberry"
+  },
+  {
+    "sentence": "Conscience is a faults alarm .",
+    "src": "faults",
+    "src_root": "fault",
+    "tgt_root": "false"
+  },
+  {
+    "sentence": "There was a dentist who was convicted of incisor trading .",
+    "src": "incisor",
+    "src_root": "incisor",
+    "tgt_root": "insider"
+  },
+  {
+    "sentence": "A hermit drove to town and was charged with recluse driving .",
+    "src": "recluse",
+    "src_root": "recluse",
+    "tgt_root": "reckless"
+  },
+  {
+    "sentence": "You lamb ! said Tom sheepishly .",
+    "src": "sheepishly",
+    "src_root": "sheepishly",
+    "tgt_root": "sheep"
+  },
+  {
+    "sentence": "I ' m here - with a gift ! said Tom presently .",
+    "src": "presently",
+    "src_root": "presently",
+    "tgt_root": "present"
+  },
+  {
+    "sentence": "The mime wanted to say something , but he wasn ' t aloud .",
+    "src": "aloud",
+    "src_root": "aloud",
+    "tgt_root": "allow"
+  },
+  {
+    "sentence": "Some foolish people gain by experience many perils of wisdom .",
+    "src": "perils",
+    "src_root": "peril",
+    "tgt_root": "pearl"
+  },
+  {
+    "sentence": "The gardener brought his hoes .",
+    "src": "hoes",
+    "src_root": "hoe",
+    "tgt_root": "hose"
+  },
+  {
+    "sentence": "To become a pilot requires a good altitude .",
+    "src": "altitude",
+    "src_root": "altitude",
+    "tgt_root": "attitude"
+  },
+  {
+    "sentence": "Treat yourself to one of our Sundays .",
+    "src": "Sundays",
+    "src_root": "sunday",
+    "tgt_root": "sundae"
+  },
+  {
+    "sentence": "Hospitals that buy in bulk get a valium discount .",
+    "src": "valium",
+    "src_root": "valium",
+    "tgt_root": "volume"
+  },
+  {
+    "sentence": "' ' I need a pencil sharpener , ' ' said Tom bluntly .",
+    "src": "bluntly",
+    "src_root": "bluntly",
+    "tgt_root": "blunt"
+  },
+  {
+    "sentence": "To crack open the walnuts , several officers foolishly pounded them with hand grenades , scattering the colonels everywhere .",
+    "src": "colonels",
+    "src_root": "colonel",
+    "tgt_root": "kernel"
+  },
+  {
+    "sentence": "Herb gardeners who work extra get thyme and a half .",
+    "src": "thyme",
+    "src_root": "thyme",
+    "tgt_root": "time"
+  },
+  {
+    "sentence": "These are my parents , said Einstein relatively",
+    "src": "relatively",
+    "src_root": "relatively",
+    "tgt_root": "relativity"
+  },
+  {
+    "sentence": "The size a dieter would like to get to is the sighs of relief .",
+    "src": "sighs",
+    "src_root": "sigh",
+    "tgt_root": "size"
+  },
+  {
+    "sentence": "Naughtily , Tom said nothing .",
+    "src": "Naughtily",
+    "src_root": "naughtily",
+    "tgt_root": "naught"
+  },
+  {
+    "sentence": "She was only a Carpenter ' s daughter , but you should have seen her circular sores !",
+    "src": "sores",
+    "src_root": "sore",
+    "tgt_root": "saw"
+  },
+  {
+    "sentence": "In a billiard hall life can be pretty rough at the wrong end of the queue .",
+    "src": "queue",
+    "src_root": "queue",
+    "tgt_root": "cue"
+  },
+  {
+    "sentence": "When the goat ate a Scrabble set , the letters came out in alphabetical ordure .",
+    "src": "ordure",
+    "src_root": "ordure",
+    "tgt_root": "order"
+  },
+  {
+    "sentence": "I wonder how much an anagram weighs ?",
+    "src": "anagram",
+    "src_root": "anagram",
+    "tgt_root": "gram"
+  },
+  {
+    "sentence": "' ' I don ' t like this Chardonnay , ' ' Tom whined .",
+    "src": "whined",
+    "src_root": "whine",
+    "tgt_root": "wine"
+  }
+]

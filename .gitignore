@@ -161,3 +161,5 @@ cython_debug/
 
 models/
 roberta-large-finetuned-semeval/
+embeddings/glove.6B.300d.txt
+embeddings/semeval-sent-vectors.pkl

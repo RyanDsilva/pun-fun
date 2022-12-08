@@ -14,11 +14,15 @@ numpy = "*"
 torch = "*"
 tqdm = "*"
 sound-similarity = {path = "./sound_similarity"}
+sound-similarity-v2 = {path = "./sound_similarity_v2"}
 sense-similarity = {path = "./sense_similarity"}
 source-identification = {path = "./source_identification"}
 target-identification = {path = "./target_identification"}
+find-related-pun = {path = "./find_related_pun"}
 datasets = "*"
 gradio = "*"
+pandas = "*"
+scipy = "*"
 
 [dev-packages]
 

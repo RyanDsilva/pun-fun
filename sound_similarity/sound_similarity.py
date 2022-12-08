@@ -1,10 +1,12 @@
 import nltk
 from fuzzywuzzy import fuzz
+from sound_similarity_v2.sound_similarity_v2 import get_sound_similarity as gss
 
 arpabet = nltk.corpus.cmudict.dict()
-threshold = 90
+threshold_v1 = 90
+threshold = 0.001
 
-def find_similar_sounding_words(source):
+def find_similar_sounding_words_v1(source):
   sound = None
   cand_list = []
   try:
@@ -12,8 +14,19 @@ def find_similar_sounding_words(source):
   except:
     return cand_list
   for w, a in arpabet.items():
-    if fuzz.ratio(sound, a) > threshold and w != source:
+    if fuzz.ratio(sound, a) > threshold_v1 and w != source:
       cand_list.append(w)
+  return cand_list
+
+def find_similar_sounding_words(source):
+  cand_list = []
+  stress_diff = 1
+  for w, a in arpabet.items():
+    d, s1, s2 = gss(source, w)
+    if d < threshold and abs(s1-s2) < stress_diff and source != w:
+      cand_list.append(w)
+  if cand_list is None:
+    cand_list.append(source)
   return cand_list
 
 def get_sound_similarity(source, target):
@@ -25,3 +38,5 @@ def get_sound_similarity(source, target):
   except:
     return None
   return fuzz.ratio(src_arp, tgt_arp)
+
+# print(find_similar_sounding_words('bare'))

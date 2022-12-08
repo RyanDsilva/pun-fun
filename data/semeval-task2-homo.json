@@ -1,0 +1,5833 @@
+[
+  {
+    "sentence": "They hid from the gunman in a sauna where they could sweat it out .",
+    "pun_word": "sweat"
+  },
+  { "sentence": "Wal - Mart isn ' t the only saving place !", "pun_word": "saving" },
+  {
+    "sentence": "Can honeybee abuse lead to a sting operation ?",
+    "pun_word": "sting"
+  },
+  {
+    "sentence": "A ditch digger was entrenched in his career .",
+    "pun_word": "entrenched"
+  },
+  {
+    "sentence": "She was only a Blacksmith ' s daughter , but she knew how to forge ahead .",
+    "pun_word": "forge"
+  },
+  {
+    "sentence": "Did you hear about the new pinata ? It ' s a huge hit .",
+    "pun_word": "hit"
+  },
+  {
+    "sentence": "A bank manager who was also a high jumper spent most of his time in the vault .",
+    "pun_word": "vault"
+  },
+  {
+    "sentence": "A discussion of digging a new mine shaft was too deep for him .",
+    "pun_word": "deep"
+  },
+  {
+    "sentence": "She was suspected of stealing a brooch but they couldn ' t pin it on her .",
+    "pun_word": "pin"
+  },
+  {
+    "sentence": "Once ice cream was invented the problem was licked .",
+    "pun_word": "licked"
+  },
+  {
+    "sentence": "' ' There ' s room for one more , ' ' Tom admitted .",
+    "pun_word": "admitted"
+  },
+  {
+    "sentence": "They threw a party for the inventor of the toaster . And he was toasted .",
+    "pun_word": "toasted"
+  },
+  {
+    "sentence": "If you ' re a gardener you might call yourself a ' plant manager ' .",
+    "pun_word": "plant"
+  },
+  {
+    "sentence": "My advanced geometry class is full of squares .",
+    "pun_word": "squares"
+  },
+  {
+    "sentence": "Jesus changes grave situations . Happy Easter .",
+    "pun_word": "grave"
+  },
+  {
+    "sentence": "I got angry when my cell phone battery died . My counselor suggested I find an outlet .",
+    "pun_word": "outlet"
+  },
+  {
+    "sentence": "A cowboy who was also an artist could draw fast .",
+    "pun_word": "draw"
+  },
+  {
+    "sentence": "' ' Angel dust ? Me ? Never touch it ! ' ' Tom snorted .",
+    "pun_word": "snorted"
+  },
+  {
+    "sentence": "The fire chief was always asked burning questions .",
+    "pun_word": "burning"
+  },
+  { "sentence": "OLD MECHANICS never die they just retire", "pun_word": "retire" },
+  { "sentence": "Some diets cause a gut reaction .", "pun_word": "gut" },
+  {
+    "sentence": "If you leave alphabet soup on the stove and go out , it could spell disaster .",
+    "pun_word": "spell"
+  },
+  {
+    "sentence": "OLD BUNGEE JUMPERS sometimes die but they can still bounce back",
+    "pun_word": "bounce"
+  },
+  {
+    "sentence": "The gunman took a shot at new opportunities .",
+    "pun_word": "shot"
+  },
+  {
+    "sentence": "My name is Sandy , I just hang around the beach .",
+    "pun_word": "Sandy"
+  },
+  { "sentence": "I ' ve struck oil ! Tom gushed .", "pun_word": "gushed" },
+  {
+    "sentence": "Getting rid of your boat for another could cause a whole raft of problems .",
+    "pun_word": "raft"
+  },
+  { "sentence": "My name is John . I ' m a plumber", "pun_word": "John" },
+  {
+    "sentence": "' ' Pretend we were in the days before railways , ' ' Tom coached .",
+    "pun_word": "coached"
+  },
+  {
+    "sentence": "OLD STATISTICIANS never die , they just get broken down by age , sex and marital status .",
+    "pun_word": "broken"
+  },
+  {
+    "sentence": "Did you hear about the crime that happened in a parking garage ? It was wrong on so many levels .",
+    "pun_word": "levels"
+  },
+  {
+    "sentence": "Two astronauts who were dating put an end to it because they both needed their space .",
+    "pun_word": "space"
+  },
+  {
+    "sentence": "Luggage salespeople have to make a good case for you to buy .",
+    "pun_word": "case"
+  },
+  {
+    "sentence": "A kettle on the stove was singing ' Home on the Range ' .",
+    "pun_word": "Range"
+  },
+  { "sentence": "Musical mechanics always sing in parts .", "pun_word": "parts" },
+  {
+    "sentence": "Hubble wanted to bring the idea into better focus .",
+    "pun_word": "focus"
+  },
+  {
+    "sentence": "The decision to begin construction on the Empire State Building was a groundbreaking historical event .",
+    "pun_word": "groundbreaking"
+  },
+  {
+    "sentence": "OLD QUILTERS never die , they just go under cover .",
+    "pun_word": "cover"
+  },
+  {
+    "sentence": "When cannibals ate a missionary they got a taste of religion .",
+    "pun_word": "taste"
+  },
+  {
+    "sentence": "OLD GUITARISTS never die , they just fret their lives away",
+    "pun_word": "fret"
+  },
+  {
+    "sentence": "One evening King Arthur ' s men discovered Sir Lancelot ' s moonshine whiskey operation and shattered the still of the knight .",
+    "pun_word": "still"
+  },
+  {
+    "sentence": "He stole an invention and then told patent lies .",
+    "pun_word": "patent"
+  },
+  {
+    "sentence": "I made a batch of fish eye soup , it should see me through the week .",
+    "pun_word": "see"
+  },
+  {
+    "sentence": "When he kicked the invoice , it didn ' t mean he wanted to foot the bill .",
+    "pun_word": "foot"
+  },
+  {
+    "sentence": "Even though the well was a mystery to her , she didn ' t want to get to the bottom of it .",
+    "pun_word": "bottom"
+  },
+  {
+    "sentence": "Old math teachers never die , they just become irrational .",
+    "pun_word": "irrational"
+  },
+  {
+    "sentence": "Careless stair dancers are heading for a heavy landing .",
+    "pun_word": "landing"
+  },
+  {
+    "sentence": "OLD LOGICIANS never die , they just vacate the premises .",
+    "pun_word": "premises"
+  },
+  {
+    "sentence": "Lawyers have to like alcohol because they ' re always being called to the bar .",
+    "pun_word": "bar"
+  },
+  {
+    "sentence": "Baseball players are expected to perform well right off the bat .",
+    "pun_word": "bat"
+  },
+  {
+    "sentence": "Vines are extremely short - tempered . They snap at the slightest wind .",
+    "pun_word": "snap"
+  },
+  {
+    "sentence": "The man brought an umbrella with him into the ice cream store because he heard there was a chance of sprinkles .",
+    "pun_word": "sprinkles"
+  },
+  {
+    "sentence": "OLD ACADEMICIANS never die , they just lose their faculties",
+    "pun_word": "faculties"
+  },
+  {
+    "sentence": "Bring me a rubber band and make it snappy !",
+    "pun_word": "snappy"
+  },
+  {
+    "sentence": "An electric company is always looking for high energy employees .",
+    "pun_word": "energy"
+  },
+  {
+    "sentence": "When a thief stole several volumes from the library he was quickly booked .",
+    "pun_word": "booked"
+  },
+  {
+    "sentence": "The inept mathematician couldn ' t count on his friends .",
+    "pun_word": "count"
+  },
+  {
+    "sentence": "The phone call interrupted my nap , and I never did get the rest .",
+    "pun_word": "rest"
+  },
+  {
+    "sentence": "When potato chips don ' t sell fast enough , the maker knows it will soon be crunch time .",
+    "pun_word": "crunch"
+  },
+  { "sentence": "Save the whales , spouted Tom .", "pun_word": "spouted" },
+  {
+    "sentence": "OLD HIKERS never die they just get the boot .",
+    "pun_word": "boot"
+  },
+  { "sentence": "Come in for a free makeover this Sunday", "pun_word": "makeover" },
+  { "sentence": "Superglue ! Tom rejoined .", "pun_word": "rejoined" },
+  {
+    "sentence": "Admitting a mistake : ' ' Like the orthopedist ' s patient , I stand corrected . ' '",
+    "pun_word": "stand"
+  },
+  {
+    "sentence": "For every 45 I collected , I would write down the song and the artist so I could keep records .",
+    "pun_word": "records"
+  },
+  {
+    "sentence": "' ' There , there , ' ' was Tom ' s pat answer .",
+    "pun_word": "pat"
+  },
+  {
+    "sentence": "A contest held by fire fighters is called a ' match ' .",
+    "pun_word": "match"
+  },
+  { "sentence": "No one chills out in the fires of hell .", "pun_word": "chills" },
+  {
+    "sentence": "A lot of trees were dying , but they needed to figure out the root of the problem .",
+    "pun_word": "root"
+  },
+  {
+    "sentence": "OLD PILOTS never die , they just get more turbulent .",
+    "pun_word": "turbulent"
+  },
+  {
+    "sentence": "A guy became so good with a chainsaw that he was promoted to branch manager .",
+    "pun_word": "branch"
+  },
+  {
+    "sentence": "Don ' t argue with a bomb inventor - he might blow up at you .",
+    "pun_word": "blow"
+  },
+  {
+    "sentence": "Don\u2019t let adversity get you down unless you are on your knees",
+    "pun_word": "down"
+  },
+  {
+    "sentence": "She was only a Wrestler ' s daughter , but you oughtta see her box . .",
+    "pun_word": "box"
+  },
+  {
+    "sentence": "OLD DOOR FRAMERS never die , they just become unhinged .",
+    "pun_word": "unhinged"
+  },
+  {
+    "sentence": "I was against the construction of tennis courts in the park as I thought they would cause too much racket .",
+    "pun_word": "racket"
+  },
+  { "sentence": "I ' m dying , Tom croaked .", "pun_word": "croaked" },
+  {
+    "sentence": "In a recession , the most secure job is garbage - man . Business is always picking up .",
+    "pun_word": "picking"
+  },
+  {
+    "sentence": "Wilbur Wright said he ' d take a flier on it .",
+    "pun_word": "flier"
+  },
+  {
+    "sentence": "A man brought his retriever to the vet for some tests and had to pay a lab fee .",
+    "pun_word": "lab"
+  },
+  {
+    "sentence": "They replaced the baseball with an orange to add zest to the game .",
+    "pun_word": "zest"
+  },
+  {
+    "sentence": "If you operate a drill press you have a boring job .",
+    "pun_word": "boring"
+  },
+  { "sentence": "Figure skaters don ' t like to be in a rut .", "pun_word": "rut" },
+  {
+    "sentence": "A thief who stole a calendar got twelve months .",
+    "pun_word": "got"
+  },
+  {
+    "sentence": "OLD PRINTERS never die they ' re just not the type",
+    "pun_word": "type"
+  },
+  {
+    "sentence": "A play , based on billiards , started right on cue .",
+    "pun_word": "cue"
+  },
+  {
+    "sentence": "My father slept under the bed , I think he was a little potty .",
+    "pun_word": "potty"
+  },
+  { "sentence": "Is coffee your daily grind ?", "pun_word": "grind" },
+  {
+    "sentence": "Some people find fire drills quite Alarming .",
+    "pun_word": "Alarming"
+  },
+  {
+    "sentence": "Old math profs never die , they just can ' t differentiate .",
+    "pun_word": "differentiate"
+  },
+  {
+    "sentence": "The inventor of glass decided to see it through .",
+    "pun_word": "see"
+  },
+  {
+    "sentence": "A noun and a verb were dating but they broke up because the noun was too possessive .",
+    "pun_word": "possessive"
+  },
+  { "sentence": "Hell ! . . . I\u2019d forgotten about that !", "pun_word": "Hell" },
+  {
+    "sentence": "She was only a Pitcher ' s daughter , but you should have seen her curves .",
+    "pun_word": "curves"
+  },
+  {
+    "sentence": "A baseball player can sell himself to a new team if he has a good pitch .",
+    "pun_word": "pitch"
+  },
+  {
+    "sentence": "' ' Use your own toothbrush ! ' ' Tom bristled .",
+    "pun_word": "bristled"
+  },
+  { "sentence": "My name is Bill . I run a collection agency", "pun_word": "Bill" },
+  {
+    "sentence": "OLD BAKERS never die , they just stop making lots of dough .",
+    "pun_word": "dough"
+  },
+  {
+    "sentence": "The couple grew fruit trees and lived to a ripe old age .",
+    "pun_word": "ripe"
+  },
+  {
+    "sentence": "The plumber had to quit his job because it was too much of a drain .",
+    "pun_word": "drain"
+  },
+  {
+    "sentence": "Finding area is an integral part of calculus .",
+    "pun_word": "integral"
+  },
+  {
+    "sentence": "If you sing while playing baseball , you won ' t get a good pitch .",
+    "pun_word": "pitch"
+  },
+  {
+    "sentence": "OLD PINEAPPLE GROWERS never die , they just get on the dole .",
+    "pun_word": "dole"
+  },
+  {
+    "sentence": "Some commands given by the army are specific , others are General .",
+    "pun_word": "General"
+  },
+  {
+    "sentence": "If a horse could predict the weather , it would probably say that the weather is stable .",
+    "pun_word": "stable"
+  },
+  {
+    "sentence": "She was only a Weatherman ' ' s daughter , but she sure had a warm front .",
+    "pun_word": "front"
+  },
+  {
+    "sentence": "OLD LOCOMOTIVE ENGINEERS , never die , they just get derailed",
+    "pun_word": "derailed"
+  },
+  {
+    "sentence": "A doctor who became a bartender was always giving out shots !",
+    "pun_word": "shots"
+  },
+  {
+    "sentence": "OLD STATISTICIANS never die , they just average out .",
+    "pun_word": "average"
+  },
+  {
+    "sentence": "A little boy fired his light - colored crayons because they wouldn ' t show up .",
+    "pun_word": "show"
+  },
+  {
+    "sentence": "With certain cashiers , things are slow to register .",
+    "pun_word": "register"
+  },
+  {
+    "sentence": "OLD ELECTRICIANS never die they just lose contact .",
+    "pun_word": "contact"
+  },
+  {
+    "sentence": "' ' Perhaps I will , ' ' said Tom with all his might .",
+    "pun_word": "might"
+  },
+  {
+    "sentence": "The comedian stopped at the fabric store on his way to a comedy gig . He was looking for new material .",
+    "pun_word": "material"
+  },
+  { "sentence": "- Call me a taxi . - OK , you ' re a taxi .", "pun_word": "Call" },
+  {
+    "sentence": "Someone who sells old chess pieces is a pawn broker .",
+    "pun_word": "pawn"
+  },
+  {
+    "sentence": "The model who joined the air force was a bombshell .",
+    "pun_word": "bombshell"
+  },
+  {
+    "sentence": "OLD PLUMBERS never die , they just pipe down .",
+    "pun_word": "pipe"
+  },
+  {
+    "sentence": "The surgeon really did not know how to perform quick surgeries on insects , but he did one on the fly .",
+    "pun_word": "fly"
+  },
+  {
+    "sentence": "OLD STATISTICIANS never die , they just get mean .",
+    "pun_word": "mean"
+  },
+  {
+    "sentence": "We went to the owls convention and it was a real hoot .",
+    "pun_word": "hoot"
+  },
+  {
+    "sentence": "OLD GARDENERS never die they are just deflowered .",
+    "pun_word": "deflowered"
+  },
+  {
+    "sentence": "In the air duct installers union they have lots of opportunity to vent .",
+    "pun_word": "vent"
+  },
+  {
+    "sentence": "He and his partner made knives , and they shared a cut .",
+    "pun_word": "cut"
+  },
+  {
+    "sentence": "A baseball player was a thief . He was always trying to steal .",
+    "pun_word": "steal"
+  },
+  {
+    "sentence": "The fault line had a splitting headache .",
+    "pun_word": "splitting"
+  },
+  { "sentence": "OLD DIVERS never die , they just flop .", "pun_word": "flop" },
+  {
+    "sentence": "For a while , Houdini used a lot of trap doors in his act , but he was just going through a stage .",
+    "pun_word": "stage"
+  },
+  {
+    "sentence": "OLD MINERS never die , they just lose their veins .",
+    "pun_word": "veins"
+  },
+  {
+    "sentence": "Animals are slaughtered for meat at a tender age .",
+    "pun_word": "tender"
+  },
+  {
+    "sentence": "' ' I make the armour out of chain links , ' ' Tom replied by mail .",
+    "pun_word": "mail"
+  },
+  { "sentence": "He became an astronaut and had a blast .", "pun_word": "blast" },
+  {
+    "sentence": "A janitor with a broom in hand swept her off her feet .",
+    "pun_word": "swept"
+  },
+  {
+    "sentence": "I couldn ' t figure out how to fasten my seatbelt . Then it clicked .",
+    "pun_word": "clicked"
+  },
+  {
+    "sentence": "OLD PHOTOGRAPHERS never die , they just lose their focus .",
+    "pun_word": "focus"
+  },
+  {
+    "sentence": "The trapeze artist had to buy his own safety equipment . Every Friday he drew his net wages .",
+    "pun_word": "net"
+  },
+  { "sentence": "Dentists on death fill their last cavity .", "pun_word": "cavity" },
+  {
+    "sentence": "Math class is full of drama . There are so many problems to work out .",
+    "pun_word": "problems"
+  },
+  {
+    "sentence": "Her exam was on the human skeleton , so she decided to bone up .",
+    "pun_word": "bone"
+  },
+  {
+    "sentence": "The first duck wouldn ' t go in the water . The other duck said ' ' What are you , chicken ? ' ' .",
+    "pun_word": "chicken"
+  },
+  {
+    "sentence": "To golf at your favorite course may require a long drive .",
+    "pun_word": "drive"
+  },
+  {
+    "sentence": "OLD TRIGONOMETRY TEACHERS never die , they just lose their identities .",
+    "pun_word": "identities"
+  },
+  {
+    "sentence": "She was only a Catcher ' s daughter , but she had many balls bounce off her chin .",
+    "pun_word": "balls"
+  },
+  {
+    "sentence": "Jesus did the only extreme world makeover , the flood",
+    "pun_word": "makeover"
+  },
+  {
+    "sentence": "I took up teaching fencing as I wanted my students to get the point .",
+    "pun_word": "point"
+  },
+  {
+    "sentence": "Sign on an electrician ' s truck : Let us remove your shorts .",
+    "pun_word": "shorts"
+  },
+  { "sentence": "I like marching songs , in any month .", "pun_word": "marching" },
+  {
+    "sentence": "' ' I couldn ' t believe there were 527 , 986 bees in the swarm ! ' ' Tom recounted .",
+    "pun_word": "recounted"
+  },
+  {
+    "sentence": "Our Boy Scouts ' knot - tying class went off without a hitch .",
+    "pun_word": "hitch"
+  },
+  {
+    "sentence": "I used to have a fear of hurdles , but I got over it .",
+    "pun_word": "got"
+  },
+  { "sentence": "A group called the Balloons sings pop music .", "pun_word": "pop" },
+  {
+    "sentence": "' ' I have to check the score on this exam again , ' ' Tom remarked .",
+    "pun_word": "remarked"
+  },
+  {
+    "sentence": "She was only a Gardener ' s daughter , but she knows all the rakes .",
+    "pun_word": "rakes"
+  },
+  {
+    "sentence": "A locksmith has to have a good Combination of skills .",
+    "pun_word": "Combination"
+  },
+  {
+    "sentence": "The teacher asked a question and the students were all up in arms .",
+    "pun_word": "arms"
+  },
+  {
+    "sentence": "She was only a Real estate agent ' ' s daughter , but she gave a lot away .",
+    "pun_word": "lot"
+  },
+  {
+    "sentence": "When you ' re wearing a watch on an airplane , time flies .",
+    "pun_word": "flies"
+  },
+  {
+    "sentence": "The mathematician worked at home because he only functioned in his domain .",
+    "pun_word": "domain"
+  },
+  { "sentence": "I couldn ' t stand to be without my legs .", "pun_word": "stand" },
+  {
+    "sentence": "Old bakers never die , they just keep making lots of dough .",
+    "pun_word": "dough"
+  },
+  {
+    "sentence": "In equations with square numbers I can never find the root of the problem .",
+    "pun_word": "root"
+  },
+  {
+    "sentence": "Did you hear about the guy whose whole left side was cut off ? He ' s all right now .",
+    "pun_word": "right"
+  },
+  {
+    "sentence": "Airline pilots make many friends in high places .",
+    "pun_word": "high"
+  },
+  {
+    "sentence": "OLD MOONSHINERS never die , they just keep still .",
+    "pun_word": "still"
+  },
+  {
+    "sentence": "His business plan to manufacture scissors just didn ' t cut it .",
+    "pun_word": "cut"
+  },
+  {
+    "sentence": "The carpenter was well - known for nailing his work .",
+    "pun_word": "nailing"
+  },
+  {
+    "sentence": "Salespeople selling security equipment like to see people get alarmed .",
+    "pun_word": "alarmed"
+  },
+  {
+    "sentence": "She was only a Globetrotter ' s daughter , but she manages to get around .",
+    "pun_word": "get"
+  },
+  {
+    "sentence": "We\u2019ve got children\u2019s church because we know how to kid around",
+    "pun_word": "kid"
+  },
+  {
+    "sentence": "What it boils down to is this : eggs taste good .",
+    "pun_word": "boils"
+  },
+  { "sentence": "My name is Chuck , I ' m a butcher .", "pun_word": "Chuck" },
+  {
+    "sentence": "The pope , on his 2008 tour in the United States , skipped Mass .",
+    "pun_word": "Mass"
+  },
+  {
+    "sentence": "There was a massive outcry against the plan to build a power line across a nature preserve . The public couldn ' t bear the tension .",
+    "pun_word": "tension"
+  },
+  { "sentence": "A tailor sometimes decides to suit himself .", "pun_word": "suit" },
+  {
+    "sentence": "A woman who became queen considered it her crowning achievement .",
+    "pun_word": "crowning"
+  },
+  {
+    "sentence": "Even though Catholics in space are weightless , do they have mass ?",
+    "pun_word": "mass"
+  },
+  { "sentence": "OLD PILOTS never die , they just buzz off .", "pun_word": "buzz" },
+  { "sentence": "Convicts are committed people .", "pun_word": "committed" },
+  { "sentence": "My name is Emmy , I ' m a T . V . star", "pun_word": "Emmy" },
+  {
+    "sentence": "A new type of broom came out , it is sweeping the nation .",
+    "pun_word": "sweeping"
+  },
+  {
+    "sentence": "OLD TREE SURGEONS never die , they are just uprooted .",
+    "pun_word": "uprooted"
+  },
+  {
+    "sentence": "Pills with long names can be quite a mouthful .",
+    "pun_word": "mouthful"
+  },
+  {
+    "sentence": "My name is Brooks . I ' m an irrrigation consultant",
+    "pun_word": "Brooks"
+  },
+  {
+    "sentence": "A lingerie thief gave a police officer the slip .",
+    "pun_word": "slip"
+  },
+  {
+    "sentence": "We ' ll never run out of math teachers because they always multiply .",
+    "pun_word": "multiply"
+  },
+  {
+    "sentence": "The race dogs got a bad case of the fleas - they had to be scratched .",
+    "pun_word": "scratched"
+  },
+  {
+    "sentence": "A lawyer asked his dentist to give him a retainer .",
+    "pun_word": "retainer"
+  },
+  {
+    "sentence": "My name is Wade and I ' m in swimming pool maintenance .",
+    "pun_word": "Wade"
+  },
+  {
+    "sentence": "An astronaut who fails on a weightlessness experiment must be aware of the gravity of the situation .",
+    "pun_word": "gravity"
+  },
+  {
+    "sentence": "The weatherman who forecasted snow in July was a bit of a flake .",
+    "pun_word": "flake"
+  },
+  {
+    "sentence": "Two brothers collaborated on haunted stories , but one was a ghost writer .",
+    "pun_word": "ghost"
+  },
+  {
+    "sentence": "They built a tree house together but then had a falling out .",
+    "pun_word": "falling"
+  },
+  { "sentence": "I ' m a sap for tree jokes .", "pun_word": "sap" },
+  {
+    "sentence": "OLD COWBOYS never die , they just get the boot .",
+    "pun_word": "boot"
+  },
+  {
+    "sentence": "Cowboys in a rodeo can be sure to get a few bucks .",
+    "pun_word": "bucks"
+  },
+  {
+    "sentence": "OLD PRINCIPALS never die they just lose their faculties .",
+    "pun_word": "faculties"
+  },
+  {
+    "sentence": "Never lie to an x - ray technician . They can see right through you .",
+    "pun_word": "see"
+  },
+  {
+    "sentence": "He bought a rope factory to tie into his empire .",
+    "pun_word": "tie"
+  },
+  {
+    "sentence": "He took a nail to the volleyball game because he wanted to spike it .",
+    "pun_word": "spike"
+  },
+  {
+    "sentence": "Pharmacists find their work to be very encapsulating .",
+    "pun_word": "encapsulating"
+  },
+  {
+    "sentence": "OLD KEY PUNCH OPERATORS never die they just punch out .",
+    "pun_word": "punch"
+  },
+  {
+    "sentence": "A basketball player couldn ' t control his saliva but he could sure dribble .",
+    "pun_word": "dribble"
+  },
+  {
+    "sentence": "If you work in a forestry company you will probably have to log your time .",
+    "pun_word": "log"
+  },
+  {
+    "sentence": "OLD GOLFERS never die they just putter away .",
+    "pun_word": "putter"
+  },
+  {
+    "sentence": "A job circumcising elephants isn ' t so bad . The base salary is small but the tips are big .",
+    "pun_word": "tips"
+  },
+  {
+    "sentence": "A man giving a speech by candle - light can wax eloquent .",
+    "pun_word": "wax"
+  },
+  {
+    "sentence": "I never have understood how you ' re supposed to hit anything with a bat . . . . . it keeps flying away .",
+    "pun_word": "bat"
+  },
+  {
+    "sentence": "' ' How long will I have to wait for a table ? ' ' asked Tom without reservation .",
+    "pun_word": "reservation"
+  },
+  {
+    "sentence": "The designer wondered why his pirate room wasn ' t perfect , and the judge told him he went a little overboard .",
+    "pun_word": "overboard"
+  },
+  {
+    "sentence": "' ' Consult an investment broker , ' ' was Tom ' s stock answer .",
+    "pun_word": "stock"
+  },
+  {
+    "sentence": "If there ' s one person you don ' t want to interrupt in the middle of a sentence it ' s a judge .",
+    "pun_word": "sentence"
+  },
+  {
+    "sentence": "Rabbits like their beer brewed with a lot of hops .",
+    "pun_word": "hops"
+  },
+  { "sentence": "My name is Sly . I ' m a detective .", "pun_word": "Sly" },
+  {
+    "sentence": "Some people really enjoy blowing air out of their lungs - I ' m not a fan myself .",
+    "pun_word": "fan"
+  },
+  {
+    "sentence": "An old spice wholesaler is a seasoned veteran .",
+    "pun_word": "seasoned"
+  },
+  {
+    "sentence": "If an animal looses its tail it should shop at a retail store .",
+    "pun_word": "retail"
+  },
+  {
+    "sentence": "If you go for a job interview at a rubber stamp company try to make a good impression .",
+    "pun_word": "impression"
+  },
+  {
+    "sentence": "OLD BLASTING TECHNICIANS never die , they just lose their spark .",
+    "pun_word": "spark"
+  },
+  {
+    "sentence": "Studying fungus is a way to mold young minds .",
+    "pun_word": "mold"
+  },
+  {
+    "sentence": "A mechanic who was also a musician was good at tuning things .",
+    "pun_word": "tuning"
+  },
+  {
+    "sentence": "A gambling gardener usually hedges his bets .",
+    "pun_word": "hedges"
+  },
+  {
+    "sentence": "I watched a movie about a baby hen , it was a real chick flick .",
+    "pun_word": "chick"
+  },
+  {
+    "sentence": "How does a card player party ? They shuffle .",
+    "pun_word": "shuffle"
+  },
+  {
+    "sentence": "I noticed that the sun was out , and nobody had bothered to relight it .",
+    "pun_word": "out"
+  },
+  {
+    "sentence": "If a town ' s people have low IQs is the population dense ?",
+    "pun_word": "dense"
+  },
+  {
+    "sentence": "Doctor , Doctor , you ' ve got to help me . I think I ' m a kleptomaniac . - Don ' t worry . I think there ' s something you can take for that . Next .",
+    "pun_word": "take"
+  },
+  {
+    "sentence": "She was only a Fruit vender ' s daughter , but , oh , what a peach .",
+    "pun_word": "peach"
+  },
+  {
+    "sentence": "Old math profs never die - - they just use strange expressions .",
+    "pun_word": "expressions"
+  },
+  {
+    "sentence": "A boating accident between the yacht , Red Dawn , and the schooner , Blue Lagoon , left the survivors marooned .",
+    "pun_word": "marooned"
+  },
+  {
+    "sentence": "Junior loved being a member of the wrestling team even though he was prone to lose .",
+    "pun_word": "prone"
+  },
+  {
+    "sentence": "The waiter was shocked when I asked for my salad to be served naked . I explained , no dressing please .",
+    "pun_word": "dressing"
+  },
+  {
+    "sentence": "I suspected our new house guest was a terrorist . He asked to sleep on a blow up mattress .",
+    "pun_word": "blow"
+  },
+  {
+    "sentence": "Trophy shops often will give customers floss with their purchase to eliminate plaque problems .",
+    "pun_word": "plaque"
+  },
+  {
+    "sentence": "Scientists have created a flea from scratch .",
+    "pun_word": "scratch"
+  },
+  {
+    "sentence": "OLD BOTANISTS never die , they ' re just deflowered .",
+    "pun_word": "deflowered"
+  },
+  {
+    "sentence": "The plot to his story of the pond was quite shallow .",
+    "pun_word": "shallow"
+  },
+  {
+    "sentence": "If you sight a whale , it could be a fluke .",
+    "pun_word": "fluke"
+  },
+  {
+    "sentence": "A person who would make a banking joke is of no account .",
+    "pun_word": "account"
+  },
+  {
+    "sentence": "He bought a plate with four corners so he could have a square meal .",
+    "pun_word": "square"
+  },
+  {
+    "sentence": "' ' I didn ' t look at all ! ' ' Tom peeped .",
+    "pun_word": "peeped"
+  },
+  { "sentence": "My name is Melody . A Musician", "pun_word": "Melody" },
+  {
+    "sentence": "Two companies that made shoelaces had common ties .",
+    "pun_word": "ties"
+  },
+  {
+    "sentence": "Why was the car embarrassed ? Because it had gas !",
+    "pun_word": "gas"
+  },
+  {
+    "sentence": "I was arrested after my therapist suggested I take something for my kleptomania .",
+    "pun_word": "take"
+  },
+  {
+    "sentence": "Doctor , Doctor , my hair is coming out . What can you give me to keep it in ? - A cigar box . Next .",
+    "pun_word": "keep"
+  },
+  {
+    "sentence": "OLD FLORISTS never die , they just make alternative arrangements .",
+    "pun_word": "arrangements"
+  },
+  {
+    "sentence": "When entering a funeral home , remember to stay alert and always look alive !",
+    "pun_word": "alive"
+  },
+  { "sentence": "Taxidermists really know their stuff .", "pun_word": "stuff" },
+  {
+    "sentence": "Two blackberries met . They were both in a jam .",
+    "pun_word": "jam"
+  },
+  {
+    "sentence": "Two surgeons were joking about sutures and had each other in stitches .",
+    "pun_word": "stitches"
+  },
+  {
+    "sentence": "My boyfriend and I started to date after he backed his car into mine . We met by accident .",
+    "pun_word": "accident"
+  },
+  {
+    "sentence": "Some burglars are always looking for windows of opportunity .",
+    "pun_word": "windows"
+  },
+  {
+    "sentence": "OLD PILOTS never die they just go to a higher plane .",
+    "pun_word": "plane"
+  },
+  { "sentence": "Dry cleaners are often pressed for time .", "pun_word": "pressed" },
+  { "sentence": "Cousteau was submerged in his work .", "pun_word": "submerged" },
+  {
+    "sentence": "I went to the store to buy some soup but they were out of stock .",
+    "pun_word": "stock"
+  },
+  {
+    "sentence": "Sports are refereed by people of many stripes .",
+    "pun_word": "stripes"
+  },
+  {
+    "sentence": "My new expensive vacuum cleaner really sucked .",
+    "pun_word": "sucked"
+  },
+  {
+    "sentence": "A restaurant owner gave his cooks a stirring speech .",
+    "pun_word": "stirring"
+  },
+  { "sentence": "I travel all over America , Tom stated .", "pun_word": "stated" },
+  {
+    "sentence": "OLD PYROMANIACS never die , they just lose their spark",
+    "pun_word": "spark"
+  },
+  { "sentence": "The Easter story is not a dead issue .", "pun_word": "dead" },
+  {
+    "sentence": "Be true to your teeth , or they will be false to you .",
+    "pun_word": "false"
+  },
+  {
+    "sentence": "Don\u2019t let your footprints in the sands of time be the mark of a heel",
+    "pun_word": "heel"
+  },
+  {
+    "sentence": "Five brothers wanted to buy a horse , so they all had to pony up .",
+    "pun_word": "pony"
+  },
+  {
+    "sentence": "He couldn ' t decide whether to accept a job in mattress sales so he decided to sleep on it .",
+    "pun_word": "sleep"
+  },
+  {
+    "sentence": "When the plums dry on your tree , it ' s time to prune .",
+    "pun_word": "prune"
+  },
+  {
+    "sentence": "If you get sick at the airport it could be a terminal illness .",
+    "pun_word": "terminal"
+  },
+  {
+    "sentence": "The dentist ' s favourite shopping centre was ' The Gap ' .",
+    "pun_word": "Gap"
+  },
+  {
+    "sentence": "Before he was hired as a short order cook they grilled him .",
+    "pun_word": "grilled"
+  },
+  {
+    "sentence": "Business at the candle factory tapered off after the holidays .",
+    "pun_word": "tapered"
+  },
+  {
+    "sentence": "The golfer guessed that his ball landed 20 feet off the fairway . Of course , that was just a rough estimate .",
+    "pun_word": "rough"
+  },
+  {
+    "sentence": "Pencil sharpeners have a tough life - they live off tips .",
+    "pun_word": "tips"
+  },
+  {
+    "sentence": "Two referees went head to head because they had a score to settle .",
+    "pun_word": "score"
+  },
+  {
+    "sentence": "A circus lion won ' t eat clowns because they taste funny .",
+    "pun_word": "funny"
+  },
+  {
+    "sentence": "In an office : Would the person who took the step ladder yesterday kindly bring it back or further steps will be taken .",
+    "pun_word": "steps"
+  },
+  {
+    "sentence": "OLD GOLFERS never die , they just lose their drive .",
+    "pun_word": "drive"
+  },
+  {
+    "sentence": "When it was lumpy he had a beef with his gravy .",
+    "pun_word": "beef"
+  },
+  { "sentence": "A pop singer bought a new house for a song .", "pun_word": "song" },
+  {
+    "sentence": "Two florists got married . It was an arranged marriage .",
+    "pun_word": "arranged"
+  },
+  {
+    "sentence": "OLD GEOMETRY TEACHERS never die , they just go off on a tangent .",
+    "pun_word": "tangent"
+  },
+  {
+    "sentence": "The photograph that I took of the sandstorm turned out grainy .",
+    "pun_word": "grainy"
+  },
+  {
+    "sentence": "The owner of the hair salon had to make cuts on his staff .",
+    "pun_word": "cuts"
+  },
+  {
+    "sentence": "One palm tree said to another ' let ' s have a date . '",
+    "pun_word": "date"
+  },
+  {
+    "sentence": "It ' s a fact , taller people sleep longer in bed .",
+    "pun_word": "longer"
+  },
+  { "sentence": "Nobel got a big bang out of it .", "pun_word": "bang" },
+  {
+    "sentence": "Those working in tissue research and testing are always blowing it .",
+    "pun_word": "blowing"
+  },
+  {
+    "sentence": "For the office drunk : He generally found him loaded with work to do .",
+    "pun_word": "loaded"
+  },
+  {
+    "sentence": "Doctor , Doctor , what would you take for this cold ? - Make me an offer . Next .",
+    "pun_word": "take"
+  },
+  {
+    "sentence": "An undertaker can be one of your best friends , he is always the last one to let you down .",
+    "pun_word": "let"
+  },
+  {
+    "sentence": "Labor Day is a good time to stop and reflect on the august events the the preceding month .",
+    "pun_word": "august"
+  },
+  {
+    "sentence": "Two pencils decided to have a race . The outcome was a draw .",
+    "pun_word": "draw"
+  },
+  {
+    "sentence": "' ' Waiter , there ' s a fly in my soup ! ' ' ' ' Force of habit , sir , the chef used to be a tailor .",
+    "pun_word": "fly"
+  },
+  {
+    "sentence": "You know what happens after you miss math class ? It starts adding up .",
+    "pun_word": "adding"
+  },
+  {
+    "sentence": "I crossed a cell phone with a skunk , and now the service stinks .",
+    "pun_word": "stinks"
+  },
+  {
+    "sentence": "I hear the Sylvester Stallone Film Festival got off to a rocky start .",
+    "pun_word": "rocky"
+  },
+  {
+    "sentence": "I wanted to bring a penguin home but my parents said that wasn ' t going to fly .",
+    "pun_word": "fly"
+  },
+  {
+    "sentence": "He collects mouthwash bottles , and they ' re all in mint condition .",
+    "pun_word": "mint"
+  },
+  {
+    "sentence": "Early nuclear experimenters discovered an element of surprise .",
+    "pun_word": "element"
+  },
+  {
+    "sentence": "After Junior swallowed the watch he had to wait to pass the time .",
+    "pun_word": "pass"
+  },
+  {
+    "sentence": "OLD AUTO MECHANICS never die , they just become exhausted .",
+    "pun_word": "exhausted"
+  },
+  {
+    "sentence": "Two companies that manufactured rulers decided to align .",
+    "pun_word": "align"
+  },
+  {
+    "sentence": "Waiter , there are pennies in my soup ! ' ' Well , sir , you said you ' d stop eating here if there wasn ' t some change in the food . ' ' *",
+    "pun_word": "change"
+  },
+  {
+    "sentence": "I tried to pack myself in a suitcase . I could hardly contain myself .",
+    "pun_word": "contain"
+  },
+  { "sentence": "My name is Leo . A lion trainer .", "pun_word": "Leo" },
+  {
+    "sentence": "The river crested when a factory spilled toothpaste into it .",
+    "pun_word": "crested"
+  },
+  {
+    "sentence": "When video arcades switched to a system of tokens , there was no quarter asked or given .",
+    "pun_word": "quarter"
+  },
+  {
+    "sentence": "The Alpine Skiing competition started poorly and went downhill from there .",
+    "pun_word": "downhill"
+  },
+  {
+    "sentence": "A gardening store owner who often called long distance for importing realized that talk and dirt aren ' t necessarily cheap .",
+    "pun_word": "dirt"
+  },
+  {
+    "sentence": "If you wear a blindfold at the shooting range , you won ' t know what you ' re missing .",
+    "pun_word": "missing"
+  },
+  {
+    "sentence": "When a letter carrier became a hero they called him a deliverer .",
+    "pun_word": "deliverer"
+  },
+  {
+    "sentence": "' ' I ' ve run out of wool , ' ' said Tom , knitting his brow .",
+    "pun_word": "knitting"
+  },
+  { "sentence": "Librarians are always going by the book .", "pun_word": "book" },
+  {
+    "sentence": "The prospector didn ' t think his career would pan out .",
+    "pun_word": "pan"
+  },
+  {
+    "sentence": "To write with a broken pencil is pointless .",
+    "pun_word": "pointless"
+  },
+  {
+    "sentence": "The ice at the rink has many ruts . I think the maintenance crew is slipping up .",
+    "pun_word": "slipping"
+  },
+  {
+    "sentence": "There was a contest on a slippery rock slope . I won in a landslide .",
+    "pun_word": "landslide"
+  },
+  {
+    "sentence": "Doctor , doctor , I keep thinking I ' m a deck of cards . - I ' ll deal with you later . Next !",
+    "pun_word": "deal"
+  },
+  {
+    "sentence": "OLD FARMERS never die , they just turn into vegetables .",
+    "pun_word": "vegetables"
+  },
+  {
+    "sentence": "When a priest makes a mistake in church it ' s a clerical error .",
+    "pun_word": "clerical"
+  },
+  {
+    "sentence": "In the old days a suspended sentence was hanging .",
+    "pun_word": "suspended"
+  },
+  {
+    "sentence": "The first time I got hold of a hang glider I had to wing it .",
+    "pun_word": "wing"
+  },
+  {
+    "sentence": "The coffee tasted like mud because it was ground a couple of minutes ago .",
+    "pun_word": "ground"
+  },
+  {
+    "sentence": "OLD DEANS never die they just lose their faculties .",
+    "pun_word": "faculties"
+  },
+  {
+    "sentence": "Show me a baker who is on a roll and I ' ll show you someone sitting on a bun .",
+    "pun_word": "roll"
+  },
+  {
+    "sentence": "OLD ELECTRICIANS never die , they just lose their potential .",
+    "pun_word": "potential"
+  },
+  {
+    "sentence": "Success comes in cans , failure comes in cant\u2019s",
+    "pun_word": "cans"
+  },
+  {
+    "sentence": "She was only a Junkie ' s daughter but her crack was the best in town .",
+    "pun_word": "crack"
+  },
+  {
+    "sentence": "I know road rage is an awful thing but when someone bumped my car I just couldn ' t help it . I got out my camera and snapped at the offender .",
+    "pun_word": "snapped"
+  },
+  {
+    "sentence": "She was only a Cattleman ' s daughter , but she couldn ' t keep her calves together .",
+    "pun_word": "calves"
+  },
+  {
+    "sentence": "I tried hard to get into vexillology , but , in the end , had to flag it away .",
+    "pun_word": "flag"
+  },
+  {
+    "sentence": "An archaeologist ' s career ended in ruins .",
+    "pun_word": "ruins"
+  },
+  {
+    "sentence": "OLD PRESIDENTS never die , they just go through their cabinets",
+    "pun_word": "cabinets"
+  },
+  {
+    "sentence": "I ' ve spotted more blackbirds than you have , Tom crowed .",
+    "pun_word": "crowed"
+  },
+  {
+    "sentence": "OLD TYPISTS never die , they just lose their justification .",
+    "pun_word": "justification"
+  },
+  {
+    "sentence": "I ' ll glue the sheets of wood back together , Tom replied .",
+    "pun_word": "replied"
+  },
+  {
+    "sentence": "Old lumberjacks never die , they just pine away .",
+    "pun_word": "pine"
+  },
+  {
+    "sentence": "Early stone tools had many problems that were eventually ironed out .",
+    "pun_word": "ironed"
+  },
+  {
+    "sentence": "He was facinated by his new welding job . It was riveting .",
+    "pun_word": "riveting"
+  },
+  {
+    "sentence": "Bridge tolls have increased significantly over a 5 year span .",
+    "pun_word": "span"
+  },
+  {
+    "sentence": "Those who polish cars so that they shine work in a buffer zone .",
+    "pun_word": "buffer"
+  },
+  {
+    "sentence": "Did you see guys that Bob the ventriloquist hangs out with ? They ' re nothing special , just a bunch of dummies .",
+    "pun_word": "dummies"
+  },
+  {
+    "sentence": "We were so poor when I was growing up we couldn ' t even afford to pay attention .",
+    "pun_word": "pay"
+  },
+  {
+    "sentence": "When you give to god , you always get back change",
+    "pun_word": "change"
+  },
+  {
+    "sentence": "I was going to buy some loose tea , but the price was too steep .",
+    "pun_word": "steep"
+  },
+  {
+    "sentence": "The sergeant drank whiskey in order to be fortified in his position .",
+    "pun_word": "fortified"
+  },
+  {
+    "sentence": "OLD COUPON CLIPPERS never die , they just expire .",
+    "pun_word": "expire"
+  },
+  {
+    "sentence": "She was only a Electrician ' s daughter , but she certainly had good connections .",
+    "pun_word": "connections"
+  },
+  {
+    "sentence": "The harm caused by sibling rivalry is relative .",
+    "pun_word": "relative"
+  },
+  {
+    "sentence": "When the woman got paid for being in a study at the sleep clinic , she said it was her dream job .",
+    "pun_word": "dream"
+  },
+  {
+    "sentence": "A carpenter sat on his drill and was bored to tears .",
+    "pun_word": "bored"
+  },
+  {
+    "sentence": "A library should have several floors because it is a multi story building .",
+    "pun_word": "story"
+  },
+  { "sentence": "We don\u2019t read palms ; we wave them .", "pun_word": "palms" },
+  {
+    "sentence": "Two cooks disagreed but decided to hash it over .",
+    "pun_word": "hash"
+  },
+  {
+    "sentence": "The tongue weighs very little , but few people can hold it .",
+    "pun_word": "hold"
+  },
+  {
+    "sentence": "She ' s a composer who has scores of works to her credit .",
+    "pun_word": "scores"
+  },
+  {
+    "sentence": "When he fell in the wet concrete he left a bad impression .",
+    "pun_word": "impression"
+  },
+  { "sentence": "My name is Herb . I ' m a cook .", "pun_word": "Herb" },
+  {
+    "sentence": "There was a report of shots fired in a local bar . The police don ' t know what triggered the commotion .",
+    "pun_word": "triggered"
+  },
+  {
+    "sentence": "A goat that ate office supplies was on a staple diet .",
+    "pun_word": "staple"
+  },
+  {
+    "sentence": "When the wino suspected his muscatel was watered down , he needed more proof .",
+    "pun_word": "proof"
+  },
+  {
+    "sentence": "The bargain store promised a free abacus with every purchase , but I wouldn ' t count on it .",
+    "pun_word": "count"
+  },
+  {
+    "sentence": "Illusionists always find themselves in tricky situations .",
+    "pun_word": "tricky"
+  },
+  {
+    "sentence": "The orange squeezer was invented with some juicy information .",
+    "pun_word": "juicy"
+  },
+  {
+    "sentence": "OLD NITPICKERS never die , they just feel lousy .",
+    "pun_word": "lousy"
+  },
+  { "sentence": "Comedians , the biggest joke going .", "pun_word": "joke" },
+  {
+    "sentence": "Why didn ' t the little boy ask the flight attendant for a snack ? He didn ' t have the nuts .",
+    "pun_word": "nuts"
+  },
+  {
+    "sentence": "Why did the agricultural presentation go so smoothly ? They planted questions .",
+    "pun_word": "planted"
+  },
+  {
+    "sentence": "I couldn ' t quite remember how to throw a boomerang , but eventually it came back to me .",
+    "pun_word": "came"
+  },
+  {
+    "sentence": "OLD FORGERS never die , they just leave no trace .",
+    "pun_word": "trace"
+  },
+  {
+    "sentence": "When buying a battery you should never have to charge it .",
+    "pun_word": "charge"
+  },
+  {
+    "sentence": "OLD WRESTLERS never die they just lose their grip .",
+    "pun_word": "grip"
+  },
+  {
+    "sentence": "In the office she was frantically looking for her false nails only to discover she had filed them away .",
+    "pun_word": "filed"
+  },
+  {
+    "sentence": "OLD TEACHERS never die they just lose their class .",
+    "pun_word": "class"
+  },
+  { "sentence": "Gunpowder was invented in a flash .", "pun_word": "flash" },
+  {
+    "sentence": "The frog went unnoticed in the milkshake because it blended so well .",
+    "pun_word": "blended"
+  },
+  {
+    "sentence": "Sign in an electrician ' s shop : ' We will refuse you . '",
+    "pun_word": "refuse"
+  },
+  {
+    "sentence": "Low carb diets really go against the grain .",
+    "pun_word": "grain"
+  },
+  {
+    "sentence": "A wig van blew up on the motorway - police are combing the area .",
+    "pun_word": "combing"
+  },
+  { "sentence": "My name is Sandy . I ' m a lifeguard .", "pun_word": "Sandy" },
+  {
+    "sentence": "He had a difficult time bouncing back from his bungee cord accident .",
+    "pun_word": "bouncing"
+  },
+  { "sentence": "A tattle tale pig is a squealer .", "pun_word": "squealer" },
+  { "sentence": "Bike sales go in cycles .", "pun_word": "cycles" },
+  {
+    "sentence": "A waiter who played tennis was great at serving .",
+    "pun_word": "serving"
+  },
+  {
+    "sentence": "An old professor who was never on time died and was called the late professor Brown .",
+    "pun_word": "late"
+  },
+  {
+    "sentence": "Two cooks had a contest and the heat was on .",
+    "pun_word": "heat"
+  },
+  {
+    "sentence": "When cave men got together they formed clubs .",
+    "pun_word": "clubs"
+  },
+  {
+    "sentence": "My friend was fired from his job at the road department for stealing . I have to say I saw it coming . The last time I was at his house all the signs were there .",
+    "pun_word": "signs"
+  },
+  {
+    "sentence": "My skiing skills are really going downhill .",
+    "pun_word": "downhill"
+  },
+  {
+    "sentence": "Doctor , doctor , I keep thinking I ' m a spoon . - Sit there and don ' t stir . Next .",
+    "pun_word": "stir"
+  },
+  {
+    "sentence": "Baseball is known for its pitched battles .",
+    "pun_word": "pitched"
+  },
+  {
+    "sentence": "Reassembling the skeletons of prehistoric mammals can be a mammoth undertaking .",
+    "pun_word": "mammoth"
+  },
+  { "sentence": "Math teachers have lots of problems .", "pun_word": "problems" },
+  { "sentence": "Graveyard workers really dig their jobs .", "pun_word": "dig" },
+  {
+    "sentence": "I ' m blind enough to look at the situation in the wrong fashion , so I changed my clothes .",
+    "pun_word": "fashion"
+  },
+  {
+    "sentence": "Before he sold Christmas trees , he got himself spruced up .",
+    "pun_word": "spruced"
+  },
+  {
+    "sentence": "OLD SOCCER PLAYERS never die , they just lose their kick .",
+    "pun_word": "kick"
+  },
+  {
+    "sentence": "Golfers hate cake because they might get a slice .",
+    "pun_word": "slice"
+  },
+  {
+    "sentence": "Her decision to take up rock climbing was precipitous to say the least .",
+    "pun_word": "precipitous"
+  },
+  { "sentence": "My name is Ray . I ' m a roentgenologist .", "pun_word": "Ray" },
+  {
+    "sentence": "If pride goes before a fall , humility should arrive by that winter",
+    "pun_word": "fall"
+  },
+  {
+    "sentence": "The psychiatrist told the genie his emotions were all bottled up .",
+    "pun_word": "bottled"
+  },
+  {
+    "sentence": "After they had it out in the boxing ring , they called it square .",
+    "pun_word": "square"
+  },
+  {
+    "sentence": "He who lends to the poor gets interest from god",
+    "pun_word": "interest"
+  },
+  {
+    "sentence": "Power corrupts , especially at the electric company .",
+    "pun_word": "Power"
+  },
+  {
+    "sentence": "OLD PSYCHIATRISTS never die , they just shrink away .",
+    "pun_word": "shrink"
+  },
+  {
+    "sentence": "A politician with a bad back needs lots of support .",
+    "pun_word": "support"
+  },
+  {
+    "sentence": "She had two different jobs as a chef which gave her a full plate .",
+    "pun_word": "plate"
+  },
+  {
+    "sentence": "OLD MAGICIANS never die they just disappear .",
+    "pun_word": "disappear"
+  },
+  {
+    "sentence": "Conjoined twins aren ' t the only twins with special connections .",
+    "pun_word": "connections"
+  },
+  {
+    "sentence": "The two guys caught drinking battery acid will soon be charged .",
+    "pun_word": "charged"
+  },
+  {
+    "sentence": "OLD SHOEMAKERS never die , they are just given the boot .",
+    "pun_word": "boot"
+  },
+  {
+    "sentence": "The exhibitionist went to the store because he heard they were having a flash sale .",
+    "pun_word": "flash"
+  },
+  {
+    "sentence": "A baseball player joined the army and did the round of military bases .",
+    "pun_word": "bases"
+  },
+  {
+    "sentence": "If word processing a presentation about guns - - be sure to know how to use bullets .",
+    "pun_word": "bullets"
+  },
+  {
+    "sentence": "OLD METEOROLOGISTS never die , they just get under the weather .",
+    "pun_word": "weather"
+  },
+  {
+    "sentence": "A case of disappearing bison had police completely buffaloed .",
+    "pun_word": "buffaloed"
+  },
+  {
+    "sentence": "Any golfer will tell you the gospel truth . Your next shot always depends on the lie .",
+    "pun_word": "lie"
+  },
+  {
+    "sentence": "A tatoo artist has designs on his clients .",
+    "pun_word": "designs"
+  },
+  {
+    "sentence": "Dentists practice by going through many drills .",
+    "pun_word": "drills"
+  },
+  {
+    "sentence": "OLD PICKPOCKETS never die , they just steal away .",
+    "pun_word": "steal"
+  },
+  {
+    "sentence": "A little boy called his father who made balloons ' pop ' .",
+    "pun_word": "pop"
+  },
+  {
+    "sentence": "The stock market crashes , but Viagra beats the flop .",
+    "pun_word": "flop"
+  },
+  {
+    "sentence": "Three fingers were willing to cooperate but the thumb and forefinger were opposed .",
+    "pun_word": "opposed"
+  },
+  { "sentence": "Those who build roofs are so inclined .", "pun_word": "inclined" },
+  {
+    "sentence": "A skier who makes it to the olympics finds that it is all downhill from there .",
+    "pun_word": "downhill"
+  },
+  {
+    "sentence": "When the human cannonball retired they couldn ' t find a replacement of the right caliber .",
+    "pun_word": "caliber"
+  },
+  { "sentence": "A horse is a very stable animal .", "pun_word": "stable" },
+  { "sentence": "OLD ESKIMOS never die , they just go cold .", "pun_word": "cold" },
+  {
+    "sentence": "You really are addicted to soccer , you should think of kicking the habit .",
+    "pun_word": "kicking"
+  },
+  {
+    "sentence": "She was only a Magistrates daughter , but she knew what to do on the bench .",
+    "pun_word": "bench"
+  },
+  {
+    "sentence": "The first fish to gather in schools was the grouper .",
+    "pun_word": "grouper"
+  },
+  {
+    "sentence": "I wanted to lose weight so I went to the paint store . I heard I could get thinner there .",
+    "pun_word": "thinner"
+  },
+  {
+    "sentence": "If all your troubles are melting away watch out for the floods .",
+    "pun_word": "melting"
+  },
+  {
+    "sentence": "OLD PLAGIARISTS never die , they just steal away .",
+    "pun_word": "steal"
+  },
+  {
+    "sentence": "I used to be addicted to soap , but I ' m clean now .",
+    "pun_word": "clean"
+  },
+  { "sentence": "Some cardiologists are heartless .", "pun_word": "heartless" },
+  {
+    "sentence": "I went to buy some property with a hill on it , but it was a little steep .",
+    "pun_word": "steep"
+  },
+  {
+    "sentence": "I find that movies about submarines always go down well .",
+    "pun_word": "go"
+  },
+  {
+    "sentence": "A racer who was also a golfer really knew how to drive .",
+    "pun_word": "drive"
+  },
+  {
+    "sentence": "If you invite an insomniac to your pajama party they will be up for it .",
+    "pun_word": "up"
+  },
+  { "sentence": "Army dentists make a good drill corps .", "pun_word": "drill" },
+  { "sentence": "Dermatologists often make rash statements .", "pun_word": "rash" },
+  { "sentence": "My name is Bet . I ' m a coupier .", "pun_word": "Bet" },
+  {
+    "sentence": "A young sailor thought all of the waves were just swell .",
+    "pun_word": "swell"
+  },
+  {
+    "sentence": "OLD PROGRAMMERS never die they just go to bits .",
+    "pun_word": "bits"
+  },
+  {
+    "sentence": "Backups are usually a good thing unless it ' s a sewer .",
+    "pun_word": "Backups"
+  },
+  {
+    "sentence": "The Vikings landed during thunder and lightning and took the city by storm .",
+    "pun_word": "storm"
+  },
+  {
+    "sentence": "OLD BREAD MEN never die , they just lose their dough .",
+    "pun_word": "dough"
+  },
+  {
+    "sentence": "Seafood operations start out on a small scale .",
+    "pun_word": "scale"
+  },
+  {
+    "sentence": "Civil servants named Grant are known as government grants .",
+    "pun_word": "grants"
+  },
+  {
+    "sentence": "I might study something at a university that someone once told me about - there is a degree of ambiguity there .",
+    "pun_word": "degree"
+  },
+  {
+    "sentence": "When ancient wall sculptors were finished it was a relief .",
+    "pun_word": "relief"
+  },
+  {
+    "sentence": "The hot dog vendor answered , with a tone quite frank .",
+    "pun_word": "frank"
+  },
+  {
+    "sentence": "OLD MATH PROFESSORS never die , they just use strange expressions .",
+    "pun_word": "expressions"
+  },
+  {
+    "sentence": "OLD SEWAGE WORKERS never die they just waste away .",
+    "pun_word": "waste"
+  },
+  {
+    "sentence": "The thief had a bold plan . He figured he could carry it off .",
+    "pun_word": "carry"
+  },
+  {
+    "sentence": "OLD SEERS never die they just lose their vision .",
+    "pun_word": "vision"
+  },
+  {
+    "sentence": "Everyday is a gift from god , that is why it is called the present",
+    "pun_word": "present"
+  },
+  { "sentence": "There\u2019s no high like the most high .", "pun_word": "high" },
+  {
+    "sentence": "OLD LAUNDRY WORKERS never die , they just are decreased .",
+    "pun_word": "decreased"
+  },
+  {
+    "sentence": "She was only a Moonshiner ' s daughter , but I love her still .",
+    "pun_word": "still"
+  },
+  {
+    "sentence": "OLD UNIVERSITY PRESIDENTS never die , they just lose their faculties",
+    "pun_word": "faculties"
+  },
+  {
+    "sentence": "I was going to buy a book on phobias , but I was afraid it wouldn ' t help me .",
+    "pun_word": "afraid"
+  },
+  { "sentence": "The aluminum foiled my plans .", "pun_word": "foiled" },
+  {
+    "sentence": "She was only a Waitress ' s daughter but she sure could dish it out .",
+    "pun_word": "dish"
+  },
+  {
+    "sentence": "The hypnotist went out of business because he ran out of suggestions .",
+    "pun_word": "suggestions"
+  },
+  {
+    "sentence": "For class schedules Yoga instructors are flexible .",
+    "pun_word": "flexible"
+  },
+  {
+    "sentence": "Hockey players are terrible chess players because they are always getting checked .",
+    "pun_word": "checked"
+  },
+  {
+    "sentence": "I do a lot of spreadsheets in the office so you can say I ' m excelling at work .",
+    "pun_word": "excelling"
+  },
+  {
+    "sentence": "He bent over to pick up a sieve and strained himself .",
+    "pun_word": "strained"
+  },
+  {
+    "sentence": "When they told him that his drum couldn ' t be fixed , it didn ' t resonate very well .",
+    "pun_word": "resonate"
+  },
+  {
+    "sentence": "A fisherman tried boxing , but he only threw hooks .",
+    "pun_word": "hooks"
+  },
+  {
+    "sentence": "Winning candy as a prize is always a sweet victory .",
+    "pun_word": "sweet"
+  },
+  {
+    "sentence": "During his lifetime , the composer Bach was a noted success .",
+    "pun_word": "noted"
+  },
+  {
+    "sentence": "OLD POKER PLAYERS never die , they are just discarded .",
+    "pun_word": "discarded"
+  },
+  {
+    "sentence": "' ' I can take photographs if I want to ! ' ' Tom snapped .",
+    "pun_word": "snapped"
+  },
+  { "sentence": "Lightning storms can be very striking .", "pun_word": "striking" },
+  {
+    "sentence": "Our bikinis are exciting . They are simply the tops .",
+    "pun_word": "tops"
+  },
+  {
+    "sentence": "High on a ladder he saw a beautiful girl below . He fell for her .",
+    "pun_word": "fell"
+  },
+  {
+    "sentence": "When underwear fell in the vat at a beer - makers , a scandal was brewing .",
+    "pun_word": "brewing"
+  },
+  {
+    "sentence": "Pencils could be made with erasers at both ends , but what would be the point ?",
+    "pun_word": "point"
+  },
+  {
+    "sentence": "Old burglars never die they just steal away .",
+    "pun_word": "steal"
+  },
+  { "sentence": "Lumberjacks have to keep problem logs .", "pun_word": "logs" },
+  { "sentence": "My name is Grant , I am a loan officer .", "pun_word": "Grant" },
+  { "sentence": "Midwives don ' t like to wear breeches .", "pun_word": "breeches" },
+  {
+    "sentence": "She was only a Farmer ' s daughter , but she knew hundreds of ways to fertilize .",
+    "pun_word": "fertilize"
+  },
+  {
+    "sentence": "Molecules boiling points vary to some degree .",
+    "pun_word": "degree"
+  },
+  { "sentence": "My name is Joe , an espresso vender", "pun_word": "Joe" },
+  {
+    "sentence": "Two friends took ropes to school so that they could skip out .",
+    "pun_word": "skip"
+  },
+  {
+    "sentence": "Many people need to learn to be happy with the State they are in .",
+    "pun_word": "State"
+  },
+  {
+    "sentence": "Pipe fitters often have high pressure jobs .",
+    "pun_word": "pressure"
+  },
+  {
+    "sentence": "' ' I told you not to ride that horse , ' ' Tom nagged .",
+    "pun_word": "nagged"
+  },
+  { "sentence": "Coaches usually have a goal in mind .", "pun_word": "goal" },
+  {
+    "sentence": "The meat truck took a long time to deliver because of the Jerky ride .",
+    "pun_word": "Jerky"
+  },
+  {
+    "sentence": "Suicide at sea is definitely going overboard .",
+    "pun_word": "overboard"
+  },
+  {
+    "sentence": "An exterminator in Idaho announced that he invented a new spray , one application of which will remain effective for a full season . ' ' Of course , ' ' he warned . ' ' I ' ve still got a few bugs to iron out . ' '",
+    "pun_word": "bugs"
+  },
+  {
+    "sentence": "Swimmers have to be careful not to get into deep trouble .",
+    "pun_word": "deep"
+  },
+  {
+    "sentence": "OLD RAILROADERS never die , they just derail .",
+    "pun_word": "derail"
+  },
+  {
+    "sentence": "The invention of a shirt fastener after the button was a snap .",
+    "pun_word": "snap"
+  },
+  {
+    "sentence": "Life after death for evil doers has always been a hot topic .",
+    "pun_word": "hot"
+  },
+  {
+    "sentence": "The man who impulsively got a cat despite his allergies later realized that it was a rash decision .",
+    "pun_word": "rash"
+  },
+  {
+    "sentence": "OLD CARD PLAYERS never die , they just fold .",
+    "pun_word": "fold"
+  },
+  {
+    "sentence": "She was only a Fruit vendor ' s daughter , but , my , she had big melons .",
+    "pun_word": "melons"
+  },
+  {
+    "sentence": "Boyle said he was under too much pressure .",
+    "pun_word": "pressure"
+  },
+  {
+    "sentence": "The color of the sun in the early morning : rose .",
+    "pun_word": "rose"
+  },
+  {
+    "sentence": "Driving on so many turnpikes was taking its toll .",
+    "pun_word": "toll"
+  },
+  {
+    "sentence": "A ham walked out of the hospital and said ' ' I ' m cured ' ' .",
+    "pun_word": "cured"
+  },
+  {
+    "sentence": "If you ' re looking for oranges on an apple tree you will have a fruitless search .",
+    "pun_word": "fruitless"
+  },
+  {
+    "sentence": "In high school I recall having a beautiful but difficult math teacher . She was easy on the eyes and hard on the pupils !",
+    "pun_word": "pupils"
+  },
+  {
+    "sentence": "Those with scissors shouldn ' t use cutting words .",
+    "pun_word": "cutting"
+  },
+  { "sentence": "What ' s the deal with negotiations ?", "pun_word": "deal" },
+  {
+    "sentence": "The family elders have relative importance .",
+    "pun_word": "relative"
+  },
+  {
+    "sentence": "A skier who loses a race on a cold day will have a frosty disposition .",
+    "pun_word": "frosty"
+  },
+  {
+    "sentence": "OLD PROGRAMMERS never die , they just get bugged with life .",
+    "pun_word": "bugged"
+  },
+  {
+    "sentence": "Christians , keep the faith . . . but not from others !",
+    "pun_word": "keep"
+  },
+  {
+    "sentence": "Those who get up at sunrise have many ideas dawn on them .",
+    "pun_word": "dawn"
+  },
+  {
+    "sentence": "An experienced waiter can give a lot of good tips .",
+    "pun_word": "tips"
+  },
+  {
+    "sentence": "' ' This must be an aerobics class , ' ' Tom worked out .",
+    "pun_word": "worked"
+  },
+  {
+    "sentence": "The most popular operation for orthopaedic surgeons is upper - leg surgery : very hip .",
+    "pun_word": "hip"
+  },
+  {
+    "sentence": "Actors are cast through their good and bad stages .",
+    "pun_word": "stages"
+  },
+  { "sentence": "Food for bad dogs is bought by the pound .", "pun_word": "pound" },
+  {
+    "sentence": "My son wanted a scooter . When I told him they are too dangerous , he moped around the house .",
+    "pun_word": "moped"
+  },
+  {
+    "sentence": "OLD MATHEMATICIANS never die , they just go off on a tangent",
+    "pun_word": "tangent"
+  },
+  {
+    "sentence": "A thief fell and broke his leg in wet cement . He became a hardened criminal .",
+    "pun_word": "hardened"
+  },
+  { "sentence": "De Broglie waved aside the invitation .", "pun_word": "waved" },
+  {
+    "sentence": "In parking lots , arguments often start from scratch .",
+    "pun_word": "scratch"
+  },
+  {
+    "sentence": "Some shoe sales have a good selection to boot .",
+    "pun_word": "boot"
+  },
+  {
+    "sentence": "When the town removed billboards , they told people that ' s how it was designed .",
+    "pun_word": "designed"
+  },
+  {
+    "sentence": "An army officer is a position that some people shoot for .",
+    "pun_word": "shoot"
+  },
+  {
+    "sentence": "The electrician got his supplies at the outlet store .",
+    "pun_word": "outlet"
+  },
+  {
+    "sentence": "The lumber company downsized . They got rid of the deadwood .",
+    "pun_word": "deadwood"
+  },
+  {
+    "sentence": "Waiter , there ' s a fly in my soup ! ' ' I know . It gives you a nice buzz doesn ' t it ? ' '",
+    "pun_word": "buzz"
+  },
+  {
+    "sentence": "Tailors enjoy hanging out in internet fora , as they are full of threads .",
+    "pun_word": "threads"
+  },
+  {
+    "sentence": "Priests can ' t marry without prior approval .",
+    "pun_word": "prior"
+  },
+  {
+    "sentence": "Old artists never die , they just put things in perspective .",
+    "pun_word": "perspective"
+  },
+  { "sentence": "Go away , you snake ! Tom rattled off .", "pun_word": "rattled" },
+  {
+    "sentence": "I never understood why people liked to play soft ball . It ' s a very underhanded thing to do .",
+    "pun_word": "underhanded"
+  },
+  { "sentence": "Tom was so tired , he lied about his bed .", "pun_word": "lied" },
+  {
+    "sentence": "She was only an Artist ' s daughter , but what a crowd she could draw .",
+    "pun_word": "draw"
+  },
+  {
+    "sentence": "OLD KENTUCKY FRIED CHICKEN FRANCHISERS never die , they just chicken out .",
+    "pun_word": "chicken"
+  },
+  { "sentence": "OLD PILOTS never die they just take off .", "pun_word": "take" },
+  {
+    "sentence": "My name is Marshall . I ' m a peace officier .",
+    "pun_word": "Marshall"
+  },
+  {
+    "sentence": "Astronomers often have their own private viewpoints .",
+    "pun_word": "viewpoints"
+  },
+  {
+    "sentence": "OLD CRICKETERS never die , they just get bowled over .",
+    "pun_word": "bowled"
+  },
+  {
+    "sentence": "Smaller babies may be delivered by stork but the heavier ones need a crane .",
+    "pun_word": "crane"
+  },
+  {
+    "sentence": "A farmer with a rip in his clothes has an overall problem .",
+    "pun_word": "overall"
+  },
+  {
+    "sentence": "She was only a Dairyman ' s daughter , but what a calf",
+    "pun_word": "calf"
+  },
+  {
+    "sentence": "Doctor , Doctor , this ointment you gave me makes my arm smart . . - Then rub some on your head ? Next .",
+    "pun_word": "smart"
+  },
+  {
+    "sentence": "It ' s quiet in a bowling alley because you can hear a pin drop .",
+    "pun_word": "pin"
+  },
+  {
+    "sentence": "I just got back from a statistical probability conference . It was average .",
+    "pun_word": "average"
+  },
+  {
+    "sentence": "OLD HIPPIES never die , they just take a trip .",
+    "pun_word": "trip"
+  },
+  {
+    "sentence": "I finally found a spotter at the gym , it ' s like a huge weight has been lifted off my shoulders .",
+    "pun_word": "weight"
+  },
+  { "sentence": "Shepherds sometimes have staff meetings .", "pun_word": "staff" },
+  {
+    "sentence": "After having a knee dislocated and an elbow fractured in two barroom brawls Bradley should have learned to stay away from those joints .",
+    "pun_word": "joints"
+  },
+  {
+    "sentence": "OLD AIR CONDITIONER REPAIRMEN never die , they just lose their cool .",
+    "pun_word": "cool"
+  },
+  {
+    "sentence": "To be a successful frequent flier you need a lot of connections .",
+    "pun_word": "connections"
+  },
+  {
+    "sentence": "What do they call all that lumber on the Star Trek ' s Enterprise ? Captain ' s log .",
+    "pun_word": "log"
+  },
+  {
+    "sentence": "After Gus gave his girlfriend a 3 dollar box of chocolates for her birthday he got nothing but snickers .",
+    "pun_word": "snickers"
+  },
+  {
+    "sentence": "Did you hear about the bivalve they called in to interrogate for that big murder investigation ? Apparently , he ' s clammed up .",
+    "pun_word": "clammed"
+  },
+  {
+    "sentence": "At a conference , I unexpectedly encountered the wife of a former client , whom I hadn ' t seen in 20 or more years . ' ' You haven ' t changed ! ' ' she exclaimed . ' ' There ' s plenty of time for that , ' ' I replied . ' ' The dinner isn ' t until this evening . ' '",
+    "pun_word": "changed"
+  },
+  {
+    "sentence": "Changing a tire on that crazy Houston freeway was a wrenching experience .",
+    "pun_word": "wrenching"
+  },
+  { "sentence": "Two podiatrists became arch rivals .", "pun_word": "arch" },
+  {
+    "sentence": "A husband and wife argued over the weather , but it soon blew over .",
+    "pun_word": "blew"
+  },
+  {
+    "sentence": "I needed a raise in my allowance . Mowing the grass all summer just wasn ' t cutting it .",
+    "pun_word": "cutting"
+  },
+  {
+    "sentence": "I think Santa has riverfront property in Brazil . All our presents came from Amazon this year .",
+    "pun_word": "Amazon"
+  },
+  {
+    "sentence": "Husbands are like fires . They go out when unattended .",
+    "pun_word": "go"
+  },
+  {
+    "sentence": "A manufacturer that made lamps gave their employees a light workload .",
+    "pun_word": "light"
+  },
+  {
+    "sentence": "If towels could tell jokes they would probably have a dry sense of humor .",
+    "pun_word": "dry"
+  },
+  {
+    "sentence": "An office with many people and few electrical outlets could be in for a power struggle .",
+    "pun_word": "power"
+  },
+  { "sentence": "Vinyl records are really groovy .", "pun_word": "groovy" },
+  {
+    "sentence": "Before a plumber retired , he took the final plunge .",
+    "pun_word": "plunge"
+  },
+  {
+    "sentence": "Firefighters can rescue you , but only Jesus saves .",
+    "pun_word": "saves"
+  },
+  { "sentence": "Faraday was charged up with the idea .", "pun_word": "charged" },
+  {
+    "sentence": "An unusual medical book is one which has no appendix .",
+    "pun_word": "appendix"
+  },
+  {
+    "sentence": "A tire store loves a chance to Roll out a new product .",
+    "pun_word": "Roll"
+  },
+  {
+    "sentence": "If you break a string on your guitar don ' t Fret .",
+    "pun_word": "Fret"
+  },
+  {
+    "sentence": "After he bought his two - year - old a felt pen , he was a marked man .",
+    "pun_word": "marked"
+  },
+  {
+    "sentence": "OLD CARTOONISTS never die , they just draw their last breath .",
+    "pun_word": "draw"
+  },
+  {
+    "sentence": "The plums for sale dried out , so the profits were pruned .",
+    "pun_word": "pruned"
+  },
+  {
+    "sentence": "When a duck is feeling down he might just be happy .",
+    "pun_word": "down"
+  },
+  { "sentence": "This is the best guy I ' ve met to date .", "pun_word": "date" },
+  {
+    "sentence": "Waiter , I ' ll have my bill now . - How did you find your steak , sir ? - Oh , I just moved the potato and there it was .",
+    "pun_word": "find"
+  },
+  {
+    "sentence": "Elephants will toil all day , and they work for peanuts .",
+    "pun_word": "peanuts"
+  },
+  {
+    "sentence": "OLD AUDITORS never die , they just lose their figures .",
+    "pun_word": "figures"
+  },
+  {
+    "sentence": "The other day I saw a magician walk down the street and turn into a drugstore .",
+    "pun_word": "turn"
+  },
+  {
+    "sentence": "The racers all had shorts on that were too small for them , so it was a tight race .",
+    "pun_word": "tight"
+  },
+  {
+    "sentence": "She was only a Convict ' s daughter , but she sure knew all of the bars .",
+    "pun_word": "bars"
+  },
+  {
+    "sentence": "Some clockmakers are normal , but others are a little cuckoo .",
+    "pun_word": "cuckoo"
+  },
+  {
+    "sentence": "They called him the king of the dentists because he specialized in crowns .",
+    "pun_word": "crowns"
+  },
+  {
+    "sentence": "A man stole a case of soap from the corner store . The police said he made a clean getaway .",
+    "pun_word": "clean"
+  },
+  { "sentence": "News of a coming flood was leaked .", "pun_word": "leaked" },
+  {
+    "sentence": "She became a telephone operator because it was her calling .",
+    "pun_word": "calling"
+  },
+  {
+    "sentence": "The politician is not one for Indian food . But he ' s good at currying favors .",
+    "pun_word": "currying"
+  },
+  {
+    "sentence": "If you are what you eat , I ' m staying away from the nuts !",
+    "pun_word": "nuts"
+  },
+  { "sentence": "My name is Clay . I make pottery .", "pun_word": "Clay" },
+  { "sentence": "One of these new shoes isn ' t right .", "pun_word": "right" },
+  {
+    "sentence": "Doctor , Doctor , I can ' t get to sleep . - Sit on the edge of the bed and you ' ll soon drop off . Next .",
+    "pun_word": "drop"
+  },
+  {
+    "sentence": "I went to the dentist without lunch , and he gave me a plate .",
+    "pun_word": "plate"
+  },
+  {
+    "sentence": "OLD JANITORS never die they just get swept up .",
+    "pun_word": "swept"
+  },
+  {
+    "sentence": "The massage which came with the spa treatment was a nice touch .",
+    "pun_word": "touch"
+  },
+  {
+    "sentence": "OLD SHOE SHINE BOYS never die , they are just rebuffed . .",
+    "pun_word": "rebuffed"
+  },
+  {
+    "sentence": "Here is how the track meet is going to run . . .",
+    "pun_word": "run"
+  },
+  {
+    "sentence": "How do I handle change ? I put it in the parking meter .",
+    "pun_word": "change"
+  },
+  {
+    "sentence": "I ' ve never taken an elevator to the basement floor , that ' s just beneath me .",
+    "pun_word": "beneath"
+  },
+  {
+    "sentence": "I ' ve never killed a deer before but I ' ll take a shot at it .",
+    "pun_word": "shot"
+  },
+  { "sentence": "Hands in Prayer : Already Digital", "pun_word": "Digital" },
+  {
+    "sentence": "Diabetics should not be allowed to have sweet dreams .",
+    "pun_word": "sweet"
+  },
+  {
+    "sentence": "I ' m going to the guillotine at dawn and my wife has already collected my severance pay .",
+    "pun_word": "severance"
+  },
+  {
+    "sentence": "After 5 years with the same chiropractor , I moved and had to change doctors . It was quite an adjustment .",
+    "pun_word": "adjustment"
+  },
+  {
+    "sentence": "We ' re expecting fallout from the recent layoffs at the nuclear plant .",
+    "pun_word": "fallout"
+  },
+  {
+    "sentence": "A scientist doing a large experiment with liquid chemicals was trying to solve a problem when he fell in and became part of the solution .",
+    "pun_word": "solution"
+  },
+  {
+    "sentence": "I got a great bargain the other day when I bought a forklift for half - price . It ' s amazing what you can pick up these days .",
+    "pun_word": "pick"
+  },
+  {
+    "sentence": "' ' I just came in through the door , ' ' said Tom , entranced .",
+    "pun_word": "entranced"
+  },
+  {
+    "sentence": "Dutch shoes used to be made in a factory machine , until it got clogged up .",
+    "pun_word": "clogged"
+  },
+  {
+    "sentence": "The inventor of a hay baling machine made a bundle .",
+    "pun_word": "bundle"
+  },
+  {
+    "sentence": "Even if you ' re on the right track , you ' ll get run over if you just sit there .",
+    "pun_word": "track"
+  },
+  {
+    "sentence": "When the investor came home from work he was spent .",
+    "pun_word": "spent"
+  },
+  {
+    "sentence": "Old electricians never die , they just keep plugging away .",
+    "pun_word": "plugging"
+  },
+  {
+    "sentence": "OLD GARDENERS never die , they just get uprooted .",
+    "pun_word": "uprooted"
+  },
+  {
+    "sentence": "The science teachers broke up because there was no chemistry between them .",
+    "pun_word": "chemistry"
+  },
+  {
+    "sentence": "How do you find a missing train ? Follow the tracks .",
+    "pun_word": "tracks"
+  },
+  { "sentence": "My name is Brandy . The bartender .", "pun_word": "Brandy" },
+  { "sentence": "My name is Ham . I raise pigs", "pun_word": "Ham" },
+  { "sentence": "Ohm resisted the idea at first .", "pun_word": "resisted" },
+  {
+    "sentence": "The personal trainer quit his job because it wasn ' t working out .",
+    "pun_word": "working"
+  },
+  {
+    "sentence": "The math professor went crazy with the blackboard . He did a number on it .",
+    "pun_word": "number"
+  },
+  {
+    "sentence": "Madame : ' ' Now remember , girls , when handling royalty the important thing is to keep up your dukes ! ' '",
+    "pun_word": "dukes"
+  },
+  { "sentence": "Do you ever get tired of sleeping ?", "pun_word": "tired" },
+  {
+    "sentence": "I was in a big hurry so I scrambled to make eggs for breakfast .",
+    "pun_word": "scrambled"
+  },
+  {
+    "sentence": "I had some back trouble , but it ' s all behind me now .",
+    "pun_word": "behind"
+  },
+  {
+    "sentence": "Just after thimbles were invented there was a shortage , so many people got stuck without one .",
+    "pun_word": "stuck"
+  },
+  { "sentence": "Badminton players are for the birds .", "pun_word": "birds" },
+  {
+    "sentence": "The untruthful deli clerk was full of baloney .",
+    "pun_word": "baloney"
+  },
+  {
+    "sentence": "When neon lights were perfected the inventor was positively glowing .",
+    "pun_word": "glowing"
+  },
+  { "sentence": "My name is Sue . I ' m also a lawyer .", "pun_word": "Sue" },
+  {
+    "sentence": "The manufacturers of dynamite do a booming business .",
+    "pun_word": "booming"
+  },
+  { "sentence": "Gardeners like to plant their feet firmly .", "pun_word": "plant" },
+  {
+    "sentence": "One grasshopper told another about eating corn . It went in one ear and out the other .",
+    "pun_word": "ear"
+  },
+  {
+    "sentence": "Did you hear about the guy who planted bullets ? He wanted to see a lot of little shoots .",
+    "pun_word": "shoots"
+  },
+  {
+    "sentence": "Pompous male bees are often known to drone on about themselves .",
+    "pun_word": "drone"
+  },
+  {
+    "sentence": "The parsley farmer couldn ' t pay his child support , so the courts garnished his wages .",
+    "pun_word": "garnished"
+  },
+  {
+    "sentence": "She started a new courier business for an express purpose .",
+    "pun_word": "express"
+  },
+  {
+    "sentence": "She always paints night scenes . Other artists pale by comparison .",
+    "pun_word": "pale"
+  },
+  {
+    "sentence": "Some people like raw meat on rare occasions .",
+    "pun_word": "rare"
+  },
+  {
+    "sentence": "To a person who is attentive to minutiae : ' ' You ' re certainly observant , even if you ' re not religious . ' '",
+    "pun_word": "observant"
+  },
+  {
+    "sentence": "An Electrician ' s work is well grounded .",
+    "pun_word": "grounded"
+  },
+  {
+    "sentence": "When he found out that he would visit a real blacksmith he got all fired up .",
+    "pun_word": "fired"
+  },
+  {
+    "sentence": "The scorpion said to the desert , ' You know , our conversations are always so dry . '",
+    "pun_word": "dry"
+  },
+  {
+    "sentence": "An argument at the Bomb Squad convention ended in a blowup .",
+    "pun_word": "blowup"
+  },
+  {
+    "sentence": "After a day of changing her triplet ' s diapers , the new mother was feeling rather pooped .",
+    "pun_word": "pooped"
+  },
+  {
+    "sentence": "You ' ve got more issues than Time magazine .",
+    "pun_word": "issues"
+  },
+  {
+    "sentence": "Saw makers losing money have to make lots of cuts .",
+    "pun_word": "cuts"
+  },
+  {
+    "sentence": "When longshoremen show up late for work they get docked .",
+    "pun_word": "docked"
+  },
+  {
+    "sentence": "OLD EXORCISTS never die , they just get repossessed .",
+    "pun_word": "repossessed"
+  },
+  {
+    "sentence": "Doctor , doctor , I think I ' m a bridge . - What ' s come over you ? - Two cars , a truck and a coach .",
+    "pun_word": "come"
+  },
+  {
+    "sentence": "She was only a Electrician ' s daughter , but she went haywire .",
+    "pun_word": "haywire"
+  },
+  {
+    "sentence": "OLD MEDIUMS never die , they just lose their spirits .",
+    "pun_word": "spirits"
+  },
+  {
+    "sentence": "I used to be afraid of purchasing residential property for the purpose of renting , but now I have an apartment complex .",
+    "pun_word": "complex"
+  },
+  {
+    "sentence": "OLD LUMBERJACKS never die , they just split .",
+    "pun_word": "split"
+  },
+  {
+    "sentence": "Martians welcome . We have space for everyone .",
+    "pun_word": "space"
+  },
+  {
+    "sentence": "It ' s not that the man did not know how to juggle , he just didn ' t have the balls to do it .",
+    "pun_word": "balls"
+  },
+  {
+    "sentence": "A small boy swallowed some coins and was taken to a hospital . When his grandmother telephoned to ask how he was a nurse said ' No change yet ' .",
+    "pun_word": "change"
+  },
+  {
+    "sentence": "OLD SWIMMERS never die , they just have a stroke .",
+    "pun_word": "stroke"
+  },
+  {
+    "sentence": "The landscaper thought gardening magazines were fun to leaf through .",
+    "pun_word": "leaf"
+  },
+  {
+    "sentence": "She was only a Bricklayer ' s daughter , but she was certainly stacked .",
+    "pun_word": "stacked"
+  },
+  {
+    "sentence": "A boy saving up for a car has a lot of driving ambition .",
+    "pun_word": "driving"
+  },
+  { "sentence": "My name is Dean A college chancellor", "pun_word": "Dean" },
+  {
+    "sentence": "When I commented on a friend ' s psychedelic door he said , Don ' t Knock It .",
+    "pun_word": "Knock"
+  },
+  {
+    "sentence": "The fish missed the call because he was stuck on the other line .",
+    "pun_word": "line"
+  },
+  {
+    "sentence": "OLD CONTORTIONISTS never die , they just meet their end .",
+    "pun_word": "end"
+  },
+  {
+    "sentence": "No bungee cords , but we encourage leaps of faith .",
+    "pun_word": "leaps"
+  },
+  {
+    "sentence": "My friend came around for dinner . We ate for 20 minutes , then he fainted again .",
+    "pun_word": "came"
+  },
+  {
+    "sentence": "My friend ' s bakery burned down last night . Now his business is toast .",
+    "pun_word": "toast"
+  },
+  {
+    "sentence": "I can do an excellent impression of Sinatra , said Tom , being perfectly frank .",
+    "pun_word": "frank"
+  },
+  {
+    "sentence": "The roulette dealer had a unique personality . He had a different spin on everything .",
+    "pun_word": "spin"
+  },
+  {
+    "sentence": "He was able to listen to his favorite radio show in the morning because he had an AM radio",
+    "pun_word": "AM"
+  },
+  {
+    "sentence": "She was only a Doctor ' s daughter , but she really knew how to operate .",
+    "pun_word": "operate"
+  },
+  {
+    "sentence": "Musicians need a leader because they don ' t know how to conduct themselves .",
+    "pun_word": "conduct"
+  },
+  {
+    "sentence": "After the six campers were discovered missing from their tents the state police began to canvas the area .",
+    "pun_word": "canvas"
+  },
+  { "sentence": "Jumping to conclusions is bad exercise", "pun_word": "Jumping" },
+  {
+    "sentence": "An accountant for a restaurant has to be sure the books are not cooked .",
+    "pun_word": "cooked"
+  },
+  {
+    "sentence": "OLD MUFFLERS never die they just get exhausted .",
+    "pun_word": "exhausted"
+  },
+  {
+    "sentence": "If you\u2019re looking for a sign from god , this is it .",
+    "pun_word": "sign"
+  },
+  {
+    "sentence": "OLD HIKERS never die , they just trail away .",
+    "pun_word": "trail"
+  },
+  {
+    "sentence": "People who make necklaces may get beady eyes .",
+    "pun_word": "beady"
+  },
+  {
+    "sentence": "A skier retired because he was going downhill .",
+    "pun_word": "downhill"
+  },
+  {
+    "sentence": "Doctor , Doctor I feel like a pair of curtains - Well pull yourself together then . Next .",
+    "pun_word": "pull"
+  },
+  {
+    "sentence": "The gravity was so powerful , I couldn ' t stand it .",
+    "pun_word": "stand"
+  },
+  { "sentence": "My name is Pat . I am a masseur", "pun_word": "Pat" },
+  {
+    "sentence": "I can ' t remember ever getting nits as a kid , although I do have a lousy memory .",
+    "pun_word": "lousy"
+  },
+  {
+    "sentence": "I knew a woman who owned a taser , man was she stunning !",
+    "pun_word": "stunning"
+  },
+  {
+    "sentence": "The thought of having no alternative to soap never washed with the inventor of shower gel .",
+    "pun_word": "washed"
+  },
+  {
+    "sentence": "Did you hear about the man who was jabbed in the back with a set of keys ? His back locked up .",
+    "pun_word": "locked"
+  },
+  {
+    "sentence": "OLD INTERPRETERS (for the deaf) never die , they just sign off .",
+    "pun_word": "sign"
+  },
+  {
+    "sentence": "The dairy farmer while milking his cow strained his calf in the process .",
+    "pun_word": "calf"
+  },
+  {
+    "sentence": "He was a janitor in the restaurant . He did things under the table .",
+    "pun_word": "table"
+  },
+  {
+    "sentence": "If you think guests really enjoy your home movies , you are probably projecting .",
+    "pun_word": "projecting"
+  },
+  {
+    "sentence": "Just because pews come in rows doesn\u2019t mean we should plant ourselves there",
+    "pun_word": "plant"
+  },
+  {
+    "sentence": "My father ' s father wanted to know if he could stay with the company in spite of the many changes . They ended up grandfathering him in .",
+    "pun_word": "grandfathering"
+  },
+  {
+    "sentence": "Getting this job managing a country estate has put me off fried eggs . I ' m a gamekeeper turned poacher .",
+    "pun_word": "poacher"
+  },
+  {
+    "sentence": "I wanted to have dinner at a native American themed restaurant , but I didn ' t have reservations .",
+    "pun_word": "reservations"
+  },
+  {
+    "sentence": "Why did the termites eat the wooden barrel ? To stave off hunger .",
+    "pun_word": "stave"
+  },
+  {
+    "sentence": "She was only a Rancher ' s daughter , but she couldn ' t keep her calves together .",
+    "pun_word": "calves"
+  },
+  {
+    "sentence": "The intelligent entrepreneur ' s idea for designing catapults meant that his boss was completely thrown .",
+    "pun_word": "thrown"
+  },
+  {
+    "sentence": "A boy told his parents he wanted to raise goats for a living , but he was only kidding .",
+    "pun_word": "kidding"
+  },
+  {
+    "sentence": "A guy went to a costume party dressed as a knife , and he really looked sharp .",
+    "pun_word": "sharp"
+  },
+  {
+    "sentence": "OLD SEAMSTRESSES never die , they just come to the point .",
+    "pun_word": "point"
+  },
+  {
+    "sentence": "Thieves who steal corn from a garden could be charged with stalking .",
+    "pun_word": "stalking"
+  },
+  {
+    "sentence": "Old school principals never die , they just lose their faculties .",
+    "pun_word": "faculties"
+  },
+  {
+    "sentence": "A hole has been found in the nudist camp wall . The police are looking into it .",
+    "pun_word": "looking"
+  },
+  {
+    "sentence": "The boxer ' s girlfriend was a knockout .",
+    "pun_word": "knockout"
+  },
+  {
+    "sentence": "A pirate with one hand often picked up the phone . He wanted to get off the hook .",
+    "pun_word": "hook"
+  },
+  {
+    "sentence": "After he bought a mirror he became very reflective .",
+    "pun_word": "reflective"
+  },
+  {
+    "sentence": "A dentist with a toothache could have a bad impact on his patients .",
+    "pun_word": "impact"
+  },
+  {
+    "sentence": "Plumbers often have to tap their natural abilities .",
+    "pun_word": "tap"
+  },
+  {
+    "sentence": "He threw snow in his neighbor ' s driveway and shouted , DO YOU GET MY DRIFT ?",
+    "pun_word": "DRIFT"
+  },
+  {
+    "sentence": "Old colanders never die , they just can ' t take the strain anymore .",
+    "pun_word": "strain"
+  },
+  {
+    "sentence": "A prisoner ' s favorite punctuation mark is the period . It marks the end of his sentence .",
+    "pun_word": "sentence"
+  },
+  {
+    "sentence": "The fence builders were upset with their working conditions , so the started to picket .",
+    "pun_word": "picket"
+  },
+  {
+    "sentence": "If your waiting for something to turn up , try your sleeves .",
+    "pun_word": "turn"
+  },
+  {
+    "sentence": "He stomped on his old watch because he had time to kill .",
+    "pun_word": "kill"
+  },
+  {
+    "sentence": "Those who make sponges get very absorbed in their work .",
+    "pun_word": "absorbed"
+  },
+  {
+    "sentence": "OLD BOWLERS never die they just end up in the gutter .",
+    "pun_word": "gutter"
+  },
+  { "sentence": "Hell\u2019s the pits", "pun_word": "pits" },
+  {
+    "sentence": "OLD ELECTRICIANS never die , they just can ' t make connections",
+    "pun_word": "connections"
+  },
+  {
+    "sentence": "When the butter melted , it was rendered useless .",
+    "pun_word": "rendered"
+  },
+  {
+    "sentence": "The airlines have become so cash - strapped , they charged me for my emotional baggage .",
+    "pun_word": "baggage"
+  },
+  {
+    "sentence": "The cosmetic student was sick on the day of the final exam . Now she has to take a Make Up exam .",
+    "pun_word": "Make"
+  },
+  {
+    "sentence": "Q : River Ravi flows in which state ? A : Liquid .",
+    "pun_word": "state"
+  },
+  {
+    "sentence": "OLD NEWSPAPER PUBLISHERS never die , they just lose their circulation .",
+    "pun_word": "circulation"
+  },
+  {
+    "sentence": "A leak in the back of a boat is a stern warning .",
+    "pun_word": "stern"
+  },
+  {
+    "sentence": "A politician decided to resign on the day of an eclipse because it was a dark day .",
+    "pun_word": "dark"
+  },
+  {
+    "sentence": "When the beekeeper moved into town he created quite a buzz .",
+    "pun_word": "buzz"
+  },
+  {
+    "sentence": "' ' This movie will be very popular , ' ' Tom projected .",
+    "pun_word": "projected"
+  },
+  { "sentence": "OLD POLICEMEN never die they just cop out .", "pun_word": "cop" },
+  {
+    "sentence": "OLD HUMAN CANNONBALLS never die they just get fired .",
+    "pun_word": "fired"
+  },
+  {
+    "sentence": "OLD PHOTOGRAPHERS never die they just stop developing .",
+    "pun_word": "developing"
+  },
+  {
+    "sentence": "Edison thought it would be an illuminating experience .",
+    "pun_word": "illuminating"
+  },
+  {
+    "sentence": "The best place for a mathematician is behind a counter .",
+    "pun_word": "counter"
+  },
+  {
+    "sentence": "I was struggling to figure out how lightning works then it struck me .",
+    "pun_word": "struck"
+  },
+  {
+    "sentence": "The man found something to catch fish , which was a net gain .",
+    "pun_word": "net"
+  },
+  {
+    "sentence": "She was only a Librarian ' s daughter , but she was checked out from cover to cover .",
+    "pun_word": "checked"
+  },
+  {
+    "sentence": "Basketball players are always bouncing ideas off each other .",
+    "pun_word": "bouncing"
+  },
+  { "sentence": "Some business graphs are full of legend .", "pun_word": "legend" },
+  {
+    "sentence": "Tennis players don ' t marry because Love means Nothing to them .",
+    "pun_word": "Love"
+  },
+  {
+    "sentence": "John Hancock didn ' t retire , he just resigned .",
+    "pun_word": "resigned"
+  },
+  {
+    "sentence": "I ' ve planted part of a riding whip . I ' m hoping for a nice crop .",
+    "pun_word": "crop"
+  },
+  {
+    "sentence": "' Coming ready or not ! \u2019 \u2013 Jesus .",
+    "pun_word": "Coming"
+  },
+  {
+    "sentence": "The seed company turfed out my idea for ready made lawn .",
+    "pun_word": "turfed"
+  },
+  { "sentence": "I hate it when motorcyclists hog the road .", "pun_word": "hog" },
+  {
+    "sentence": "An old lady once asked the dispatcher of a local trucking company if they could ship an antique mirror to her sister in Toronto . The dispatcher says , ' I don ' t know madam , I ' d have to look into it first ' .",
+    "pun_word": "look"
+  },
+  {
+    "sentence": "OLD TREE SURGEONS never die , they just pine away .",
+    "pun_word": "pine"
+  },
+  {
+    "sentence": "My mailman should be a comedian , his delivery is perfect !",
+    "pun_word": "delivery"
+  },
+  {
+    "sentence": "If a judge loves the sound of his own voice , expect a long sentence .",
+    "pun_word": "sentence"
+  },
+  {
+    "sentence": "Two monocles were making love in front of a window and made spectacles of themselves .",
+    "pun_word": "spectacles"
+  },
+  {
+    "sentence": "Whenever I go near my bank I get withdrawal symptoms .",
+    "pun_word": "withdrawal"
+  },
+  {
+    "sentence": "For a chronically absent employee : It seemed her career was just taking off .",
+    "pun_word": "taking"
+  },
+  {
+    "sentence": "A rock band set up on the exchange floor . They wanted to play the stock market .",
+    "pun_word": "play"
+  },
+  {
+    "sentence": "Back when the news was written on clay tablets there was a lot of breaking news .",
+    "pun_word": "breaking"
+  },
+  {
+    "sentence": "When there ' s a sale on tennis balls it ' s first come first serve .",
+    "pun_word": "serve"
+  },
+  {
+    "sentence": "My job as head chef at a top rated restaurant is in jeopardy because my latest culinary creation was called a recipe for disaster .",
+    "pun_word": "recipe"
+  },
+  {
+    "sentence": "She was always calling for her twins , ' ' on the double . ' '",
+    "pun_word": "double"
+  },
+  {
+    "sentence": "She was only a Flag - waver ' s daughter , but she ' d let her standards down for anyone .",
+    "pun_word": "standards"
+  },
+  {
+    "sentence": "When the thief fell in the wet cement and broke both legs , he became a hardened criminal .",
+    "pun_word": "hardened"
+  },
+  {
+    "sentence": "I was fired from my job selling amplifiers . I didn ' t achieve the sufficient volume of sales .",
+    "pun_word": "volume"
+  },
+  {
+    "sentence": "Did you hear about the compulsive fisherman ? He was really hooked on it .",
+    "pun_word": "hooked"
+  },
+  {
+    "sentence": "Sign at a deer crossing : The Buck Stops Here .",
+    "pun_word": "Buck"
+  },
+  {
+    "sentence": "The unveiling of the statue was a monumental occasion .",
+    "pun_word": "monumental"
+  },
+  {
+    "sentence": "You won ' t often catch loggers or farmers going against the grain .",
+    "pun_word": "grain"
+  },
+  { "sentence": "My name is Charity , a televangelist", "pun_word": "Charity" },
+  {
+    "sentence": "It ' s hard for a depressed turtle to get out of his shell .",
+    "pun_word": "shell"
+  },
+  {
+    "sentence": "An apple farmer with poor yields has to get to the core of the problem .",
+    "pun_word": "core"
+  },
+  {
+    "sentence": "As soon as the airplane was invented , things were looking up .",
+    "pun_word": "looking"
+  },
+  {
+    "sentence": "An astronomy column in the newspaper would have a lot of space devoted to it .",
+    "pun_word": "space"
+  },
+  {
+    "sentence": "When the plane hit turbulence , the passengers went flying .",
+    "pun_word": "flying"
+  },
+  {
+    "sentence": "Gravity , it ' s always putting everyone down .",
+    "pun_word": "putting"
+  },
+  {
+    "sentence": "My name is Mark . I price items at the supermarket .",
+    "pun_word": "Mark"
+  },
+  {
+    "sentence": "Did you hear about that new drug that makes people angry ? It ' s all the rage now .",
+    "pun_word": "rage"
+  },
+  {
+    "sentence": "Honor your mother and father rather than major credit cards .",
+    "pun_word": "Honor"
+  },
+  {
+    "sentence": "She memorized just what kind of locket she wanted , by heart .",
+    "pun_word": "heart"
+  },
+  {
+    "sentence": "He was a Red Cross donor until he went out of circulation .",
+    "pun_word": "circulation"
+  },
+  {
+    "sentence": "She wanted to be a weaver but there were always too many snags .",
+    "pun_word": "snags"
+  },
+  {
+    "sentence": "Eve showed up one morning wearing flowers instead of a fig leaf . She was the first woman to wear bloomers .",
+    "pun_word": "bloomers"
+  },
+  {
+    "sentence": "The dermatologist was an avid gardener but he had a problem with moles .",
+    "pun_word": "moles"
+  },
+  {
+    "sentence": "A dog who played baseball always got walked .",
+    "pun_word": "walked"
+  },
+  {
+    "sentence": "Making gloves is a real hands - on experience .",
+    "pun_word": "hands"
+  },
+  {
+    "sentence": "If you breathe heavily on the map , it will reveal topography , ' he said , with a sigh of relief .",
+    "pun_word": "relief"
+  },
+  {
+    "sentence": "Alergy sufferers are itching to get through the hay fever season .",
+    "pun_word": "itching"
+  },
+  {
+    "sentence": "OLD AUTO MECHANICS never die , they just retire .",
+    "pun_word": "retire"
+  },
+  {
+    "sentence": "I still miss my ex - husband . But my aim is improving .",
+    "pun_word": "miss"
+  },
+  {
+    "sentence": "OLD WHEELS never die they just get retired .",
+    "pun_word": "retired"
+  },
+  {
+    "sentence": "The building inspector said whoever installed the water pipes was plumb loco .",
+    "pun_word": "plumb"
+  },
+  {
+    "sentence": "Geology class is the foundation of a decent education .",
+    "pun_word": "foundation"
+  },
+  {
+    "sentence": "She was only a Dentist ' s daughter , but everybody wanted to fill her cavity .",
+    "pun_word": "cavity"
+  },
+  { "sentence": "Sin enough and you will become dead to it .", "pun_word": "dead" },
+  {
+    "sentence": "I walked past a gang of youths yesterday and one of them threw a piece of cheese at me , which hit me on the back of the head . I turned round and shouted , ' ' That ' s not very mature ! ' '",
+    "pun_word": "mature"
+  },
+  {
+    "sentence": "The state police highway officer worked tirelessly in the heavy rain to assist a lady whose car was stuck in a ditch . He was a real trooper .",
+    "pun_word": "trooper"
+  },
+  {
+    "sentence": "My coach got stung by a bee . The next day he had hives .",
+    "pun_word": "hives"
+  },
+  {
+    "sentence": "My friend asked me to carve a sculpture out of a large rock . It was the hardest thing I ' ve ever had to make !",
+    "pun_word": "hardest"
+  },
+  {
+    "sentence": "Old accountants never die , they just lose their balance .",
+    "pun_word": "balance"
+  },
+  { "sentence": "During branding cowboys have sore calves .", "pun_word": "calves" },
+  {
+    "sentence": "The math professor liked even numbers , but only the odd one .",
+    "pun_word": "odd"
+  },
+  {
+    "sentence": "That new mystery novel has a killer start to it .",
+    "pun_word": "killer"
+  },
+  {
+    "sentence": "I ' ve been to the dentist several times so I know the drill .",
+    "pun_word": "drill"
+  },
+  {
+    "sentence": "A gardener who moved back to his home town rediscovered his roots .",
+    "pun_word": "roots"
+  },
+  {
+    "sentence": "Ampere was worried he wasn ' t up to current research .",
+    "pun_word": "current"
+  },
+  {
+    "sentence": "She was only a Bottlemaker ' s daughter , but nothing could stop her .",
+    "pun_word": "stop"
+  },
+  {
+    "sentence": "Our country ' s olympic swimming program has quite a talent pool .",
+    "pun_word": "pool"
+  },
+  {
+    "sentence": "There was a guy who was fired from the orange juice factory for lack of concentration .",
+    "pun_word": "concentration"
+  },
+  {
+    "sentence": "She was only a Photographer ' s daughter , but she was really developed .",
+    "pun_word": "developed"
+  },
+  {
+    "sentence": "Two geologists were staring at a huge fissure in a cliff face and one was overheard to say ' It ' s not my fault ' .",
+    "pun_word": "fault"
+  },
+  {
+    "sentence": "When the electrican apprentice made mistakes , his mother grounded him .",
+    "pun_word": "grounded"
+  },
+  {
+    "sentence": "VanDeGraaf charged his assistant to attend .",
+    "pun_word": "charged"
+  },
+  {
+    "sentence": "Harry and Clem the carpenters , argued mightily on how best to complete the dinette set they were working on . They finally agreed to table the discussion .",
+    "pun_word": "table"
+  },
+  {
+    "sentence": "His plan to manufacture pencils just didn ' t draw attention .",
+    "pun_word": "draw"
+  },
+  {
+    "sentence": "One night a banking tycoon fell overboard from his yacht . He was saved because he could float a loan .",
+    "pun_word": "float"
+  },
+  {
+    "sentence": "My friends and I played a game of football on a pile of quarry rock - we lost on aggregate .",
+    "pun_word": "aggregate"
+  },
+  {
+    "sentence": "A boxer who wants to get married has the ring to worry about .",
+    "pun_word": "ring"
+  },
+  { "sentence": "Inventors have their own devices .", "pun_word": "devices" },
+  {
+    "sentence": "Darwin said he ' d have to see what evolved .",
+    "pun_word": "evolved"
+  },
+  {
+    "sentence": "When the TV repairman got married the reception was excellent .",
+    "pun_word": "reception"
+  },
+  {
+    "sentence": "OLD HOOKERS never die , they just get laid off .",
+    "pun_word": "laid"
+  },
+  {
+    "sentence": "Overheard in med school - ' I learned about the colon through the process of elimination . '",
+    "pun_word": "elimination"
+  },
+  {
+    "sentence": "He recommended the restaurant to me , and said he had no reservations .",
+    "pun_word": "reservations"
+  },
+  {
+    "sentence": "Old carpenters never die , they just lumber around .",
+    "pun_word": "lumber"
+  },
+  { "sentence": "OLD GARAGEMEN never die , they just retire", "pun_word": "retire" },
+  {
+    "sentence": "Tony attempted to join his thin crust pizza company with Zimo ' s Thick Crust Pizza , but somehow it didn ' t pan out .",
+    "pun_word": "pan"
+  },
+  {
+    "sentence": "OLD SKIERS never die , but they go downhill fast .",
+    "pun_word": "downhill"
+  },
+  {
+    "sentence": "I majored in nursing but I had to drop it because I ran out of milk .",
+    "pun_word": "nursing"
+  },
+  {
+    "sentence": "' ' My parents are called Billy and Nanny , ' ' Tom kidded .",
+    "pun_word": "kidded"
+  },
+  {
+    "sentence": "I once knew a guy who had fish and chips every day for a year . His stomach took a battering .",
+    "pun_word": "battering"
+  },
+  { "sentence": "Pavlov was drooling at the thought .", "pun_word": "drooling" },
+  {
+    "sentence": "Continually discovering new viruses can become a strain .",
+    "pun_word": "strain"
+  },
+  {
+    "sentence": "He studied water purification and had a great thirst for knowledge .",
+    "pun_word": "thirst"
+  },
+  {
+    "sentence": "Those who play musical instruments for radio or TV have to stay tuned .",
+    "pun_word": "tuned"
+  },
+  {
+    "sentence": "I met a girl at an internet cafe , but we didn ' t click .",
+    "pun_word": "click"
+  },
+  {
+    "sentence": "A lovely lady who lost her watch became a timeless beauty .",
+    "pun_word": "timeless"
+  },
+  { "sentence": "Prison walls are never built to scale .", "pun_word": "scale" },
+  {
+    "sentence": "I was heading to Hooters but my wife said ' Don ' t bother , they have gone bust ' .",
+    "pun_word": "bust"
+  },
+  {
+    "sentence": "A man tried working in a shoe store , but he just couldn ' t seem to fit in .",
+    "pun_word": "fit"
+  },
+  {
+    "sentence": "The calculus teacher tried to keep his students on task , but the class discussion kept going off on tangents .",
+    "pun_word": "tangents"
+  },
+  {
+    "sentence": "I got a deal on a new computer , and they threw in the operating system to boot .",
+    "pun_word": "boot"
+  },
+  {
+    "sentence": "OLD UPHOLSTERERS never die , they just recover . .",
+    "pun_word": "recover"
+  },
+  {
+    "sentence": "A new batter joined the baseball team , and he was a real hit .",
+    "pun_word": "hit"
+  },
+  {
+    "sentence": "My name is Dick . I ' m a plain - clothes policeman .",
+    "pun_word": "Dick"
+  },
+  {
+    "sentence": "On being served an extravagant dessert : ' ' So rich , it has its own tax shelters . ' '",
+    "pun_word": "rich"
+  },
+  {
+    "sentence": "She was only a Musician ' s daughter , but she knew all the bars in town .",
+    "pun_word": "bars"
+  },
+  {
+    "sentence": "What a charming doorway ! said Tom , entranced .",
+    "pun_word": "entranced"
+  },
+  { "sentence": "My name is Rob . I ' m a thief .", "pun_word": "Rob" },
+  {
+    "sentence": "A baseball pitcher asked if he had a good curve ball , but wanted a straight answer .",
+    "pun_word": "straight"
+  },
+  {
+    "sentence": "The astronauts said their experience on the moon was out of this world .",
+    "pun_word": "world"
+  },
+  {
+    "sentence": "A family went to watch a 007 movie at the theatre , it was a bonding experience .",
+    "pun_word": "bonding"
+  },
+  {
+    "sentence": "After dating the goalie on the local team for a while , she realized he was a real keeper .",
+    "pun_word": "keeper"
+  },
+  { "sentence": "Wrestlers don ' t like to be put on hold .", "pun_word": "hold" },
+  {
+    "sentence": "OLD INVESTORS never die they just roll over .",
+    "pun_word": "roll"
+  },
+  {
+    "sentence": "Could modern submarines be the wave of the future ?",
+    "pun_word": "wave"
+  },
+  {
+    "sentence": "OLD TRAIN ENGINEERS never die , they just get derailed .",
+    "pun_word": "derailed"
+  },
+  {
+    "sentence": "My name is Sherry . I ' m a wine - master .",
+    "pun_word": "Sherry"
+  },
+  {
+    "sentence": "She was only an Archer ' s daughter , but to all the men she was the target .",
+    "pun_word": "target"
+  },
+  {
+    "sentence": "The lawyer asked a loaded question about guns .",
+    "pun_word": "loaded"
+  },
+  {
+    "sentence": "My name is Holly , I ' m a holiday decorator",
+    "pun_word": "Holly"
+  },
+  {
+    "sentence": "He told me he could eat a 32 ounce steak , but I found that hard to swallow .",
+    "pun_word": "swallow"
+  },
+  {
+    "sentence": "The boy ' s guitar teacher helped him pick up his skills .",
+    "pun_word": "pick"
+  },
+  {
+    "sentence": "Why was the rabbit depressed ? He was just going through a bad patch !",
+    "pun_word": "patch"
+  },
+  {
+    "sentence": "OLD GROCERS never die , they just get shelved .",
+    "pun_word": "shelved"
+  },
+  {
+    "sentence": "He was almost persuaded to invest in a poultry farm , but chickened out at the last minute .",
+    "pun_word": "chickened"
+  },
+  {
+    "sentence": "The portrait artist made extra money as a census taker . He was good at canvasing people .",
+    "pun_word": "canvasing"
+  },
+  {
+    "sentence": "It ' s true that the earth rotates , but scientists are always putting their own spin on it .",
+    "pun_word": "spin"
+  },
+  {
+    "sentence": "There was a sign on the lawn at a drug re - hab center that said ' Keep off the Grass ' .",
+    "pun_word": "Grass"
+  },
+  { "sentence": "His model airplane hobby really took off .", "pun_word": "took" },
+  {
+    "sentence": "She was only a Bootleggers daughter , but I loved her still .",
+    "pun_word": "still"
+  },
+  {
+    "sentence": "Have you ever wondered why baseball players get girlfriends ? They ' re great at hitting it off .",
+    "pun_word": "hitting"
+  },
+  {
+    "sentence": "He wanted desperately to be a good golfer - you could say he had a driving ambition .",
+    "pun_word": "driving"
+  },
+  {
+    "sentence": "If you walk along a railroad track you may soon feel run down .",
+    "pun_word": "run"
+  },
+  {
+    "sentence": "When the pirate captain ' s ship ran aground he couldn ' t fathom why .",
+    "pun_word": "fathom"
+  },
+  {
+    "sentence": "Attention staff ! The clothes keep falling off the mannequins in ladies ' wear . Would someone please redress the problem ?",
+    "pun_word": "redress"
+  },
+  { "sentence": "Using deodorant is no sweat .", "pun_word": "sweat" },
+  {
+    "sentence": "A lawyer was defending a math teacher . He had to sum up .",
+    "pun_word": "sum"
+  },
+  {
+    "sentence": "Heart surgeons never bypass a good opportunity .",
+    "pun_word": "bypass"
+  },
+  {
+    "sentence": "My name is Victor , and I ' m a winner in everything I do .",
+    "pun_word": "Victor"
+  },
+  { "sentence": "My name is Faith . I ' m a minister .", "pun_word": "Faith" },
+  { "sentence": "The state funeral remains to be seen .", "pun_word": "remains" },
+  {
+    "sentence": "Old gardeners never die they just vegetate .",
+    "pun_word": "vegetate"
+  },
+  {
+    "sentence": "People who make motor oil are very refined .",
+    "pun_word": "refined"
+  },
+  {
+    "sentence": "If you send a letter to the Philippines put it in a Manila envelope .",
+    "pun_word": "Manila"
+  },
+  { "sentence": "The play on fishing had quite a cast .", "pun_word": "cast" },
+  {
+    "sentence": "Did you hear about these new reversible jackets ? I ' m excited to see how they turn out .",
+    "pun_word": "turn"
+  },
+  {
+    "sentence": "It has been discovered that sales of irons are decreasing .",
+    "pun_word": "decreasing"
+  },
+  {
+    "sentence": "It ' s not the minutes spent at the table that put on weight , it ' s the seconds .",
+    "pun_word": "seconds"
+  },
+  {
+    "sentence": "When he proposed to her , she found it very engaging .",
+    "pun_word": "engaging"
+  },
+  {
+    "sentence": "When I asked the man how he became a ditch - digger , he said he just fell into it .",
+    "pun_word": "fell"
+  },
+  {
+    "sentence": "Anyone should know how to put a saddle on a horse so it won ' t slip and cause an injury . It ' s a cinch .",
+    "pun_word": "cinch"
+  },
+  {
+    "sentence": "That ' s a cool chair . Yeah , I know , it rocks .",
+    "pun_word": "rocks"
+  },
+  {
+    "sentence": "If you run through a screen door you ' ll strain yourself .",
+    "pun_word": "strain"
+  },
+  {
+    "sentence": "There is rarely a sale on beer because the demand is always high so there ' s no need to create a buzz .",
+    "pun_word": "buzz"
+  },
+  {
+    "sentence": "Did the reproducing amoeba get a splitting headache ?",
+    "pun_word": "splitting"
+  },
+  {
+    "sentence": "Since I ' ve taken the job in The Everglades I ' ve been swamped !",
+    "pun_word": "swamped"
+  },
+  {
+    "sentence": "To teach someone how to build a compass you have to be good at giving directions .",
+    "pun_word": "directions"
+  },
+  {
+    "sentence": "The farmer decided to get a cow , and milk the idea for all it was worth .",
+    "pun_word": "milk"
+  },
+  {
+    "sentence": "OLD GANGSTERS never die , they just go to the underworld . .",
+    "pun_word": "underworld"
+  },
+  {
+    "sentence": "He who hogs the sheets is usually very wrapped up in himself .",
+    "pun_word": "wrapped"
+  },
+  {
+    "sentence": "The newspaper doesn ' t put in Politics what is Classified .",
+    "pun_word": "Classified"
+  },
+  {
+    "sentence": "If there is a hypocrite between you and the church , he is closer to god than you .",
+    "pun_word": "between"
+  },
+  {
+    "sentence": "Can I tell you a story about my bed ? I made it up .",
+    "pun_word": "made"
+  },
+  {
+    "sentence": "I was going to order a satellite dish but then I found out that I had to go through channels .",
+    "pun_word": "channels"
+  },
+  { "sentence": "Galois wanted to assemble his own group .", "pun_word": "group" },
+  { "sentence": "My fear of planes has taken off .", "pun_word": "taken" },
+  {
+    "sentence": "The dentist ' s alibi was full of holes , so the police performed a cavity search .",
+    "pun_word": "cavity"
+  },
+  {
+    "sentence": "I ' m going to be discussing global warming next week , it ' s quite a heated topic .",
+    "pun_word": "heated"
+  },
+  {
+    "sentence": "An artist with the military kept drawing enemy fire .",
+    "pun_word": "drawing"
+  },
+  {
+    "sentence": "OLD VIOLINISTS never die , they just become unstrung .",
+    "pun_word": "unstrung"
+  },
+  {
+    "sentence": "He was hit on the head during a hail storm and was knocked out cold .",
+    "pun_word": "cold"
+  },
+  {
+    "sentence": "The car stopped with a jerk , then the jerk got out .",
+    "pun_word": "jerk"
+  },
+  {
+    "sentence": "OLD CARDIOLOGISTS never die , they are just repulsed . .",
+    "pun_word": "repulsed"
+  },
+  {
+    "sentence": "The safe was invented by a cop and a robber . It was quite a combination .",
+    "pun_word": "combination"
+  },
+  {
+    "sentence": "OLD TROMBONISTS never die , they just slide away . . .",
+    "pun_word": "slide"
+  },
+  { "sentence": "The dance club opened to rave reviews .", "pun_word": "rave" },
+  {
+    "sentence": "She was only a Elevator operator ' s daughter , and she loved to go down .",
+    "pun_word": "go"
+  },
+  {
+    "sentence": "We spent all day debating about housefires . It was quite a heated argument .",
+    "pun_word": "heated"
+  },
+  {
+    "sentence": "OLD STATUES never die they just get busted .",
+    "pun_word": "busted"
+  },
+  {
+    "sentence": "Students who accent their textbooks with color markers add a real highlight to their day .",
+    "pun_word": "highlight"
+  },
+  {
+    "sentence": "Pasteur was boiling about not being invited .",
+    "pun_word": "boiling"
+  },
+  {
+    "sentence": "OLD JUDGES never die , they just slur their sentences",
+    "pun_word": "sentences"
+  },
+  {
+    "sentence": "Have you heard the joke about the bomb ? It had no impact .",
+    "pun_word": "impact"
+  },
+  {
+    "sentence": "He got a job in a factory making needles , but soon got stuck .",
+    "pun_word": "stuck"
+  },
+  {
+    "sentence": "OLD SALESMEN never die , they just go out of commission .",
+    "pun_word": "commission"
+  },
+  {
+    "sentence": "OLD BANKERS never die they just lose interest .",
+    "pun_word": "interest"
+  },
+  { "sentence": "My name is Josh . I ' m a talk show host", "pun_word": "Josh" },
+  {
+    "sentence": "The one thing that is constant is Change especially if you are a cashier .",
+    "pun_word": "Change"
+  },
+  {
+    "sentence": "That really nice fellow works in a clothing factory sewing zippers on jeans . That is good . He wouldn ' t hurt a fly .",
+    "pun_word": "fly"
+  },
+  {
+    "sentence": "To plan a graveyard you need a skeleton idea before a detailed plan .",
+    "pun_word": "skeleton"
+  },
+  {
+    "sentence": "While the music was playing the geology teacher was rocking around .",
+    "pun_word": "rocking"
+  },
+  { "sentence": "Banning Viagra was a big flop .", "pun_word": "flop" },
+  {
+    "sentence": "The warden gave the inmates acne medicine hoping it would keep them from breaking out .",
+    "pun_word": "breaking"
+  },
+  {
+    "sentence": "Plenty of people give the lord credit . Few give him cash .",
+    "pun_word": "credit"
+  },
+  {
+    "sentence": "I really do have a photographic memory - - I just haven ' t developed it yet .",
+    "pun_word": "developed"
+  },
+  {
+    "sentence": "Doctor , Doctor , should I file my nails ? - No . Throw them away like everybody else . Next .",
+    "pun_word": "file"
+  },
+  {
+    "sentence": "He ' s a good letter carrier . He always keeps you posted .",
+    "pun_word": "posted"
+  },
+  {
+    "sentence": "OLD LAWYERS never die they just lose their judgment .",
+    "pun_word": "judgment"
+  },
+  {
+    "sentence": "After selling a shipment of salt the salesman said ' let ' s shake on that . '",
+    "pun_word": "shake"
+  },
+  {
+    "sentence": "Someone who robs shoe stores is an arch criminal .",
+    "pun_word": "arch"
+  },
+  {
+    "sentence": "The doctor couldn ' t transfer the organs because he didn ' t have the guts to do it .",
+    "pun_word": "guts"
+  },
+  {
+    "sentence": "The valuable dog was still missing , believed stolen , however the police announced they have a lead .",
+    "pun_word": "lead"
+  },
+  {
+    "sentence": "OLD LIBRARIANS never die , they just check out .",
+    "pun_word": "check"
+  },
+  {
+    "sentence": "Wal - Mart Is Not the Only Saving Place . Come On In .",
+    "pun_word": "Saving"
+  },
+  {
+    "sentence": "An hobbituary to Tolkien appeared in each of the major newspapers , all had a familiar ring to them .",
+    "pun_word": "ring"
+  },
+  {
+    "sentence": "The passenger couldn ' t find where his next flight was , but then he made the connection .",
+    "pun_word": "connection"
+  },
+  {
+    "sentence": "When the branding iron was invented cattle were very impressed .",
+    "pun_word": "impressed"
+  },
+  {
+    "sentence": "OLD CHEMISTS never die , they just stop reacting .",
+    "pun_word": "reacting"
+  },
+  {
+    "sentence": "Why do people preserve fruits and vegetables ? Because they ' can ' .",
+    "pun_word": "can"
+  },
+  {
+    "sentence": "He bought lots of pens before starting his new job . He wanted to make his mark .",
+    "pun_word": "mark"
+  },
+  {
+    "sentence": "In the room the curtains were drawn , but the rest of the furniture was real .",
+    "pun_word": "drawn"
+  },
+  {
+    "sentence": "Males who wonder why they should have a prostate exam usually get it in the end .",
+    "pun_word": "end"
+  },
+  {
+    "sentence": "They argued about their vacation and finally stayed at the last resort .",
+    "pun_word": "resort"
+  },
+  {
+    "sentence": "Eating too many snacks when studying for a test is called cramming .",
+    "pun_word": "cramming"
+  },
+  {
+    "sentence": "OLD COURIERS never die , they just keep on expressing it !",
+    "pun_word": "expressing"
+  },
+  {
+    "sentence": "She was only a Telephone operator ' s daughter , but she sure had good connections .",
+    "pun_word": "connections"
+  },
+  { "sentence": "My name is Rusty . I undercoat cars .", "pun_word": "Rusty" },
+  { "sentence": "' ' It ' s a German song , ' ' Tom lied .", "pun_word": "lied" },
+  {
+    "sentence": "A teacher used his index finger to ask a lot of pointed questions .",
+    "pun_word": "pointed"
+  },
+  {
+    "sentence": "Since Bruce got too close to the big blade at the saw mill he is no longer feeling chipper .",
+    "pun_word": "chipper"
+  },
+  {
+    "sentence": "Opening a new funeral parlor can be quite an undertaking .",
+    "pun_word": "undertaking"
+  },
+  { "sentence": "The oil well driller had a boring job .", "pun_word": "boring" },
+  {
+    "sentence": "The man who worked at the watch factory was very funny . He stood about all day making faces .",
+    "pun_word": "faces"
+  },
+  { "sentence": "Grills are a hot item .", "pun_word": "hot" },
+  {
+    "sentence": "There was once a cross - eyed teacher who couldn ' t control his pupils .",
+    "pun_word": "pupils"
+  },
+  {
+    "sentence": "A woodcutter ' s world revolves on his axes .",
+    "pun_word": "axes"
+  },
+  {
+    "sentence": "He has been a jogger for three years running .",
+    "pun_word": "running"
+  },
+  {
+    "sentence": "Occasionally , I hear an assertion followed by a hasty qualification , such as , ' ' Jim graduated in 1995 - - if memory serves . ' ' I ' ll respond : ' . . . or only stands and waits . ' '",
+    "pun_word": "serves"
+  },
+  {
+    "sentence": "In certain sexual harassment cases things can get kind of touchy .",
+    "pun_word": "touchy"
+  },
+  {
+    "sentence": "OLD BASKETBALL PLAYERS never die they just go on dribbling .",
+    "pun_word": "dribbling"
+  },
+  {
+    "sentence": "I ' ve got to fix the automobile , said Tom mechanically .",
+    "pun_word": "mechanically"
+  },
+  {
+    "sentence": "Is there a best month of spring ? There May be .",
+    "pun_word": "May"
+  },
+  {
+    "sentence": "A guy swallowed a spoon and found he couldn ' t stir .",
+    "pun_word": "stir"
+  },
+  {
+    "sentence": "Ducks don ' t have their palms read - they look for it on the web .",
+    "pun_word": "web"
+  },
+  {
+    "sentence": "The boy swallowed a pillow , the hospital described his condition as comfortable .",
+    "pun_word": "comfortable"
+  },
+  { "sentence": "I nailed my wood - shop test .", "pun_word": "nailed" },
+  { "sentence": "OLD JUDGES never die , they just cease to try", "pun_word": "try" },
+  {
+    "sentence": "What did the skeleton have for supper ? Ribs .",
+    "pun_word": "Ribs"
+  },
+  {
+    "sentence": "She was only a Swimmer ' s daughter , but she knew every dive in town . .",
+    "pun_word": "dive"
+  },
+  { "sentence": "My name is Woody . A Forester", "pun_word": "Woody" },
+  {
+    "sentence": "When they bought a water bed , the couple started to drift apart .",
+    "pun_word": "drift"
+  },
+  { "sentence": "My name is Guy . I install antennas .", "pun_word": "Guy" },
+  {
+    "sentence": "The hardest thing for a person to keep is his opinion",
+    "pun_word": "keep"
+  },
+  {
+    "sentence": "A young nurse was nervous about giving vaccinations but gave it her best shot .",
+    "pun_word": "shot"
+  },
+  {
+    "sentence": "If you tell a falsehood just after waking up you are lying in bed .",
+    "pun_word": "lying"
+  },
+  {
+    "sentence": "After that poisonous snake struck at me in the Arizona Desert I was really rattled .",
+    "pun_word": "rattled"
+  },
+  {
+    "sentence": "He shined a police officer ' s shoes and had a brush with the law .",
+    "pun_word": "brush"
+  },
+  {
+    "sentence": "' Change the channel ' she said remotely .",
+    "pun_word": "remotely"
+  },
+  {
+    "sentence": "Then there was the occasion I spotted a health - oriented cafe displaying a sign reading ' ' California Shakes . ' ' Obviously , I thought .",
+    "pun_word": "Shakes"
+  },
+  {
+    "sentence": "The cost of the space program is astronomical .",
+    "pun_word": "astronomical"
+  },
+  {
+    "sentence": "People who like yogurt are well cultured .",
+    "pun_word": "cultured"
+  },
+  {
+    "sentence": "She played baseball and so did he . They hit it off .",
+    "pun_word": "hit"
+  },
+  {
+    "sentence": "A doorbell salesman joined the choir , and chimed right in .",
+    "pun_word": "chimed"
+  },
+  {
+    "sentence": "He got measles in jail when he broke out one night .",
+    "pun_word": "broke"
+  },
+  {
+    "sentence": "A fisherman who was also a pianist was an expert with scales .",
+    "pun_word": "scales"
+  },
+  {
+    "sentence": "The melody kept on playing until it became a strain .",
+    "pun_word": "strain"
+  },
+  {
+    "sentence": "The two bowlers bore a striking resemblance .",
+    "pun_word": "striking"
+  },
+  {
+    "sentence": "It was a sad day for the rattlesnake family , the time had come for the children to strike out on their own .",
+    "pun_word": "strike"
+  },
+  {
+    "sentence": "When I had my PlayStation stolen , my family were there to console me .",
+    "pun_word": "console"
+  },
+  {
+    "sentence": "Young women who are mathematics professors closely watch their figures .",
+    "pun_word": "figures"
+  },
+  {
+    "sentence": "He had trouble in his new job making tents and got himself into a flap .",
+    "pun_word": "flap"
+  },
+  {
+    "sentence": "Poor blood circulation runs through the family .",
+    "pun_word": "runs"
+  },
+  {
+    "sentence": "If a lawyer speaks for too long there will be an extended sentence .",
+    "pun_word": "sentence"
+  },
+  {
+    "sentence": "He was a restaurant critic but had no taste .",
+    "pun_word": "taste"
+  },
+  {
+    "sentence": "Wally wasn ' t sure in which branch of the Army he wanted to serve , but he gravitated toward the paratroops .",
+    "pun_word": "gravitated"
+  },
+  {
+    "sentence": "I met a math professor who has 12 children - she really knows how to multiply .",
+    "pun_word": "multiply"
+  },
+  {
+    "sentence": "My new girlfriend and I are moving together into a tree house , I hope we won ' t fall out .",
+    "pun_word": "fall"
+  },
+  {
+    "sentence": "I used to be a banker but I lost interest",
+    "pun_word": "interest"
+  },
+  {
+    "sentence": "OLD PROCTOLOGISTS never die , they just face the end .",
+    "pun_word": "end"
+  },
+  {
+    "sentence": "My dentist seems distracted , I think he was brushing me off .",
+    "pun_word": "brushing"
+  },
+  {
+    "sentence": "We did it twice last night , she relayed .",
+    "pun_word": "relayed"
+  },
+  {
+    "sentence": "She was only a Governor ' s daughter , but what a state she was in .",
+    "pun_word": "state"
+  },
+  {
+    "sentence": "On TV it ' s a maze of channels , luckily he had a guide .",
+    "pun_word": "guide"
+  },
+  {
+    "sentence": "Doctor , doctor , people tell me I ' m a wheelbarrow . - Don ' t let people push you around . Next .",
+    "pun_word": "push"
+  },
+  {
+    "sentence": "Never invest in funerals , it ' s a dying industry .",
+    "pun_word": "dying"
+  },
+  {
+    "sentence": "Hangmen always keep their customers in the loop .",
+    "pun_word": "loop"
+  },
+  { "sentence": "Roentgen was radiating .", "pun_word": "radiating" },
+  { "sentence": "OLD BOXERS never die , they just punch out", "pun_word": "punch" },
+  {
+    "sentence": "Waiter , there ' s a fly in my soup ! ' ' At our restaurant , we guarantee You won ' t find a single fly . ' ' ' ' Whaddya mean ? ' ' ' ' Because they ' re all married . ' '",
+    "pun_word": "single"
+  },
+  {
+    "sentence": "Sky divers don ' t jump , they just fall away .",
+    "pun_word": "fall"
+  },
+  {
+    "sentence": "OLD PLANETS never die , they just lose their attraction .",
+    "pun_word": "attraction"
+  },
+  {
+    "sentence": "I wanted to make suits but I could never measure up .",
+    "pun_word": "measure"
+  },
+  { "sentence": "My name is Will , I ' m a lawyer .", "pun_word": "Will" },
+  {
+    "sentence": "' ' Here ' s your allowance for the next two weeks , ' ' Tom advanced .",
+    "pun_word": "advanced"
+  },
+  {
+    "sentence": "OLD CARD PLAYERS never die , they just shuffle off .",
+    "pun_word": "shuffle"
+  },
+  {
+    "sentence": "The earliest mention of cars is in the Bible when Adam and Eve were driven out of the Garden of Eden .",
+    "pun_word": "driven"
+  },
+  {
+    "sentence": "When a guillotine executioner is layed off he gets severance .",
+    "pun_word": "severance"
+  },
+  {
+    "sentence": "I like elevators they let me say jokes on every level .",
+    "pun_word": "level"
+  },
+  {
+    "sentence": "OLD ALCOHOLICS never die , they just lose their spirit .",
+    "pun_word": "spirit"
+  },
+  {
+    "sentence": "OLD TANNERS never die they just go into hiding .",
+    "pun_word": "hiding"
+  },
+  {
+    "sentence": "Jenny was sure she was going to Heaven but she wouldn ' t harp on it .",
+    "pun_word": "harp"
+  },
+  {
+    "sentence": "In Ireland you ' re more likely to get a Pat answer .",
+    "pun_word": "Pat"
+  },
+  { "sentence": "Tires are fixed for a flat rate .", "pun_word": "flat" },
+  {
+    "sentence": "He was the most dishonest and cleverest card shark in the city , the police said he will be dealt with .",
+    "pun_word": "dealt"
+  },
+  {
+    "sentence": "Old electricians never die , they just get discharged .",
+    "pun_word": "discharged"
+  },
+  {
+    "sentence": "The trampoline was on sale for fifty per cent off . Needless to say I jumped on the offer .",
+    "pun_word": "jumped"
+  },
+  {
+    "sentence": "I wanted to be a sonar technician , but it was out of my depth .",
+    "pun_word": "depth"
+  },
+  {
+    "sentence": "Peter went overboard for the lord , why can\u2019t we .",
+    "pun_word": "overboard"
+  },
+  { "sentence": "The railway constructions are on track .", "pun_word": "track" },
+  { "sentence": "Stamp out excessive postage prices .", "pun_word": "Stamp" },
+  { "sentence": "My name is Art , I ' m a museum curator .", "pun_word": "Art" },
+  {
+    "sentence": "He put so many blanks in his document that he started to feel spaced out .",
+    "pun_word": "spaced"
+  },
+  {
+    "sentence": "The mother kangaroo tried to instill good financial habits in her baby . She told him to pocket all his allowance .",
+    "pun_word": "pocket"
+  },
+  {
+    "sentence": "Highways today are much better than they were many years ago and there are lots of concrete examples of it .",
+    "pun_word": "concrete"
+  },
+  {
+    "sentence": "Don ' t get lost in the mist or else you won ' t have the foggiest idea where you are .",
+    "pun_word": "foggiest"
+  },
+  {
+    "sentence": "A former doctor , while auditioning for a play , broke his leg . But luckily , he could still make the cast .",
+    "pun_word": "cast"
+  },
+  {
+    "sentence": "Some jokes get dated , other jokes get married .",
+    "pun_word": "dated"
+  },
+  {
+    "sentence": "I ' ve never tipped a cow . Then again , one has never served me food .",
+    "pun_word": "tipped"
+  },
+  {
+    "sentence": "Have you heard about that online origami store ? It folded .",
+    "pun_word": "folded"
+  },
+  {
+    "sentence": "She was only an Attorney ' s daughter , but what a will to break .",
+    "pun_word": "will"
+  },
+  {
+    "sentence": "He didn ' t want to volunteer for the rodeo but he got roped into it .",
+    "pun_word": "roped"
+  },
+  {
+    "sentence": "When he switched from horses to sailing , his life took on a new tack .",
+    "pun_word": "tack"
+  },
+  {
+    "sentence": "I wrote a novel about a fellow who had a small garden . It didn ' t have much of a plot .",
+    "pun_word": "plot"
+  },
+  {
+    "sentence": "The queen told the prince that he was a royal pain .",
+    "pun_word": "royal"
+  },
+  {
+    "sentence": "Hell ! I thought I\u2019d gotten away with it !",
+    "pun_word": "Hell"
+  },
+  {
+    "sentence": "' ' I want a motorized bicycle , ' ' Tom moped .",
+    "pun_word": "moped"
+  },
+  {
+    "sentence": "A man given a watch at his retirement said ' it ' s about time ' .",
+    "pun_word": "time"
+  },
+  {
+    "sentence": "Photographers are often very candid people .",
+    "pun_word": "candid"
+  },
+  {
+    "sentence": "Hell ! I thought it didn ' t matter what you believed as long as you were sincere !",
+    "pun_word": "Hell"
+  },
+  {
+    "sentence": "A thousand dogs were stolen from a pet shop on Saturday . Police say they have no leads .",
+    "pun_word": "leads"
+  },
+  {
+    "sentence": "Aliens can easily understand each other because their language is universal .",
+    "pun_word": "universal"
+  },
+  {
+    "sentence": "At first he was was a sprinter , but then he decided to run for office .",
+    "pun_word": "run"
+  },
+  {
+    "sentence": "Doctor , Doctor My little boy has just swallowed a roll of film ! - Hmmmm . Let ' s hope nothing develops . Next .",
+    "pun_word": "develops"
+  },
+  {
+    "sentence": "I wondered why my geometry class was always tired . They were all out of shape .",
+    "pun_word": "shape"
+  },
+  {
+    "sentence": "We offer counsel so you are not audited on your final return .",
+    "pun_word": "return"
+  },
+  {
+    "sentence": "OLD BOOTLEGGERS never die , they just keep still .",
+    "pun_word": "still"
+  },
+  {
+    "sentence": "To draw cartoons for a living requires someone who is very animated .",
+    "pun_word": "animated"
+  },
+  {
+    "sentence": "Bill Gates took advantage of his Windows of opportunity",
+    "pun_word": "Windows"
+  },
+  { "sentence": "I ' m drawn to art .", "pun_word": "drawn" },
+  {
+    "sentence": "OLD MATHEMATICIANS never die , they just lose some functions .",
+    "pun_word": "functions"
+  },
+  {
+    "sentence": "When you can ' t decide with your friends whose place to have a party at it ' s known as party politics .",
+    "pun_word": "party"
+  },
+  {
+    "sentence": "Missionaries like open hooded cars because they are convertible .",
+    "pun_word": "convertible"
+  },
+  {
+    "sentence": "The first time he put the horses on the carriage it went without a hitch .",
+    "pun_word": "hitch"
+  },
+  {
+    "sentence": "Undertakers ' Motto - Trust us . We are the very last ones to put you down .",
+    "pun_word": "put"
+  },
+  {
+    "sentence": "We are overdressed when we are wrapped up in ourselves .",
+    "pun_word": "wrapped"
+  },
+  {
+    "sentence": "The inventor of sandpaper had a rough time of it .",
+    "pun_word": "rough"
+  },
+  {
+    "sentence": "Satan can\u2019t bring you down any farther than your knees .",
+    "pun_word": "bring"
+  },
+  {
+    "sentence": "The inventor of the stove top was in his element .",
+    "pun_word": "element"
+  },
+  { "sentence": "Astronauts work in a nice atmosphere .", "pun_word": "atmosphere" },
+  { "sentence": "Well drilling is a deep subject .", "pun_word": "deep" },
+  { "sentence": "My name is Candy . I ' m a confectioner .", "pun_word": "Candy" },
+  {
+    "sentence": "This is a picture of my new house , said Tom , visibly moved .",
+    "pun_word": "moved"
+  },
+  {
+    "sentence": "I ' m buying a birthday present for a sculptor . Can you chip in ?",
+    "pun_word": "chip"
+  },
+  {
+    "sentence": "My cavity wasn ' t fixed by my regular dentist , but by a guy who was filling in .",
+    "pun_word": "filling"
+  },
+  {
+    "sentence": "OLD TYPISTS never die , they just lose their touch .",
+    "pun_word": "touch"
+  },
+  { "sentence": "Installing a fan can be a breeze .", "pun_word": "breeze" },
+  {
+    "sentence": "Skipping school to bungee jump will get you suspended .",
+    "pun_word": "suspended"
+  },
+  {
+    "sentence": "There is only one way to open the door and that is the key .",
+    "pun_word": "key"
+  },
+  {
+    "sentence": "OLD GRAVEDIGGERS never die , they just get buried in their work",
+    "pun_word": "buried"
+  },
+  {
+    "sentence": "When the shocked IRS agent was found guilty of tax evasion he had to take time to collect himself .",
+    "pun_word": "collect"
+  },
+  {
+    "sentence": "The rodent catcher was always trying to weasel his way out of work .",
+    "pun_word": "weasel"
+  },
+  {
+    "sentence": "When William joined the army he disliked the phrase ' fire at will ' .",
+    "pun_word": "will"
+  },
+  {
+    "sentence": "When some coins fell into the batter it turned out to be a rich cake .",
+    "pun_word": "rich"
+  },
+  {
+    "sentence": "When the shoe store owner discovered that someone had broken into his store , the police pumped him for information .",
+    "pun_word": "pumped"
+  },
+  {
+    "sentence": "That ' s the seventh dip , Namaan said cleanly .",
+    "pun_word": "cleanly"
+  },
+  {
+    "sentence": "Two mathematicians arguing about even numbers were at odds .",
+    "pun_word": "odds"
+  },
+  {
+    "sentence": "The weather bureau is an umbrella organization .",
+    "pun_word": "umbrella"
+  },
+  {
+    "sentence": "OLD TELEPHONE OPERATORS never die , they just become disconnected .",
+    "pun_word": "disconnected"
+  },
+  {
+    "sentence": "A streaker was found dead this morning . Police say the details are quite revealing .",
+    "pun_word": "revealing"
+  },
+  {
+    "sentence": "I strongly dislike the subject of math , however I am partial to fractions .",
+    "pun_word": "partial"
+  },
+  {
+    "sentence": "The builders of raceways believe that one good turn deserves another .",
+    "pun_word": "turn"
+  },
+  {
+    "sentence": "A computer program attached to an electric chair would have to have its execution checked carefully .",
+    "pun_word": "execution"
+  },
+  {
+    "sentence": "OLD GAMBLERS never die , they just get discarded .",
+    "pun_word": "discarded"
+  },
+  {
+    "sentence": "My mate swallowed a cordless vacuum cleaner , they took him to hospital and he is picking up nicely .",
+    "pun_word": "picking"
+  },
+  {
+    "sentence": "My mom ran out of poultry seasoning so she winged it .",
+    "pun_word": "winged"
+  },
+  {
+    "sentence": "OLD CREDIT CARD USERS never die , they just expire .",
+    "pun_word": "expire"
+  },
+  {
+    "sentence": "The members of the oldest profession are not really lost women ; they are just mislaid .",
+    "pun_word": "mislaid"
+  },
+  {
+    "sentence": "A bowling team was called ' lightning ' because they had so many strikes .",
+    "pun_word": "strikes"
+  },
+  { "sentence": "My name is Gene , I ' m a DNA researcher .", "pun_word": "Gene" },
+  {
+    "sentence": "He had to learn what the measles was , from scratch .",
+    "pun_word": "scratch"
+  },
+  { "sentence": "My name is Lute . I ' m a musician .", "pun_word": "Lute" },
+  {
+    "sentence": "She had a boyfriend with a wooden leg , but broke it off .",
+    "pun_word": "broke"
+  },
+  {
+    "sentence": "One leftover said to another ' foiled again . '",
+    "pun_word": "foiled"
+  },
+  {
+    "sentence": "Underpaid weather forecasters predicted a storm of protest .",
+    "pun_word": "storm"
+  },
+  {
+    "sentence": "The painter was hospitalized due to too many strokes .",
+    "pun_word": "strokes"
+  },
+  {
+    "sentence": "Trust your calculator . It ' s something to count on .",
+    "pun_word": "count"
+  },
+  {
+    "sentence": "When asked by a passenger how high he would get , the pilot replied , ' I don ' t do drugs . '",
+    "pun_word": "high"
+  },
+  {
+    "sentence": "The journalist went to Greece to see the ancient ruins and is now writing several columns about them .",
+    "pun_word": "columns"
+  },
+  {
+    "sentence": "The mortician was late for dinner because he was buried in his work .",
+    "pun_word": "buried"
+  },
+  {
+    "sentence": "OLD RABBIS never die , they just get grey around the temples .",
+    "pun_word": "temples"
+  },
+  {
+    "sentence": "When the janitor wanted to take up public speaking he always had the floor .",
+    "pun_word": "floor"
+  },
+  {
+    "sentence": "OLD GUITARISTS never die , they just become unstrung .",
+    "pun_word": "unstrung"
+  },
+  {
+    "sentence": "The date of the marathon was changed . She took it in stride .",
+    "pun_word": "stride"
+  },
+  {
+    "sentence": "A cutlery manufacturing company was built at a fork in the road .",
+    "pun_word": "fork"
+  },
+  {
+    "sentence": "The man who fell into an upholstery machine is fully recovered .",
+    "pun_word": "recovered"
+  },
+  { "sentence": "People in the desert have dry humor .", "pun_word": "dry" },
+  {
+    "sentence": "A sign at a cemetery reads , ' No Trespassing , Violators Will Face Grave Charges ' .",
+    "pun_word": "Grave"
+  },
+  {
+    "sentence": "For a long time , black holes were a dark secret .",
+    "pun_word": "dark"
+  },
+  {
+    "sentence": "She was only a Conductor ' s daughter , but she told you where to get off .",
+    "pun_word": "get"
+  },
+  { "sentence": "Cooks have a lot of spice in their lives .", "pun_word": "spice" },
+  {
+    "sentence": "The defendant in a coffee theft trial refused to testify on the grounds that could incriminate him .",
+    "pun_word": "grounds"
+  },
+  {
+    "sentence": "Dorothy ' s dog , of the Wizard of Oz fame , always eats his food entirely - he never leaves any scraps because it ' s in toto .",
+    "pun_word": "toto"
+  },
+  {
+    "sentence": "OLD LANDSCAPERS never die , they just get weeded out .",
+    "pun_word": "weeded"
+  },
+  {
+    "sentence": "In medical school he worried about passing as a surgeon , but he made the cut .",
+    "pun_word": "cut"
+  },
+  {
+    "sentence": "A cat found a mysterious sweater , but the mystery was soon unravelled .",
+    "pun_word": "unravelled"
+  },
+  {
+    "sentence": "Notice in a field : The farmer allows walkers to cross the field for free , but the bull charges .",
+    "pun_word": "charges"
+  },
+  {
+    "sentence": "I didn ' t have the faintest idea as to why I passed out .",
+    "pun_word": "faintest"
+  },
+  {
+    "sentence": "I used to work in a blanket factory but it folded .",
+    "pun_word": "folded"
+  },
+  {
+    "sentence": "Rental agents offer quarters for dollars .",
+    "pun_word": "quarters"
+  },
+  {
+    "sentence": "The environmentalist rode his bike 20 miles in the morning and 20 more in the evening . He loved recycling .",
+    "pun_word": "recycling"
+  },
+  {
+    "sentence": "His qualifications as a math teacher didn ' t add up .",
+    "pun_word": "add"
+  },
+  {
+    "sentence": "She was only a Electrician ' s daughter , and she made house calls to remove her customers ' shorts .",
+    "pun_word": "shorts"
+  },
+  { "sentence": "My name is Sherry . I work in a vineyard .", "pun_word": "Sherry" },
+  {
+    "sentence": "How could I trust the ceiling fan installer when I knew he was always screwing up .",
+    "pun_word": "screwing"
+  },
+  {
+    "sentence": "A musician went to hospital after playing too many accidentals .",
+    "pun_word": "accidentals"
+  },
+  {
+    "sentence": "If you want a metal dog leash go to a chain store .",
+    "pun_word": "chain"
+  },
+  {
+    "sentence": "If they ever have a contest for the best looking mannequin , there will be stiff competition .",
+    "pun_word": "stiff"
+  },
+  {
+    "sentence": "Set your drink on a skateboard , they make good coasters .",
+    "pun_word": "coasters"
+  },
+  {
+    "sentence": "OLD PHILOSOPHERS never die , they just retire to their own premises .",
+    "pun_word": "premises"
+  },
+  {
+    "sentence": "People who work at a mint make a lot of money .",
+    "pun_word": "make"
+  },
+  {
+    "sentence": "I wanted to join my local rambling club , but the guy I spoke to on the phone just went on and on .",
+    "pun_word": "rambling"
+  },
+  {
+    "sentence": "She was only a Porchclimber ' s daughter , but you should see her stoop",
+    "pun_word": "stoop"
+  },
+  {
+    "sentence": "Have an optometrist run for president , because they are people of vision .",
+    "pun_word": "vision"
+  },
+  {
+    "sentence": "She was only a whisky maker but he loved her still .",
+    "pun_word": "still"
+  },
+  {
+    "sentence": "When the beautician was asked to complete her make - up work she blushed .",
+    "pun_word": "blushed"
+  },
+  {
+    "sentence": "As usual , the chief meteorologist blustered his way through the staff meeting .",
+    "pun_word": "blustered"
+  },
+  {
+    "sentence": "OLD BUTCHERS never die , they just get disjointed .",
+    "pun_word": "disjointed"
+  },
+  {
+    "sentence": "If you miss a class at beauty school you ' ll need a makeup session .",
+    "pun_word": "makeup"
+  },
+  { "sentence": "My name is Bud . I ' m in flowers .", "pun_word": "Bud" },
+  {
+    "sentence": "The musician in jail was anxiously awaiting his next release .",
+    "pun_word": "release"
+  },
+  {
+    "sentence": "The man addicted to brake fluid said he could stop any time .",
+    "pun_word": "stop"
+  },
+  {
+    "sentence": "OLD WATCHMAKERS never die , they just wind down .",
+    "pun_word": "wind"
+  },
+  { "sentence": "OLD HACKERS never die , they just go to bits", "pun_word": "bits" },
+  {
+    "sentence": "' ' I ' ve got to stop this motor , ' ' Tom choked .",
+    "pun_word": "choked"
+  },
+  {
+    "sentence": "Even the best bird dog is only good to a point .",
+    "pun_word": "point"
+  },
+  {
+    "sentence": "OLD HELICOPTER PILOTS never die , they just lose their choppers .",
+    "pun_word": "choppers"
+  },
+  {
+    "sentence": "The cat took up computer lessons in hopes of mastering its grip on a mouse .",
+    "pun_word": "mouse"
+  },
+  {
+    "sentence": "Packing up and relocating to a new home can be a moving experience .",
+    "pun_word": "moving"
+  },
+  {
+    "sentence": "The earless defendant waived his hearing .",
+    "pun_word": "hearing"
+  },
+  {
+    "sentence": "The hotel chef was noted for his tomfoolery and his capers .",
+    "pun_word": "capers"
+  },
+  { "sentence": "Sea captains have a lot of latitude .", "pun_word": "latitude" },
+  {
+    "sentence": "OLD LIBRARIANS never die , they just lose their circulation .",
+    "pun_word": "circulation"
+  },
+  {
+    "sentence": "Scientists allow us to see the sun in a different light .",
+    "pun_word": "light"
+  },
+  {
+    "sentence": "Dentists have the same old grind day after day .",
+    "pun_word": "grind"
+  },
+  {
+    "sentence": "The star asked the sun why the moon was always up so late . Sun responded that it was just a phase .",
+    "pun_word": "phase"
+  },
+  { "sentence": "Erasable pens were a good idea on paper .", "pun_word": "paper" },
+  {
+    "sentence": "If you do research in optics you will have to do some light reading .",
+    "pun_word": "light"
+  },
+  { "sentence": "My name is Oscar , and I ' m a movie star .", "pun_word": "Oscar" },
+  {
+    "sentence": "For fast relief take two tablets . The ten commandments",
+    "pun_word": "tablets"
+  },
+  {
+    "sentence": "I could not pull out of my parking space , so I used my back up plan .",
+    "pun_word": "back"
+  },
+  {
+    "sentence": "Where there are many chickens you can find layers of eggs .",
+    "pun_word": "layers"
+  },
+  {
+    "sentence": "A cow that is pampered too much will give spoiled milk .",
+    "pun_word": "spoiled"
+  },
+  {
+    "sentence": "When Irish boys carry their little brothers , they get a Pat on the back .",
+    "pun_word": "Pat"
+  },
+  {
+    "sentence": "He died leaving 100 clocks . His son is winding up the estate .",
+    "pun_word": "winding"
+  },
+  {
+    "sentence": "He bought a donkey because he thought he might get a kick out of it .",
+    "pun_word": "kick"
+  },
+  {
+    "sentence": "OLD WATCHMAKERS never die , they just unwind .",
+    "pun_word": "unwind"
+  },
+  {
+    "sentence": "Did you hear about the pilot who always had work ? He was great at landing a job .",
+    "pun_word": "landing"
+  },
+  {
+    "sentence": "Do you have any parting words ? - How about comb and brush ?",
+    "pun_word": "parting"
+  },
+  {
+    "sentence": "Two banks with different rates have a conflict of interest .",
+    "pun_word": "interest"
+  },
+  {
+    "sentence": "When crazy glue was invented lots of people became attached to it .",
+    "pun_word": "attached"
+  },
+  {
+    "sentence": "When the wheel was invented , it caused a revolution .",
+    "pun_word": "revolution"
+  },
+  {
+    "sentence": "' ' It ' s twelve noon , ' ' Tom chimed in .",
+    "pun_word": "chimed"
+  },
+  {
+    "sentence": "The butcher backed up into the meat grinder and got a little behind in his work .",
+    "pun_word": "behind"
+  },
+  {
+    "sentence": "Beats me why anyone would want to be a masochist .",
+    "pun_word": "Beats"
+  },
+  {
+    "sentence": "OLD CARDIOLOGISTS never die , they just lose heart .",
+    "pun_word": "heart"
+  },
+  {
+    "sentence": "After he invented the light bulb , people saw Edison in a new light .",
+    "pun_word": "light"
+  },
+  {
+    "sentence": "OLD ELECTRICIANS never die , they just lose their spark .",
+    "pun_word": "spark"
+  },
+  {
+    "sentence": "The best way to stop a charging bull is to take away his credit card .",
+    "pun_word": "charging"
+  },
+  {
+    "sentence": "I wanted to exercise last night but it just didn ' t work out .",
+    "pun_word": "work"
+  },
+  {
+    "sentence": "Some people with a lot of vision started the Blind Institute .",
+    "pun_word": "vision"
+  },
+  {
+    "sentence": "Everyone ' s fuming over the high cost of gas .",
+    "pun_word": "fuming"
+  },
+  {
+    "sentence": "She told me the drink was non - alcoholic , but where was the proof ?",
+    "pun_word": "proof"
+  },
+  {
+    "sentence": "During a tennis match one player gave the other a backhanded compliment .",
+    "pun_word": "backhanded"
+  },
+  {
+    "sentence": "He auditioned for a part as a trumpet player but he blew it .",
+    "pun_word": "blew"
+  },
+  {
+    "sentence": "Most males in a men ' s room are stand - up guys .",
+    "pun_word": "stand"
+  },
+  {
+    "sentence": "A girl and her boyfriend went to a party as a barcode . They were an item .",
+    "pun_word": "item"
+  },
+  {
+    "sentence": "There was an eye doctor who wanted to re - locate but couldn ' t find a job because he didn ' t have enough contacts .",
+    "pun_word": "contacts"
+  },
+  {
+    "sentence": "She was only a Fireman ' s daughter , but she ' s really going to blazes .",
+    "pun_word": "blazes"
+  },
+  { "sentence": "My name is Frank , the Hot - Dog vendor", "pun_word": "Frank" },
+  {
+    "sentence": "Last week I was diagnosed with insomnia , and now I ' m just so tired of it .",
+    "pun_word": "tired"
+  },
+  {
+    "sentence": "Musical composers can use lots of Note paper .",
+    "pun_word": "Note"
+  },
+  { "sentence": "Small people are in short supply .", "pun_word": "short" },
+  {
+    "sentence": "Burning too much incense in a rented room could make the owner incensed .",
+    "pun_word": "incensed"
+  },
+  {
+    "sentence": "For a fish , the end of a barbed hook is the ' ' point ' ' of no return .",
+    "pun_word": "point"
+  },
+  {
+    "sentence": "Two silk worms had a race . They ended up in a tie .",
+    "pun_word": "tie"
+  },
+  {
+    "sentence": "Semaphore was flagged away as a form of communication decades ago .",
+    "pun_word": "flagged"
+  },
+  { "sentence": "A will is a relative thing .", "pun_word": "relative" },
+  {
+    "sentence": "OLD BEEKEEPERS never die they just buzz off .",
+    "pun_word": "buzz"
+  },
+  {
+    "sentence": "I ' d tell you a joke about a cow but I always butcher it .",
+    "pun_word": "butcher"
+  },
+  {
+    "sentence": "There ' s a new magnetic steam iron that makes your clothes attractive .",
+    "pun_word": "attractive"
+  },
+  {
+    "sentence": "OLD CASHIERS never die , they just change .",
+    "pun_word": "change"
+  },
+  { "sentence": "The police auction was a complete bust .", "pun_word": "bust" },
+  { "sentence": "The incontinent Scotsman had a wee accident .", "pun_word": "wee" },
+  {
+    "sentence": "My dog has a lot of potential , you just have to unleash it .",
+    "pun_word": "unleash"
+  },
+  {
+    "sentence": "To some - marriage is a word . . . to others - a sentence .",
+    "pun_word": "sentence"
+  },
+  {
+    "sentence": "Years ago , changing TV channels from a sitting position was a remote possibility .",
+    "pun_word": "remote"
+  },
+  {
+    "sentence": "Horses eat best when they don ' t have a bit in their mouth .",
+    "pun_word": "bit"
+  },
+  {
+    "sentence": "I ' ve passed the exam this time , Tom remarked .",
+    "pun_word": "remarked"
+  },
+  {
+    "sentence": "Waiters are good at multiplication because they know their tables .",
+    "pun_word": "tables"
+  },
+  {
+    "sentence": "When he forgot to itemize what he wanted at the grocery store he felt quite listless .",
+    "pun_word": "listless"
+  },
+  {
+    "sentence": "I got a small ticket for speeding . It ' s fine with me .",
+    "pun_word": "fine"
+  },
+  {
+    "sentence": "I once had insomnia so bad I was awake until it dawned on me .",
+    "pun_word": "dawned"
+  },
+  { "sentence": "Surfing is a swell sport !", "pun_word": "swell" },
+  { "sentence": "Some food for thought is only baloney", "pun_word": "baloney" },
+  { "sentence": "Stolen eggs are poached .", "pun_word": "poached" },
+  {
+    "sentence": "Professional rock climbers , the only people paid to get high .",
+    "pun_word": "high"
+  },
+  {
+    "sentence": "When the doctor asked the editor how he was doing , he said he had a problem with his circulation .",
+    "pun_word": "circulation"
+  },
+  {
+    "sentence": "I didn ' t understand the math , so the teacher summed it up for me .",
+    "pun_word": "summed"
+  },
+  {
+    "sentence": "For a dishonest employee : He ' s an unbelievable worker .",
+    "pun_word": "unbelievable"
+  },
+  {
+    "sentence": "I wanted to do some research on anorexia , so I went to the library to get the skinny .",
+    "pun_word": "skinny"
+  },
+  {
+    "sentence": "When the spice ships used to bring goods to the king the captain was peppered with compliments .",
+    "pun_word": "peppered"
+  },
+  {
+    "sentence": "OLD ORGANISTS never die , they just come to a stop .",
+    "pun_word": "stop"
+  },
+  {
+    "sentence": "The only similarity between ancient times and the 1970 ' s is that both were full of people getting stoned .",
+    "pun_word": "stoned"
+  },
+  {
+    "sentence": "What did the triangle say to the circle ? You ' re so pointless .",
+    "pun_word": "pointless"
+  },
+  {
+    "sentence": "I ' m taking this ship back into harbor , Tom reported .",
+    "pun_word": "reported"
+  },
+  { "sentence": "They call me Pops . I sell soft drinks .", "pun_word": "Pops" },
+  {
+    "sentence": "I tried wrapping Christmas presents , but I didn ' t have the gift .",
+    "pun_word": "gift"
+  },
+  {
+    "sentence": "' ' I love hot dogs , ' ' said Tom with relish .",
+    "pun_word": "relish"
+  },
+  {
+    "sentence": "In the army mess hall , the men were getting fed up .",
+    "pun_word": "fed"
+  },
+  {
+    "sentence": "People who eat their apples stem and seed and all improve their core values .",
+    "pun_word": "core"
+  },
+  {
+    "sentence": "I met this guy who said he loved children , then I found out he was on parole for it .",
+    "pun_word": "loved"
+  },
+  { "sentence": "Piano players know what bar they are in .", "pun_word": "bar" },
+  {
+    "sentence": "Two clock makers argued and got ticked off .",
+    "pun_word": "ticked"
+  },
+  {
+    "sentence": "Some people take beautiful pictures and cut them into pieces . That ' s a puzzle to me .",
+    "pun_word": "puzzle"
+  },
+  {
+    "sentence": "I found out that at the gym , their opinion on fitness carries a lot of weight .",
+    "pun_word": "weight"
+  },
+  {
+    "sentence": "OLD FIREFIGHTERS never die they just go to blazes .",
+    "pun_word": "blazes"
+  },
+  {
+    "sentence": "When a new baby comes into a family , many changes are necessary .",
+    "pun_word": "changes"
+  },
+  {
+    "sentence": "The royal pharmacist wore a tuxedo and dispensed with formalities .",
+    "pun_word": "dispensed"
+  },
+  {
+    "sentence": "A crazy programmer with a cold is a coughing hacker .",
+    "pun_word": "hacker"
+  },
+  {
+    "sentence": "Eve taught us it\u2019s okay to take a little ribbing",
+    "pun_word": "ribbing"
+  },
+  {
+    "sentence": "The astronomer became an actor because he always wanted to visit the stars .",
+    "pun_word": "stars"
+  },
+  {
+    "sentence": "OLD GEOLOGISTS never die , they just have their faults",
+    "pun_word": "faults"
+  },
+  {
+    "sentence": "Meet me at the clothes line . That ' s where I hang out !",
+    "pun_word": "hang"
+  },
+  {
+    "sentence": "The inventor of shag carpet made a big pile .",
+    "pun_word": "pile"
+  },
+  {
+    "sentence": "I ' ve always pictured myself taking selfies .",
+    "pun_word": "pictured"
+  },
+  {
+    "sentence": "He would promise to play golf , but he didn ' t know how to follow through .",
+    "pun_word": "follow"
+  },
+  {
+    "sentence": "The artist was great . He could always draw a crowd .",
+    "pun_word": "draw"
+  },
+  { "sentence": "Glue inventors have to stick to it .", "pun_word": "stick" },
+  {
+    "sentence": "He made a slow start in the sport of weightlifting but he picked it up eventually .",
+    "pun_word": "picked"
+  },
+  {
+    "sentence": "The president of a ladder manufacturer had to step down .",
+    "pun_word": "step"
+  },
+  {
+    "sentence": "A boiled egg in the morning is hard to beat .",
+    "pun_word": "beat"
+  },
+  { "sentence": "Banning the bra was a big flop .", "pun_word": "flop" },
+  {
+    "sentence": "The general started bowling before his aide had entered his name on the score sheet . He had launched a pre - emptive strike .",
+    "pun_word": "strike"
+  },
+  {
+    "sentence": "Biscuits and speeches are better when made with shortening .",
+    "pun_word": "shortening"
+  },
+  {
+    "sentence": "Biologists have recently produced immortal frogs by removing their vocal cords . They can ' t croak .",
+    "pun_word": "croak"
+  },
+  {
+    "sentence": "Digging a hole for a coffin is a grave matter .",
+    "pun_word": "grave"
+  },
+  {
+    "sentence": "When the CEO dropped his brownie on the calculator , was he trying to fudge the numbers ?",
+    "pun_word": "fudge"
+  },
+  { "sentence": "Noteworthy musicians are very composed .", "pun_word": "composed" },
+  {
+    "sentence": "Stereo speakers are made by ' high volume ' manufacturers .",
+    "pun_word": "volume"
+  },
+  {
+    "sentence": "A karate school restaurant served mainly chops .",
+    "pun_word": "chops"
+  },
+  {
+    "sentence": "For insomnia move to the edge of the bed and you ' ll soon drop off .",
+    "pun_word": "drop"
+  },
+  {
+    "sentence": "He tried to sell me glass with imperfections in it , but I saw through it .",
+    "pun_word": "saw"
+  },
+  {
+    "sentence": "Those who make balls of wool for a living like to come home and unwind .",
+    "pun_word": "unwind"
+  },
+  {
+    "sentence": "I wondered why the baseball was getting bigger . Then it hit me .",
+    "pun_word": "hit"
+  },
+  {
+    "sentence": "The athlete colored her hair and started a winning streak .",
+    "pun_word": "streak"
+  },
+  {
+    "sentence": "A balding man and his hair are soon parted .",
+    "pun_word": "parted"
+  },
+  {
+    "sentence": "Oil executives are always using crude language .",
+    "pun_word": "crude"
+  },
+  {
+    "sentence": "OLD VACUUM CLEANER SALESMEN never die , they just get sucked in !",
+    "pun_word": "sucked"
+  },
+  {
+    "sentence": "When writing out drink recipes you have to have a first draft .",
+    "pun_word": "draft"
+  },
+  {
+    "sentence": "He worked in a chocolate factory , but always took his sweet time .",
+    "pun_word": "sweet"
+  },
+  {
+    "sentence": "Did you hear about the crab in financial difficulty ? It was starting to feel the pinch .",
+    "pun_word": "pinch"
+  },
+  {
+    "sentence": "I made a really cheesy pun about quesadillas the other day .",
+    "pun_word": "cheesy"
+  },
+  {
+    "sentence": "The organizational get together for a company football team was called a kickoff meeting .",
+    "pun_word": "kickoff"
+  },
+  {
+    "sentence": "He lit the arrow head because he wanted to fire it .",
+    "pun_word": "fire"
+  },
+  {
+    "sentence": "' ' Don ' t add too much water , ' ' said Tom with great concentration .",
+    "pun_word": "concentration"
+  },
+  {
+    "sentence": "OLD CHAUFFEURS never die they just lose their drive .",
+    "pun_word": "drive"
+  },
+  {
+    "sentence": "Some people still think that writing long stories is a novel idea .",
+    "pun_word": "novel"
+  },
+  { "sentence": "Come huddle with us before the big game", "pun_word": "huddle" },
+  {
+    "sentence": "She swallowed a peach seed and could feel it in the pit of her stomach .",
+    "pun_word": "pit"
+  },
+  {
+    "sentence": "' ' I like modern painting , ' ' said Tom abstractly .",
+    "pun_word": "abstractly"
+  },
+  { "sentence": "The price of the big fan blew me away .", "pun_word": "blew" },
+  {
+    "sentence": "OLD HOUSEWIVES never die , they just wash away .",
+    "pun_word": "wash"
+  },
+  {
+    "sentence": "The Biomedical Engineer didn ' t have the heart to check the EKG machine .",
+    "pun_word": "heart"
+  },
+  {
+    "sentence": "My stuffing was bad , so I got some sage advice .",
+    "pun_word": "sage"
+  },
+  { "sentence": "Morticians make you feel dead gorgeous .", "pun_word": "dead" },
+  {
+    "sentence": "The janitor ' s union called for sweeping reforms .",
+    "pun_word": "sweeping"
+  },
+  {
+    "sentence": "He folded and straightened the money because he wanted a tidy sum .",
+    "pun_word": "tidy"
+  },
+  {
+    "sentence": "The boy had never played basketball before so he decided to give it a shot .",
+    "pun_word": "shot"
+  },
+  {
+    "sentence": "She was only an Apple - grower ' s daughter but the men said she was delicious .",
+    "pun_word": "delicious"
+  },
+  {
+    "sentence": "The hostage said he couldn ' t stay on the phone long because he was tied up at the moment .",
+    "pun_word": "tied"
+  },
+  {
+    "sentence": "Bring your spirtual Marshmellows , our pastor is on fire !",
+    "pun_word": "fire"
+  },
+  {
+    "sentence": "I tried to look up impotence on the Internet but nothing came up .",
+    "pun_word": "came"
+  },
+  {
+    "sentence": "The agreeable tennis umpire was generous to a fault .",
+    "pun_word": "fault"
+  },
+  {
+    "sentence": "' ' I like ragged margins , ' ' said Tom without justification .",
+    "pun_word": "justification"
+  },
+  {
+    "sentence": "Old photographers never die , they ' re just out of the picture for a while .",
+    "pun_word": "picture"
+  },
+  {
+    "sentence": "Arguments about the weather will eventually blow over .",
+    "pun_word": "blow"
+  },
+  {
+    "sentence": "' ' I don ' t work here on a regular basis , ' ' said Tom casually .",
+    "pun_word": "casually"
+  },
+  { "sentence": "OLD FROGS never die , but they do croak .", "pun_word": "croak" },
+  {
+    "sentence": "What are you taking pictures of ? Tom snapped .",
+    "pun_word": "snapped"
+  },
+  {
+    "sentence": "Endorsement by an olympic swimmer caused a company ' s profits to dive .",
+    "pun_word": "dive"
+  },
+  {
+    "sentence": "The cannibal passed his brother in the woods .",
+    "pun_word": "passed"
+  },
+  {
+    "sentence": "Freud could barely repress his excitement .",
+    "pun_word": "repress"
+  },
+  {
+    "sentence": "My word is final ! Tom dictated to his secretary .",
+    "pun_word": "dictated"
+  },
+  {
+    "sentence": "It ' s no wonder that some baseball players have lots of money - often even many of the bases are loaded .",
+    "pun_word": "loaded"
+  },
+  { "sentence": "Good police officers never miss a beat .", "pun_word": "beat" },
+  {
+    "sentence": "To save money for the company he cut all the electricity . They were soon in the black .",
+    "pun_word": "black"
+  },
+  {
+    "sentence": "I try wearing tight jeans , but I can never pull it off .",
+    "pun_word": "pull"
+  },
+  {
+    "sentence": "At first I hated my haircut , but now it ' s growing on me .",
+    "pun_word": "growing"
+  },
+  {
+    "sentence": "What did the minister say to the underdressed layman ? ' ' No shoes , no shirt , no service ' '",
+    "pun_word": "service"
+  },
+  {
+    "sentence": "A sports match was attended by many scores .",
+    "pun_word": "scores"
+  },
+  { "sentence": "Your very last breath will be a fatal blow .", "pun_word": "blow" },
+  {
+    "sentence": "I ' ll corroborate that again , Tom reproved .",
+    "pun_word": "reproved"
+  },
+  {
+    "sentence": "I had an appointment with the chiropractor , but I backed out .",
+    "pun_word": "backed"
+  },
+  {
+    "sentence": "When the baby bird penned his first novel he was just a fledgling author .",
+    "pun_word": "fledgling"
+  },
+  {
+    "sentence": "Artificial knees and elbows were developed during a joint project .",
+    "pun_word": "joint"
+  },
+  {
+    "sentence": "I always believed my body was a prison for me . I was right , in biology I learnt they were made of cells .",
+    "pun_word": "cells"
+  },
+  {
+    "sentence": "I used to hate maths but then I realised decimals have a point .",
+    "pun_word": "point"
+  },
+  {
+    "sentence": "OLD BASEBALLS never die they just get pitched .",
+    "pun_word": "pitched"
+  },
+  {
+    "sentence": "The baseball pitcher ' s retirement was at the end of a wonderful ERA .",
+    "pun_word": "ERA"
+  },
+  {
+    "sentence": "The boy who got electrocuted was unable to give a statement because he was still shocked at the incident .",
+    "pun_word": "shocked"
+  },
+  {
+    "sentence": "She got fired from the hot dog stand for putting her hair in a bun .",
+    "pun_word": "bun"
+  },
+  {
+    "sentence": "The case against a donut thief was full of holes .",
+    "pun_word": "holes"
+  },
+  {
+    "sentence": "The duck said to the bartender , ' put it on my bill . '",
+    "pun_word": "bill"
+  },
+  {
+    "sentence": "While having a hard time water - skiing , the boy commented , ' This is such a drag . '",
+    "pun_word": "drag"
+  },
+  {
+    "sentence": "When the artist tried to draw a cube he had a mental block .",
+    "pun_word": "block"
+  },
+  {
+    "sentence": "When the air conditioning failed in the indoor stadium there was a fan protest .",
+    "pun_word": "fan"
+  },
+  {
+    "sentence": "OLD WOOL COATS never die , they just become mothballed .",
+    "pun_word": "mothballed"
+  },
+  {
+    "sentence": "The runaway beer truck barrelled down the freeway after its driver was mugged .",
+    "pun_word": "mugged"
+  },
+  {
+    "sentence": "Gauss was asked to attend because of his magnetic personality .",
+    "pun_word": "magnetic"
+  },
+  {
+    "sentence": "A group of physicists is called a nucleus .",
+    "pun_word": "nucleus"
+  },
+  {
+    "sentence": "A book called ' Current Trends in Wiring your House ' turned out to be a shocking failure .",
+    "pun_word": "shocking"
+  },
+  { "sentence": "A hangman will always keep you in the loop .", "pun_word": "loop" },
+  {
+    "sentence": "' ' I find you guilty , ' ' said the judge with conviction .",
+    "pun_word": "conviction"
+  },
+  {
+    "sentence": "OLD YACHTSMEN never die , they just keel over .",
+    "pun_word": "keel"
+  },
+  {
+    "sentence": "She was only a Lighthouse keeper ' s daughter , but she never went out at night",
+    "pun_word": "went"
+  },
+  {
+    "sentence": "' ' I will now demonstrate how to dissect a sheep , ' ' delivered Tom .",
+    "pun_word": "delivered"
+  },
+  {
+    "sentence": "You have to fill out many government forms because there are many forms of government .",
+    "pun_word": "forms"
+  },
+  {
+    "sentence": "The fertiliser business is a growing industry .",
+    "pun_word": "growing"
+  },
+  {
+    "sentence": "OLD SHEET ROCKERS (dry wallers) never die , they just hang around .",
+    "pun_word": "hang"
+  },
+  {
+    "sentence": "I tried to learn how to drive a stick shift but couldn ' t locate the manual .",
+    "pun_word": "manual"
+  },
+  {
+    "sentence": "When poker players have to fold they feel a bit discarded .",
+    "pun_word": "discarded"
+  },
+  {
+    "sentence": "I went to a buffet dinner with my neighbor , who is a taxidermist . After such a big meal , I was stuffed .",
+    "pun_word": "stuffed"
+  },
+  {
+    "sentence": "Those who iron clothes have a lot of pressing demands .",
+    "pun_word": "pressing"
+  },
+  {
+    "sentence": "I think a job as a shoe salesmen would be your best fit .",
+    "pun_word": "fit"
+  },
+  {
+    "sentence": "I kept failing to get a job as a butcher because I couldn ' t just make the cut .",
+    "pun_word": "cut"
+  },
+  {
+    "sentence": "To many girls the word ' marriage ' has a nice ring to it .",
+    "pun_word": "ring"
+  },
+  {
+    "sentence": "A pair of loud twins were stereo speakers .",
+    "pun_word": "speakers"
+  },
+  {
+    "sentence": "To be a mountain climber one needs to be in peak condition .",
+    "pun_word": "peak"
+  },
+  {
+    "sentence": "A bible falling apart belongs to someone who isn\u2019t .",
+    "pun_word": "falling"
+  },
+  {
+    "sentence": "If you work in a tire factory you have to get rolling every morning .",
+    "pun_word": "rolling"
+  },
+  {
+    "sentence": "The trumpeter blew it while auditioning for the symphony .",
+    "pun_word": "blew"
+  },
+  {
+    "sentence": "When a ladder was stolen from a store the manager said that further steps would be taken .",
+    "pun_word": "steps"
+  },
+  {
+    "sentence": "A high scoring football game can be very offensive .",
+    "pun_word": "offensive"
+  },
+  {
+    "sentence": "She was only a Vacuum salesman ' s daughter , but she knew how to suck !",
+    "pun_word": "suck"
+  },
+  {
+    "sentence": "If you have need of a locksmith he will be your key man .",
+    "pun_word": "key"
+  },
+  { "sentence": "Massage therapists need a touch of style .", "pun_word": "touch" },
+  {
+    "sentence": "Politicians get onto the merry - go - round and then put a spin on it .",
+    "pun_word": "spin"
+  },
+  {
+    "sentence": "For a chemist disappointed in an experiment the reaction was on his face .",
+    "pun_word": "reaction"
+  },
+  {
+    "sentence": "I was looking for watch batteries but I wound up at a clock shop .",
+    "pun_word": "wound"
+  },
+  { "sentence": "Vertical living is flat dwelling .", "pun_word": "flat" },
+  {
+    "sentence": "Waiter , my bill please . - How did you find your luncheon , sir ? - With a magnifying glass .",
+    "pun_word": "find"
+  },
+  {
+    "sentence": "A lot of kneeling will keep you in good standing",
+    "pun_word": "standing"
+  },
+  {
+    "sentence": "I just finished reading Newton ' s Principia Mathematica , and found much of it to be rather derivative .",
+    "pun_word": "derivative"
+  },
+  {
+    "sentence": "' ' I ' m burning aromatic substances , ' ' said Tom , incensed .",
+    "pun_word": "incensed"
+  },
+  {
+    "sentence": "Upon discovering her children playing with matches their mother was flaming mad .",
+    "pun_word": "flaming"
+  },
+  {
+    "sentence": "The duke and the count had a fight . The duke was down for the count .",
+    "pun_word": "count"
+  },
+  {
+    "sentence": "I thought about studying astronomy for university but I knew I would just be taking up space .",
+    "pun_word": "space"
+  },
+  {
+    "sentence": "He sold candy and chocolate . A lot of girls were sweet on him .",
+    "pun_word": "sweet"
+  },
+  {
+    "sentence": "I went to an invisible fairground but didn ' t think it was very good . I just couldn ' t see the attraction .",
+    "pun_word": "see"
+  },
+  {
+    "sentence": "One of the joys of being a lightweight is that commuting by wind is a breeze !",
+    "pun_word": "breeze"
+  },
+  {
+    "sentence": "My buddy asked me to look after his pet goose while he was away . I told him I wasn ' t down with that .",
+    "pun_word": "down"
+  },
+  {
+    "sentence": "OLD PROGRAMMERS never die , they just move to new addresses .",
+    "pun_word": "addresses"
+  },
+  {
+    "sentence": "A speaker at the firearms convention had to rifle through his notes .",
+    "pun_word": "rifle"
+  },
+  { "sentence": "Watson and Crick did the twist all night .", "pun_word": "twist" },
+  { "sentence": "Tires cost 100 bucks a pop .", "pun_word": "pop" },
+  {
+    "sentence": "OLD CHEMISTS never die , they just fail to react .",
+    "pun_word": "react"
+  },
+  { "sentence": "Where do pancakes live ? In a flat .", "pun_word": "flat" },
+  {
+    "sentence": "When I asked if I could get insurance if the nearby volcano erupted they assured me I would be covered .",
+    "pun_word": "covered"
+  },
+  { "sentence": "Retired teachers are classless .", "pun_word": "classless" },
+  {
+    "sentence": "She was only a Janitor ' s daughter , and she was often swept off her feet .",
+    "pun_word": "swept"
+  },
+  {
+    "sentence": "OLD DENTISTS never die , they just lose their pull .",
+    "pun_word": "pull"
+  },
+  { "sentence": "Lumber companies have many board meetings .", "pun_word": "board" },
+  {
+    "sentence": "Due to inclement weather , the sandwich shop wrapped up early Tuesday night .",
+    "pun_word": "wrapped"
+  },
+  {
+    "sentence": "Sometimes a pencil sharpener is needed in order to make a good point .",
+    "pun_word": "point"
+  },
+  {
+    "sentence": "My name is Rich , A successful investment banker .",
+    "pun_word": "Rich"
+  },
+  {
+    "sentence": "A photographer taking pictures of golfers says ' watch the birdie ' .",
+    "pun_word": "birdie"
+  },
+  {
+    "sentence": "A dog gave birth to puppies near the road and was ticketed for littering .",
+    "pun_word": "littering"
+  },
+  {
+    "sentence": "Those who work on reducing auto emissions go home exhausted .",
+    "pun_word": "exhausted"
+  },
+  {
+    "sentence": "They bought a home on a cliff because they liked to live on the edge .",
+    "pun_word": "edge"
+  },
+  {
+    "sentence": "Old quarterbacks never die , they just pass away .",
+    "pun_word": "pass"
+  },
+  {
+    "sentence": "Those who make magnets can be quite attractive .",
+    "pun_word": "attractive"
+  },
+  {
+    "sentence": "OLD NUMBER THEORISTS never die , they just get past their prime .",
+    "pun_word": "prime"
+  },
+  {
+    "sentence": "The groundskeeper at a large cemetery was important because he had 5000 people under him .",
+    "pun_word": "under"
+  },
+  {
+    "sentence": "There is a growing body of obesity research .",
+    "pun_word": "body"
+  },
+  {
+    "sentence": "I tinted my hair today . It was the highlight of my day .",
+    "pun_word": "highlight"
+  },
+  {
+    "sentence": "Stealing someone ' s coffee is called ' mugging ' .",
+    "pun_word": "mugging"
+  },
+  {
+    "sentence": "A doctor drank while putting on patients ' casts . He was soon plastered .",
+    "pun_word": "plastered"
+  },
+  {
+    "sentence": "That ' s the third time my teacher changed my grade , Tom remarked .",
+    "pun_word": "remarked"
+  },
+  {
+    "sentence": "I am kicking myself I did not take up karate earlier .",
+    "pun_word": "kicking"
+  },
+  {
+    "sentence": "Why do archers shoot arrows ? Could it be they are trying to get a point across ?",
+    "pun_word": "point"
+  },
+  {
+    "sentence": "Oh what a tangled web we weave . On the Internet .",
+    "pun_word": "web"
+  },
+  {
+    "sentence": "OLD BUS DRIVERS never die , they just take a turn for the worse .",
+    "pun_word": "turn"
+  },
+  {
+    "sentence": "I gave in when my wife hounded me about getting a puppy .",
+    "pun_word": "hounded"
+  },
+  {
+    "sentence": "Being a fire - fighter ignited my interest heavily .",
+    "pun_word": "ignited"
+  },
+  { "sentence": "A boiled egg is hard to beat .", "pun_word": "beat" },
+  {
+    "sentence": "When Wally discovered he had Lyme disease he was really ticked off .",
+    "pun_word": "ticked"
+  },
+  {
+    "sentence": "Avogadro expected a large number to attend .",
+    "pun_word": "number"
+  },
+  {
+    "sentence": "During the meeting about earthquakes , there were several motions .",
+    "pun_word": "motions"
+  },
+  {
+    "sentence": "Those who make sinks often feel washed out .",
+    "pun_word": "washed"
+  },
+  { "sentence": "My name is Cookie , I ' m a baker .", "pun_word": "Cookie" },
+  {
+    "sentence": "OLD PROCTOLOGISTS never die , they just butt out .",
+    "pun_word": "butt"
+  },
+  {
+    "sentence": "He sat in the magician ' s audience dressed as a cactus . He was a plant .",
+    "pun_word": "plant"
+  },
+  {
+    "sentence": "OLD WASHING MACHINE OPERATORS never die , they just keep agitating .",
+    "pun_word": "agitating"
+  },
+  {
+    "sentence": "I didn ' t know which hammer to get , but I think I nailed it .",
+    "pun_word": "nailed"
+  },
+  { "sentence": "Love can be a touchy subject .", "pun_word": "touchy" },
+  {
+    "sentence": "It was the first time she ' d seen a live sponge on display , and she really soaked it in .",
+    "pun_word": "soaked"
+  },
+  {
+    "sentence": "A music store owner has to have sound business practices .",
+    "pun_word": "sound"
+  },
+  {
+    "sentence": "The first guy to mass produce candies made a mint .",
+    "pun_word": "mint"
+  },
+  {
+    "sentence": "Old presidents never die they just keep going through their cabinets .",
+    "pun_word": "cabinets"
+  },
+  {
+    "sentence": "When they claimed to house two thousand campers , it sounded like a lot of bunk .",
+    "pun_word": "bunk"
+  },
+  {
+    "sentence": "He ' d never gone hunting but decided to give it a shot .",
+    "pun_word": "shot"
+  },
+  { "sentence": "Volta was electrified .", "pun_word": "electrified" },
+  {
+    "sentence": "I ' m very picky about my hair , so a strange barber just won ' t cut it .",
+    "pun_word": "cut"
+  },
+  {
+    "sentence": "Some people go into martial arts just for kicks .",
+    "pun_word": "kicks"
+  },
+  {
+    "sentence": "A reporter was at an ice cream store getting the scoop .",
+    "pun_word": "scoop"
+  },
+  {
+    "sentence": "Sometimes our Outlook in Life is sent but not received .",
+    "pun_word": "Outlook"
+  },
+  {
+    "sentence": "Weather forecasters thinking is sometimes clouded .",
+    "pun_word": "clouded"
+  },
+  {
+    "sentence": "Did you hear about the farmer who got attacked by a cow ? He milked it for all it was worth .",
+    "pun_word": "milked"
+  },
+  {
+    "sentence": "OLD BOOKKEEPERS never die they just lose their figures .",
+    "pun_word": "figures"
+  },
+  {
+    "sentence": "Building a cul - de - sac would be a bit of a dead - end job .",
+    "pun_word": "dead"
+  },
+  {
+    "sentence": "They said he drank 2 bottles of whisky a day , but it wasn ' t true . He had to scotch those rumours right away .",
+    "pun_word": "scotch"
+  },
+  {
+    "sentence": "Teacher : In this box , I have a 10 - foot snake . Sammy : You can ' t fool me , Teacher . . . snakes don ' t have feet .",
+    "pun_word": "foot"
+  },
+  {
+    "sentence": "The rabbi became a professional golfer because he was good at making the cut .",
+    "pun_word": "cut"
+  },
+  {
+    "sentence": "Swimming instructors are always getting immersed in their work .",
+    "pun_word": "immersed"
+  },
+  { "sentence": "they stand best who kneel most", "pun_word": "stand" },
+  {
+    "sentence": "' ' It ' s an actual parameter , not a formal parameter , ' ' was Tom ' s argument .",
+    "pun_word": "argument"
+  },
+  {
+    "sentence": "For greeting card companies their fate is in the cards .",
+    "pun_word": "cards"
+  },
+  { "sentence": "A summer is a mathematician .", "pun_word": "summer" },
+  { "sentence": "My name is Mike . I ' m an announcer", "pun_word": "Mike" },
+  { "sentence": "A dry cleaners had a dozen suits in court .", "pun_word": "suits" },
+  { "sentence": "Violinists are often fiddling around .", "pun_word": "fiddling" },
+  {
+    "sentence": "So , how ' s the flower business going ? Oh , it ' s blossoming quite nicely .",
+    "pun_word": "blossoming"
+  },
+  {
+    "sentence": "Working for the IRS is a hard job because it is so taxing .",
+    "pun_word": "taxing"
+  },
+  {
+    "sentence": "A heavy drinker of hard liquor appears to be in high spirits .",
+    "pun_word": "spirits"
+  },
+  {
+    "sentence": "Real estate agents believe in doing good deeds .",
+    "pun_word": "deeds"
+  },
+  {
+    "sentence": "Securities are the cause of many people ' s insecurities .",
+    "pun_word": "Securities"
+  },
+  {
+    "sentence": "When the Dalmatian ran away , he was spotted two blocks from home .",
+    "pun_word": "spotted"
+  },
+  { "sentence": "My name is Rusty , I ' m an iron worker .", "pun_word": "Rusty" },
+  {
+    "sentence": "My student was late for class , claiming he was in the washroom . I think he was stalling .",
+    "pun_word": "stalling"
+  },
+  {
+    "sentence": "We should make a beer commercial . It sounds simply intoxicating .",
+    "pun_word": "intoxicating"
+  },
+  {
+    "sentence": "She was only a Insurance broker ' s daughter , but all the guys liked her policy .",
+    "pun_word": "policy"
+  },
+  {
+    "sentence": "She was only a Bookbinder ' s daughter , but she knew her way between the sheets .",
+    "pun_word": "sheets"
+  },
+  {
+    "sentence": "OLD ACTUARIES never die they just get broken down by age and sex .",
+    "pun_word": "broken"
+  },
+  { "sentence": "I love to eat eggs at the crack of dawn .", "pun_word": "crack" },
+  {
+    "sentence": "Did you hear about the tire dealer that had a blowout sale ?",
+    "pun_word": "blowout"
+  },
+  {
+    "sentence": "' ' This wind is awful , ' ' blustered Tom .",
+    "pun_word": "blustered"
+  },
+  {
+    "sentence": "My new theory on inertia doesn ' t seem to be gaining momentum .",
+    "pun_word": "momentum"
+  },
+  {
+    "sentence": "' ' I won ' t buy a circuit breaker , ' ' Tom refused .",
+    "pun_word": "refused"
+  },
+  {
+    "sentence": "A professor without a pointer may find that his lecture is pointless .",
+    "pun_word": "pointless"
+  },
+  {
+    "sentence": "This is where I keep my arrows , said Tom , quivering .",
+    "pun_word": "quivering"
+  },
+  {
+    "sentence": "He realized he ' d made the major leagues when it finally hit him .",
+    "pun_word": "hit"
+  },
+  {
+    "sentence": "Joe refused to eat sushi because it looks fishy .",
+    "pun_word": "fishy"
+  },
+  {
+    "sentence": "I know a rancher who has 100 head of cattle , but he thought there were only 99 until he rounded them up .",
+    "pun_word": "rounded"
+  },
+  {
+    "sentence": "Leonardo Da Vinci could use a paint brush to make a stroke of genius .",
+    "pun_word": "stroke"
+  },
+  {
+    "sentence": "A jelly truck and a biscuit truck collided yesterday - police are a trifle concerned .",
+    "pun_word": "trifle"
+  },
+  {
+    "sentence": "It seems like it ' s always Patsy ' s fault .",
+    "pun_word": "Patsy"
+  },
+  { "sentence": "Sure I can climb cliffs ! Tom bluffed .", "pun_word": "bluffed" },
+  {
+    "sentence": "Marriage is hard but divorce usually goes off without a hitch .",
+    "pun_word": "hitch"
+  },
+  {
+    "sentence": "Those who want to paint polka - dots have to find a good spot .",
+    "pun_word": "spot"
+  },
+  {
+    "sentence": "Why are all businessmen fat ? Must be all the inflation .",
+    "pun_word": "inflation"
+  },
+  {
+    "sentence": "Iron was discovered because someone smelt it .",
+    "pun_word": "smelt"
+  },
+  {
+    "sentence": "He was trying to sell me new windows , but his motivations were transparent .",
+    "pun_word": "transparent"
+  },
+  {
+    "sentence": "OLD ELECTRICIANS never die , they just lose their resistance .",
+    "pun_word": "resistance"
+  },
+  {
+    "sentence": "A small boy went to the counter to pay for his lunch but he was a little short .",
+    "pun_word": "short"
+  },
+  {
+    "sentence": "It ' s OK to watch an elephant bathe as they usually have their trunks on .",
+    "pun_word": "trunks"
+  },
+  {
+    "sentence": "My name is Dusty , I run a cleaning service .",
+    "pun_word": "Dusty"
+  },
+  {
+    "sentence": "If you jump to conclusions , you make terrible landings .",
+    "pun_word": "jump"
+  },
+  { "sentence": "If a clock had legs , time would run out .", "pun_word": "run" },
+  {
+    "sentence": "He always called his girlfriend his ' luck ' . Until he decided to push his luck .",
+    "pun_word": "push"
+  },
+  {
+    "sentence": "The All - Pro wide receiver ' s wedding was a little bit shaky , but his reception was excellent .",
+    "pun_word": "reception"
+  },
+  { "sentence": "Audubon said he ' d have to wing it .", "pun_word": "wing" },
+  {
+    "sentence": "OLD SCULPTORS never die they just lose their marbles .",
+    "pun_word": "marbles"
+  },
+  {
+    "sentence": "His day job was astronomy but at night time he was moonlighting .",
+    "pun_word": "moonlighting"
+  },
+  { "sentence": "My name is Cliff . I ' m a mountaineer .", "pun_word": "Cliff" },
+  {
+    "sentence": "A church welcomed all denominations but preferred tens and twenties .",
+    "pun_word": "denominations"
+  },
+  {
+    "sentence": "If you give some managers an inch they think they ' re a ruler .",
+    "pun_word": "ruler"
+  },
+  {
+    "sentence": "OLD WRITERS never die , they just get erased .",
+    "pun_word": "erased"
+  },
+  {
+    "sentence": "OLD FORESTERS never die , they just pine away .",
+    "pun_word": "pine"
+  },
+  {
+    "sentence": "Whenever the nurses have a bad day they just keep needling people .",
+    "pun_word": "needling"
+  },
+  { "sentence": "He became a sky diver out of the blue .", "pun_word": "blue" },
+  {
+    "sentence": "My friend lives by a cliff he ' s always telling me to drop over .",
+    "pun_word": "drop"
+  },
+  {
+    "sentence": "He hates his job selling used cars , but it ' s just his lot in life .",
+    "pun_word": "lot"
+  },
+  { "sentence": "A racehorse ' s life is always on track .", "pun_word": "track" },
+  {
+    "sentence": "I couldn ' t decide whether or not to make spiced apple cider , so I mulled it over .",
+    "pun_word": "mulled"
+  },
+  {
+    "sentence": "I can ' t recall the last time I did any running , but I ' ve been jogging my memory .",
+    "pun_word": "jogging"
+  },
+  {
+    "sentence": "People in medieval days were always hanging out by the gallows .",
+    "pun_word": "hanging"
+  },
+  {
+    "sentence": "The failure of the third largest manufacturer of baby ' s toys was enough to rattle the entire industry .",
+    "pun_word": "rattle"
+  },
+  {
+    "sentence": "Neil Simon ' s only unsuccessful play : Chapter 11 .",
+    "pun_word": "play"
+  },
+  {
+    "sentence": "The Transformer always had a lot of quarters with him . He was a big fan of change .",
+    "pun_word": "change"
+  },
+  {
+    "sentence": "A butcher was trying so hard to be funny , but he just wasn ' t making the cut .",
+    "pun_word": "cut"
+  },
+  {
+    "sentence": "OLD CASHIERS never die they just check out .",
+    "pun_word": "check"
+  },
+  {
+    "sentence": "At seven foot six he was a great basketball player and everyone looked up to him .",
+    "pun_word": "looked"
+  },
+  {
+    "sentence": "Bowling Alley : Please be quiet . We need to hear a pin drop .",
+    "pun_word": "pin"
+  },
+  {
+    "sentence": "The weigh - in at the Sumo wrestling tournament was a large scale effort .",
+    "pun_word": "scale"
+  },
+  {
+    "sentence": "The forecaster was away because he was under the weather .",
+    "pun_word": "weather"
+  },
+  {
+    "sentence": "A train load of paint derailed . Nearby businesses were put in the red .",
+    "pun_word": "red"
+  },
+  {
+    "sentence": "It was a lucky car . Until he had to push his luck .",
+    "pun_word": "push"
+  },
+  {
+    "sentence": "An elephant ' s opinion carries a lot of weight .",
+    "pun_word": "weight"
+  },
+  {
+    "sentence": "Sign on a music store window : ' Come in and pick out a drum - - then beat it ! '",
+    "pun_word": "beat"
+  },
+  {
+    "sentence": "My daughter ' s studying natural medicine and I ' m rooting for her .",
+    "pun_word": "rooting"
+  },
+  {
+    "sentence": "I went to the theatre , it looked a bit suspicious . I reckon the whole thing was staged .",
+    "pun_word": "staged"
+  },
+  {
+    "sentence": "He put bug spray on his watch to get rid of the ticks .",
+    "pun_word": "ticks"
+  },
+  {
+    "sentence": "The movie about the mobile home was advertised with a trailer .",
+    "pun_word": "trailer"
+  },
+  {
+    "sentence": "Officer Jones takes his yearly bath every June . He is a characteristic example of a dirty cop .",
+    "pun_word": "dirty"
+  },
+  {
+    "sentence": "Life\u2019s a ledger , are we giving a good accounting of ourselves",
+    "pun_word": "accounting"
+  },
+  {
+    "sentence": "Employers like their mechanics to be geared up .",
+    "pun_word": "geared"
+  },
+  {
+    "sentence": "Home improvement . Take your family to church .",
+    "pun_word": "Home"
+  },
+  { "sentence": "OLD GUNS never die they just get loaded .", "pun_word": "loaded" },
+  { "sentence": "Marconi was not wired up about going .", "pun_word": "wired" },
+  {
+    "sentence": "Two duchesses were arguing about their husbands . They decided to duke it out .",
+    "pun_word": "duke"
+  },
+  { "sentence": "Pick your friends , but not to pieces", "pun_word": "Pick" },
+  {
+    "sentence": "OLD SOCCER PLAYERS never die , they just go on dribbling .",
+    "pun_word": "dribbling"
+  },
+  {
+    "sentence": "After he carried a gun in his car the engine was soon shot .",
+    "pun_word": "shot"
+  },
+  {
+    "sentence": "OLD PROFESSORS never die , they just lose their class .",
+    "pun_word": "class"
+  },
+  { "sentence": "I can ' t really see myself without eyes .", "pun_word": "see" },
+  {
+    "sentence": "The inventor of the fahrenheit scale solved the problem by degrees .",
+    "pun_word": "degrees"
+  },
+  {
+    "sentence": "If you don ' t know how to choose music ask a guitarist - they know how to pick .",
+    "pun_word": "pick"
+  },
+  {
+    "sentence": "I bought a metronome for 20 bucks . You can ' t beat that price .",
+    "pun_word": "beat"
+  },
+  {
+    "sentence": "My comb is invaluable - I can ' t part with it .",
+    "pun_word": "part"
+  },
+  {
+    "sentence": "A city worker who campaigned for new sewer pipes finally had to go underground .",
+    "pun_word": "underground"
+  },
+  {
+    "sentence": "She told a long story about a coil of rope , and then left us all hanging .",
+    "pun_word": "hanging"
+  },
+  {
+    "sentence": "When the tornado went through town it was quite a blow .",
+    "pun_word": "blow"
+  },
+  {
+    "sentence": "The correct formula for concrete is worthwhile to cement in your mind .",
+    "pun_word": "cement"
+  },
+  { "sentence": "Henry perfected the Ford down to a T .", "pun_word": "T" },
+  {
+    "sentence": "Those who choose not to eat , slowly get hungry - - and Fast .",
+    "pun_word": "Fast"
+  },
+  {
+    "sentence": "The guitarist passed out on stage , he must have rocked himself to sleep .",
+    "pun_word": "rocked"
+  },
+  {
+    "sentence": "OLD HOCKEY PLAYERS never die , they just achieve their final goal .",
+    "pun_word": "goal"
+  },
+  {
+    "sentence": "The two inventors of the radio were on the same wavelength .",
+    "pun_word": "wavelength"
+  },
+  {
+    "sentence": "For the orthodontist visit , the boy had to brace himself .",
+    "pun_word": "brace"
+  },
+  { "sentence": "Decimals have a point .", "pun_word": "point" },
+  {
+    "sentence": "Police can do a search if it ' s Warranted .",
+    "pun_word": "Warranted"
+  },
+  {
+    "sentence": "Archimedes set out to invent a water pump and screwed it up .",
+    "pun_word": "screwed"
+  },
+  {
+    "sentence": "OLD SOCCER PLAYERS never die , they just achieve their final goal .",
+    "pun_word": "goal"
+  },
+  {
+    "sentence": "There was a sale at the fish market today . I went to see what was the catch .",
+    "pun_word": "catch"
+  },
+  {
+    "sentence": "You often hear of a good wine through the grapevine .",
+    "pun_word": "grapevine"
+  },
+  {
+    "sentence": "My name is Ira . I ' m an investment advisor .",
+    "pun_word": "Ira"
+  },
+  {
+    "sentence": "He was selling palm trees , but people thought it was a shady deal .",
+    "pun_word": "shady"
+  },
+  {
+    "sentence": "Why don ' t people like to talk to garbage men ? They mostly talk trash .",
+    "pun_word": "trash"
+  },
+  { "sentence": "I usually take steps to avoid elevators .", "pun_word": "steps" },
+  { "sentence": "My name is Iris . I ' m an optometrist", "pun_word": "Iris" },
+  {
+    "sentence": "Workers in an upholstery business demanded a wage hike to cushion the high cost of living .",
+    "pun_word": "cushion"
+  },
+  {
+    "sentence": "My name is Nick . I was a barber but I ' m looking for a new job .",
+    "pun_word": "Nick"
+  },
+  {
+    "sentence": "The guy who sold his carnival got a Fair deal .",
+    "pun_word": "Fair"
+  },
+  {
+    "sentence": "When the human cannonball was late for work he got fired .",
+    "pun_word": "fired"
+  },
+  {
+    "sentence": "OLD PAINTERS never die they just get plastered .",
+    "pun_word": "plastered"
+  },
+  {
+    "sentence": "My name is Carol . I sing during the holidays .",
+    "pun_word": "Carol"
+  },
+  {
+    "sentence": "Always trust a glue salesman . They tend to stick to their word .",
+    "pun_word": "stick"
+  },
+  { "sentence": "Archimedes was buoyant at the thought .", "pun_word": "buoyant" },
+  {
+    "sentence": "Two airline pilots in a stand - up comedy did a takeoff .",
+    "pun_word": "takeoff"
+  },
+  {
+    "sentence": "A friend told me he dug a hole in my backyard and filled it with water . I thought he meant well .",
+    "pun_word": "well"
+  },
+  { "sentence": "My name is Teddy , I ' m in lingerie", "pun_word": "Teddy" },
+  { "sentence": "Gardeners like to spring into action .", "pun_word": "spring" },
+  { "sentence": "Acrobats are always doing good turns .", "pun_word": "turns" },
+  {
+    "sentence": "' ' I invested in a hi - tech startup , ' ' Tom ventured .",
+    "pun_word": "ventured"
+  },
+  {
+    "sentence": "Patients usually feel better after receiving hand transplants .",
+    "pun_word": "feel"
+  },
+  { "sentence": "Derringer had one shot at fame .", "pun_word": "shot" },
+  {
+    "sentence": "If you don ' t pay your exorcist you get repossessed .",
+    "pun_word": "repossessed"
+  },
+  {
+    "sentence": "Those who like sport fishing can really get hooked .",
+    "pun_word": "hooked"
+  },
+  {
+    "sentence": "If you have to pay to go to the river , we ' d better stop at the bank .",
+    "pun_word": "bank"
+  },
+  {
+    "sentence": "You have to give credit to people who work in stores during a holiday - and many people do .",
+    "pun_word": "credit"
+  },
+  {
+    "sentence": "Becoming a yoga instructor offers the possibilities of a unique teaching position .",
+    "pun_word": "position"
+  },
+  {
+    "sentence": "Humpty Dumpty had a great fall - and a pretty good spring and summer , too .",
+    "pun_word": "fall"
+  },
+  {
+    "sentence": "The place that made rubber balls almost went bankrupt , but they bounced back .",
+    "pun_word": "bounced"
+  },
+  {
+    "sentence": "The surest steps to happiness are the steps to church .",
+    "pun_word": "steps"
+  },
+  {
+    "sentence": "Soon after he joined the band , the guitarist was instrumental .",
+    "pun_word": "instrumental"
+  },
+  {
+    "sentence": "OLD GEOGRAPHERS never die , they just become legends .",
+    "pun_word": "legends"
+  },
+  {
+    "sentence": "Are giraffes good pets or are they too high maintenance ?",
+    "pun_word": "high"
+  },
+  {
+    "sentence": "The man who worked in the gum factory fell in a vat of bubblegum . His boss had to chew him out .",
+    "pun_word": "chew"
+  },
+  {
+    "sentence": "She was only a Watchman ' s daughter , but any time suited her .",
+    "pun_word": "time"
+  },
+  {
+    "sentence": "Weather forecasters have to have lots of degrees .",
+    "pun_word": "degrees"
+  },
+  {
+    "sentence": "OLD SANITATION MEN never die , they just waste away",
+    "pun_word": "waste"
+  },
+  {
+    "sentence": "To become an electrician you have to pass a battery of tests .",
+    "pun_word": "battery"
+  },
+  {
+    "sentence": "OLD MUSICIANS never die they just get played out .",
+    "pun_word": "played"
+  },
+  {
+    "sentence": "If you burn the candle on both ends , you\u2019re not as bright as you think .",
+    "pun_word": "bright"
+  },
+  {
+    "sentence": "A student limped into class with a lame excuse .",
+    "pun_word": "lame"
+  }
+]

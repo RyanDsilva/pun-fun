@@ -14,4 +14,6 @@ def identify_source(sentence):
     if pred['entity'] == 'LABEL_1':
       res.append(pred['word'][1:])
   print(' '.join(res))
-  return res[0]
+  if len(res) >= 1:
+    return res[0]
+  return None
