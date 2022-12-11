@@ -13,10 +13,16 @@ from source_identification.inference import identify_source
 from find_related_pun.classes import *
 from find_related_pun import inference
 
+from fastapi import FastAPI, Request
+import uvicorn
+import json
+
+server = FastAPI()
+
 pp = pprint.PrettyPrinter(indent=2)
 
 
-def run(word, index):
+def run(word, index = 0):
     result, _ = inference.find_top_n_puns(word, 5)
     pp.pprint(result)
     sentence = result[index]
@@ -94,6 +100,23 @@ def run(word, index):
                 "NA",
             )
 
+@server.post("/get_pun")
+async def getPun(data : Request):
+    req_body = await data.json()
+    pun, src, src_def, tgt, tgt_def, sense_sim, sound_sim = run(req_body['word'], req_body['index'])
+    return {
+        "status" : "SUCCESS",
+        "result" : {
+            "pun": pun,
+            "src": src,
+            "src_def": src_def,
+            "tgt": tgt,
+            "tgt_def": tgt_def,
+            "sense": sense_sim,
+            "sound": sound_sim,
+        }
+    }
+
 if __name__ == "__main__":
     setup()
     app = gr.Interface(
@@ -111,5 +134,6 @@ if __name__ == "__main__":
             gr.Textbox(label="Sound Similarity Distance"),
         ],
     )
-    app.launch()
-    # run()
+    # app.launch()
+    uvicorn.run(server, port=3333)
+    # print(run('politics', 1))

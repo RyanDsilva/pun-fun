@@ -22,8 +22,11 @@ def find_similar_sounding_words(source):
   cand_list = []
   stress_diff = 1
   for w, a in arpabet.items():
+    # print('arpa')
     d, s1, s2 = gss(source, w)
+    # print(d, d_cos, w)
     if d < threshold and abs(s1-s2) < stress_diff and source != w:
+      # print(d, d_cos, w)
       cand_list.append(w)
   if cand_list is None:
     cand_list.append(source)

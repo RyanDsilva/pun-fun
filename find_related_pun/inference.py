@@ -7,7 +7,7 @@ from find_pun import *
 PROJECT_ROOT = Path().parent.absolute()
 EMBEDDINGS_DIR = os.path.join(PROJECT_ROOT, 'embeddings')
 
-SENT_EMBEDDING = 'semeval-sent-vectors.pkl'
+SENT_EMBEDDING = 'semeval-sent-vectors-hetero.pkl'
 
 pkl_file = open(os.path.join(EMBEDDINGS_DIR, SENT_EMBEDDING), 'rb')
 puns = pickle.load(pkl_file)

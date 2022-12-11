@@ -1,4 +1,3 @@
-import numpy as np
 from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline
 
 MODEL = 'models'

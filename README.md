@@ -1,4 +1,4 @@
-# CNIT 519 Project
+# CNIT 519 Project 1,2,3
 
 ### Setup
 
@@ -20,7 +20,8 @@ pipenv install
 4. Run project
 
 ```sh
-python3 main.py
+python3 main.py # for project 3
+python3 main-project2.py # for project 2
 ```
 
 > If you change any code in the submodules, you need to run `pipenv install` for the changes to reflect
